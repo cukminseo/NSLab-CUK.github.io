@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  AI4Ultrasound 2022 Summer
-date:   2022-06-08 09:26:28 -0400
+date:   2022-06-07 09:26:28 -0400
 image:  busan.jpg
 tags:   Workshop
 published: true
