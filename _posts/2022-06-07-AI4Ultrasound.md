@@ -7,21 +7,21 @@ tags:   Workshop
 published: true
 ---
 
-> The 1st Semi-Annual PKNU-CUK Joint Workshop on AI for Ultrasound (AI4Ultrasound 2022 Summer)
+> The 1st Semi-Annual PKNU-CUK Joint Workshop on Artificial Intelligence for Ultrasound (AI4Ultrasound 2022 Summer)
 
 ***
 
 Aims and Scope
 ------------
 
-* TBA
+The 1st semi-annual PKNU-CUK joint workshop on artificial intelligence for ultrasound (AI4Ultrasound 2022 Summer) will be held in Busan, Rep. of Korea, by Biomedical Ultrasound Lab, Pukyong National University and Network Science Lab, the Catholic University of Korea. AI4Ultrasound focuses on sharing ideas to apply artificial intelligence methodologies and models to biomedical ultrasound studies. Also, this workshop series is pursuing to extend collaborations between the two labs and between the two universities.
 
 ***
 
 Tentative Schedule
 ------------
 
-* TBA
+* Workshop Date: Aug 17th -- 18th, 2022
 
 ***
 
