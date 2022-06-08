@@ -4,6 +4,7 @@ title:  AI4Ultrasound 2022 Summer
 date:   2022-06-08 09:26:28 -0400
 image:  busan.jpg
 tags:   Workshop
+published: true
 ---
 
 > The 1st Semi-Annual PKNU-CUK Joint Workshop on AI for Ultrasound (AI4Ultrasound 2022 Summer)
