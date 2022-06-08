@@ -25,7 +25,7 @@ Tentative Schedule
 
 ***
 
-<p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" width="120" padding="10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" width="120" padding="10px"></a></p>
+<p align="center"><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" width="120" margin="10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" width="120" margin="10px"></a></p>
 
 ***
 
