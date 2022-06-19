@@ -170,7 +170,7 @@ toc_label: "Table of Contents"
 
 ***
 
-* O-Joun Lee: Spatio-Temporal Forecasting Models for Renewable Energy, [The 1st International Conference on Intelligence of Things (ICIT 2022)](https://icit2022.humg.edu.vn/), Hanoi, Vietnam, 08/2022
+* O-Joun Lee: Spatio-Temporal Forecasting Models for Renewable Energy. [The 1st International Conference on Intelligence of Things (ICIT 2022)](https://icit2022.humg.edu.vn/), Hanoi, Vietnam, 08/2022
 
 * O-Joun Lee: The 2022 Summer Workshop of Korean Institute of Next Generation Computing, Pyeongchang, Korea, 07/2022
 
