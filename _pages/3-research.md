@@ -23,7 +23,7 @@ toc_label: "Table of Contents"
 ***
 ## Bibliographic Network Embedding
 
-\\<!--
+<!--
 * Namgyu Jung, Chang Choi, O-Joun Lee: Curriculum-Guided Self-Supervised Representation Learning of Dynamic Heterogeneous Networks. Information Sciences. <br>[![Status](https://img.shields.io/badge/Status-Under%20Review-lightgrey?style=flat-square)](https://www.journals.elsevier.com/information-sciences) [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/jng6017/DHG-BERT)
 -->
 
@@ -87,7 +87,9 @@ toc_label: "Table of Contents"
   <em>Inflicting high-frequency ultrasonic wave on invasive/non-invasive breast cancer cells.</em>
 </p>
 
+<!--
 * Hyeon-Ju Jeon, Hae Gyun Lim, K. Kirk Shung, O-Joun Lee†, Min Gon Kim†: Automated cell-type classification combining dilated convolutional neural networks with label-free acoustic sensing. Scientific Reports. (†: Co-correspondence) <br>[![Status](https://img.shields.io/badge/Status-Under%20Review-lightgrey?style=flat-square)](https://www.nature.com/srep/) 
+-->
 
 * O-Joun Lee, Hae Gyun Lim, K. Kirk Shung, Jin-Taek Kim, Hyung Ham Kim: Automated Estimation of Cancer Cell Deformability with Machine Learning and Acoustic Trapping. Scientific Reports 04/2022; 12: 6891. <br>[![DOI](http://img.shields.io/:DOI-10.1038/s41598--022--10882--w-blue?style=flat-square)](https://doi.org/10.1038/s41598-022-10882-w)
 
