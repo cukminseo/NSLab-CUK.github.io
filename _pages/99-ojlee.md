@@ -158,26 +158,17 @@ Conference Proceedings
 
 Patents
 ============
+
 * Jason J. Jung, O-Joun Lee: Method and apparatus for content analysis including story. Ref. No: KR 1020180058510, Year: 05/2018
-
 * Jason J. Jung, Jaehong Park, O-Joun Lee, Min-Sung Hong: Server and Method for providing search results using SNS date, Recording medium for performing the method. Ref. No: KR 1020170165067, Year: 12/2017
-
 * Jason J. Jung, Min-Sung Hong, O-Joun Lee: Apparatus and Method for recommending item to user group using emotion information. Ref. No: KR 1020170042015, Year: 03/2017
-
 * Jason J. Jung, Min-Sung Hong, O-Joun Lee: Apparatus and Method for recommending item for user group. Ref. No: KR 1020170033241, Year: 03/2017
-
 * Jason J. Jung, O-Joun Lee: Method and Apparatus for matching identification information of plurality of SNS. Ref. No: KR 1020150128425, Year: 09/2015
-
 * Jason J. Jung, O-Joun Lee: Event processing system, Event processing method and Computer program. Ref. No: KR 1020150099077, Year: 07/2015
-
 * Hyun-Sik Kim, Seung-Bo Park, Eun-Soon You, O-Joun Lee, Byung Joon Cho: APPARATUS AND METHOD FOR SUPPORTING WRITER BY TRACING CONVERSATION BASED ON TEXT ANALYSIS. Ref. No: KR 1020150057199, Year: 04/2015
-
 * O-Joun Lee, Eun-Soon You, Byung Joon Cho: APPARATUS AND METHOD FOR PREDICTIVE CLUSTERING-BASED COLLABORATIVE FILTERING. Ref. No: KR 1020150042144, Year: 03/2015
-
 * Jae-Dong Lee, Seung-Hun Kim, Min-Sung Hong, Kee-Won Kim, O-Joun Lee, Won-Jin Lee: APPARATUS FOR ANALYZING CONTENTS AND METHOD THEREOF. Ref. No: KR 1020140093024, Year: 07/2014
-
 * O-Joun Lee, Jae-Dong Lee, Won-Jin Lee, Seung-Bo Park, Min-Sung Hong, Gyu-Chan Lim: APPARATUS AND METHOD FOR HYBRID FILTERING CONTENT RECOMMENDATION USING USER PROFILE AND CONTEXT INFORMATION BASED ON PREFERENCE. Ref. No: KR 1020140027866, Year: 03/2014
-
 * O-Joun Lee, Jae-Dong Lee, Seung-Hun Kim, Won-Jin Lee, Seung-Bo Park, Min-Sung Hong, Se-Jun Park: APPARATUS AND METHOD FOR PREDICTING USER FEED BACK IN COLLABORATIVE RECOMMENDATION SYSTEM. Ref. No: KR 1020140027865, Year: 03/2014
 
 ***
@@ -187,34 +178,27 @@ Academic Activities
 
 Editorship
 ------------
+
 * Guest Editor, Sensors, Special Issue on "[Machine Learning and AI for Medical Data Analysis](https://www.mdpi.com/journal/sensors/special_issues/mdata_analysis)."
-
 * Corresponding Guest Editor, Concurrency and Computation: Practice and Experience (CCPE), Special Issue on "[Multimedia Content Analysis for Explainable Recommendation and Retrieval (RACS 2020)](http://www.cc-pe.net/journalinfo/issues/2020.html#RACS2020)."
-
 * Corresponding Guest Editor, Sustainability, Special Issue on "[Human-Centric Urban Services](https://www.mdpi.com/journal/sustainability/special_issues/human_centric_urban_sus)."
 
 Conference Committee
 ------------
+
 * Committee Member, The 3rd International Conference on Human-centered Artificial Intelligence (Computing4Human 2022), Hanoi, Vietnam, 12/2022.
-
 * Committee Member, The 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Danang, Vietnam, 10/2021.
-
 * Program Committee Member, Artificial Inteligence for Narratives Workshop (AI4Narrative) held in conjunction with the 29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence (IJCAI-PRICAI 2020), 07/2020.
-
 * Committee Member, The 1st International Workshop on Computational Humanities and Social Sciences (Computing4Human 2020), Pohang, Korea, 02/2020.
-
 * Member of Track Committee, The SFECS track at the 35th ACM/SIGAPP Symposium On Applied Computing (ACM SAC 2020), Brno, Czech Republic, 03/2020.
-
 * Committee Member, The 9th International Conference on Web Intelligence, Mining and Semantics (WIMS 2019), Seoul, Korea, 06/2019.
-
 * Member of Technical Program Committee, The 8th EAI International Conference on Big Data Technologies and Applications (BDTA 2017), Gwangju, Korea, 11/2017.
-
 * Committee Member, The 13th International Conference on Intelligent Environments (IE 2017), Seoul, Korea, 08/2017.
-
 * Workshop Chair, The 1st International Workshop on Digital Humanity with Big Data (DiHuBiDa 2016), affiliated with the 7th EAI International Conference on Big Data Technologies and Applications (BDTA 2016), Seoul, Korea, 11/2016.
 
 Peer Review
 ------------
+
 * Reviewer, Computers, since Sep 2020
 * Reviewer, Complexity, since Aug 2020
 * Reviewer, Technology in Society, since Aug 2020
