@@ -23,7 +23,9 @@ toc_label: "Table of Contents"
 ***
 ## Bibliographic Network Embedding
 
+\\<!--
 * Namgyu Jung, Chang Choi, O-Joun Lee: Curriculum-Guided Self-Supervised Representation Learning of Dynamic Heterogeneous Networks. Information Sciences. <br>[![Status](https://img.shields.io/badge/Status-Under%20Review-lightgrey?style=flat-square)](https://www.journals.elsevier.com/information-sciences) [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/jng6017/DHG-BERT)
+-->
 
 * O-Joun Lee, Hyeon-Ju Jeon, Jason J. Jung: Learning Multi-Resolution Representations of Research Patterns in Bibliographic Networks. Journal of Informetrics 02/2021; 15(1): 101126. <br>[![DOI](http://img.shields.io/:DOI-10.1016/j.joi.2020.101126-blue?style=flat-square)](https://doi.org/10.1016/j.joi.2020.101126) [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/higd963/Multi-resolution-Network-Embedding)
 
