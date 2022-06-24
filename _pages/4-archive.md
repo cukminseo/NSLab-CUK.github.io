@@ -32,6 +32,14 @@ image:
 ### H1 2022
 
 ***
+##### Jun 24th, 2022
+{:.no_toc}
+
+* Our undergraduate research assistants presented two papers at the 2022 Conference of Korea Institute of Smart Media (KISM) and won the best paper award. 
+
+<p align="center"><img width="600" height="600" src="/images/KISM2022.jpg" margin="10px"></p>
+
+***
 ##### Jun 1st, 2022
 {:.no_toc}
 
