@@ -74,7 +74,7 @@ toc_label: "Table of Contents"
 
 * Ji-Yoon Song, Se-Eun Cho, Joo-Ho Lee, Yeong-Min Kim, Hye-Bin Ahn, O-Joun Lee: Context-aware Cross-domain Recommendation System for Retail Kiosk. The 2022 Conference of Korea Institute of Smart Media (KISM), Daejeon, Korea; 06/2022 (in Korean)
 
-* Won-Sik Oh, Se-Eun Cho, Ji-yoon Song, Hye-Bin Ahn, O-Joun Lee: News Article Recommendation and Curation System based on Document Embedding and Keyword Extraction. The 2022 Conference of Korea Institute of Smart Media (KISM), Daejeon, Korea; 06/2022 (in Korean)
+* Won-Sik Oh, Se-Eun Cho, Ji-Yoon Song, Hye-Bin Ahn, O-Joun Lee: News Article Recommendation and Curation System based on Document Embedding and Keyword Extraction. The 2022 Conference of Korea Institute of Smart Media (KISM), Daejeon, Korea; 06/2022 (in Korean)
 
 * Nam D Vo, O-Joun Lee, Khac-Hoai Nam Bui, Hae Gyun Lim, Hyeon-Ju Jeon, Phuong-Mai Nguyen, Jin-Taek Kim, Bui Quang Tuyen, Jason J Jung, Thuy Anh Vo: Computing4Human 2021: The 2nd International Conference on Human-centered Artificial Intelligence. The 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Da Nang, Vietnam; 10/2021 (Editorial)
 
