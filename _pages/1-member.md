@@ -29,78 +29,78 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 # Researchers
 ***
 
-###### Thuy Hoang Van
+###### Thuy Hoang Van (Sep 2022 -- Present)
 * Sep 2022 (Expected) -- Present: Ph.D. Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
 
-###### Sang Nguyen Thanh
+###### Sang Nguyen Thanh (Sep 2022 -- Present)
 * Sep 2022 (Expected) -- Present: MS/Ph.D. Combined Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
 
-###### Vinh Phuc Bui
+###### Vinh Phuc Bui (Sep 2022 -- Present)
 * Sep 2022 (Expected) -- Present: MS/Ph.D. Combined Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
 
 ***
 # Undergraduate Research Assistants
 ***
 
-###### [Jiyoon Song](https://nslab-cuk.github.io/member/jysong) (Lab Representative)
+###### [Jiyoon Song](https://nslab-cuk.github.io/member/jysong) (Dec 2021 -- Present; **Lab Representative**)
 
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/jysong.jpg"/></td>  
 		<td><ul>
-			<li>Dec 2021 -- Present: Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
+			<li>Mar 2021 -- Present: Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: Medical Knowledge Graph</li>
 			<li><a href="https://github.com/sara4423"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 		</ul></td>
 	</tr>
 </table>
 
-###### [Jooho Lee](https://nslab-cuk.github.io/member/jhlee) 
+###### [Jooho Lee](https://nslab-cuk.github.io/member/jhlee) (Nov 2021 -- Present)
 
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/jhlee.jpg"/></td>  
 		<td><ul>
-			<li>Nov 2021 -- Present: School of Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea</li>		
+			<li>Mar 2020 -- Present: School of Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: Network Representation Learning</li>
 			<li><a href="https://github.com/BWAAEEEK"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 		</ul></td>
 	</tr>
 </table>
 
-###### [Hyebin Ahn](https://nslab-cuk.github.io/member/hbahn) 
+###### [Hyebin Ahn](https://nslab-cuk.github.io/member/hbahn) (Dec 2021 -- Present)
 
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/hbahn.png"/></td>  
 		<td><ul>
-			<li>Dec 2021 -- Present: Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
+			<li>Mar 2021 -- Present: Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: Multi-modal Representation Learning</li>
 			<li><a href="https://github.com/hyebing"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 		</ul></td>
 	</tr>
 </table>
 
-###### [Se Eun Cho](https://nslab-cuk.github.io/member/secho) 
+###### [Se Eun Cho](https://nslab-cuk.github.io/member/secho) (Jan 2022 -- Present)
 
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/secho.jpg"/></td>  
 		<td><ul>
-			<li>Jan 2022 -- Present: Dept. of Economics, The Catholic University of Korea, Bucheon, Korea</li>		
+			<li>Mar 2021 -- Present: Dept. of Economics, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: Knowledge Graph Embedding</li>
 			<li><a href="https://github.com/seny1004"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 		</ul></td>
 	</tr>
 </table>
 
-###### [Yeongmin Kim](https://nslab-cuk.github.io/member/ymkim) 
+###### [Yeongmin Kim](https://nslab-cuk.github.io/member/ymkim) (Apr 2022 -- Present)
 
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/ymkim.jpg"/></td>  
 		<td><ul>
-			<li>Apr 2022 -- Present: School of Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea</li>		
+			<li>Mar 2021 -- Present: School of Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: Multi-modal Representation Learning</li>
 		</ul></td>
 	</tr>
