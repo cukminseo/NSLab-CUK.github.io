@@ -33,5 +33,5 @@ Participant
 
 Korea Conference
 ------------
-* Ji-Yoon Song, **Se-Eun Cho**, Joo-Ho Lee, Yeong-Min Kim, Hye-Bin Ahn, O-Joon Lee, Context-aware Cross-domain Recommendation System for Retail Kiosk, Korean Institute of Smart Media(KISM)/Conference of KISM/2022
-* Won-Sik Oh, **Se-Eun Cho**, Ji-Yoon Song, Hye-Bin Ahn, O-Joon Lee, News Article Recommendation and Curation System based on Document Embedding and Keyword Extraction, Korean Institute of Smart Media(KISM)/Conference of KISM/2022
+* Ji-Yoon Song, **Se-Eun Cho**, Joo-Ho Lee, Yeong-Min Kim, Hye-Bin Ahn, O-Joon Lee, **"Context-aware Cross-domain Recommendation System for Retail Kiosk"**, Korean Institute of Smart Media(KISM)/Conference of KISM/2022
+* Won-Sik Oh, **Se-Eun Cho**, Ji-Yoon Song, Hye-Bin Ahn, O-Joon Lee, **"News Article Recommendation and Curation System based on Document Embedding and Keyword Extraction"**, Korean Institute of Smart Media(KISM)/Conference of KISM/2022
