@@ -29,5 +29,9 @@ Participant
 
 * Industry-Academic Cooperation Project, "**Chatbot-based Kiosk Interface and Menu Recommendation System**," [Order Queen Co., Ltd.](http://www.orderqueen.co.kr/), Feb 2022 -- Apr 2022
 	* TBA
+============
 
-
+Korea Conference
+------------
+* Ji-Yoon Song, **Se-Eun Cho**, Joo-Ho Lee, Yeong-Min Kim, Hye-Bin Ahn, O-Joon Lee, Context-aware Cross-domain Recommendation System for Retail Kiosk, Korean Institute of Smart Media(KISM)/2022 Conference of KISM
+* Won-Sik Oh, **Se-Eun Cho**, Ji-Yoon Song, Hye-Bin Ahn, O-Joon Lee, News Article Recommendation and Curation System based on Document Embedding and Keyword Extraction, Korean Institute of Smart Media(KISM)/2002 Conference of KISM
