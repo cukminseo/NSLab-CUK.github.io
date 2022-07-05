@@ -94,17 +94,6 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 	</tr>
 </table>
 
-###### [Yeongmin Kim](https://nslab-cuk.github.io/member/ymkim) (Apr 2022 -- Present)
-
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/ymkim.jpg"/></td>  
-		<td><ul>
-			<li>Mar 2021 -- Present: School of Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea</li>		
-			<li>Research Interest: Multi-modal Representation Learning</li>
-		</ul></td>
-	</tr>
-</table>
 
 ***
 # Alumni
