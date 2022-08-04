@@ -21,14 +21,6 @@ image:
 <p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" style="width : 120px; margin : 10px"></a></p>
 
 ***
-##### Aug 17th -- 18th, 2022
-{:.no_toc}
-
-* [AI4Ultrasound 2022 Summer](https://nslab-cuk.github.io/2022/06/07/AI4Ultrasound/) will be held at Busan, Rep. of Korea.
-
-<p align="center"><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" style="width : 120px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 120px; margin : 10px"></a></p>
-
-***
 ### H1 2022
 
 ***
