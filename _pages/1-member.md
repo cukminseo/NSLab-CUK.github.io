@@ -38,7 +38,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 			<li>Sep 2022 -- Present: Ph.D. Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>	
 			<li>Jan 2017 -- Dec 2018: M.Eng. in Information System, Le Quy Don Technical University, Hanoi, Vietnam.</li>
 			<li>Sep 2008 -- Dec 2013: B.Eng. in Information Technology, Le Quy Don Technical University, Hanoi, Vietnam</li>
-			<li>Research Interest: Medical Knowledge Graph</li>
+			<li>Research Interest: Network Representation Learning</li>
 		</ul></td>
 	</tr>
 </table>
