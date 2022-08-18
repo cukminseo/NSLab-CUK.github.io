@@ -35,6 +35,14 @@ image:
 * Van Thuy Hoang, Phuc Vinh Bui, and Sang Thanh Nguyen have joined NS Lab@CUK as a Ph.D. course student, an MS/Ph.D. combined course student, and an MS course student, respectively. 
 
 ***
+##### Aug 1st, 2022
+{:.no_toc}
+
+* We started participating in an industry-academic cooperation project on "Conversational Interface and Menu Recommendation System for Robot Cafe," funded by [Order Queen Co., Ltd.](http://www.orderqueen.co.kr/) (Aug 2022 -- Nov 2022, 30 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/) and his team.
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/LabLogo.png" style="width : 125px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="http://www.orderqueen.co.kr/"><img align="center" src="/images/OrderQueenLogo.png" style="width : 100px; margin : 10px"></a></p>
+
+***
 ### H1 2022
 
 ***
