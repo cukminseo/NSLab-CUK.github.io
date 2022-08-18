@@ -30,7 +30,18 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 ***
 
 ###### Van Thuy Hoang (Sep 2022 -- Present)
-* Sep 2022 (Expected) -- Present: Ph.D. Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Thuy.jpg"/></td>  
+		<td><ul>
+			<li>Sep 2022 -- Present: Ph.D. Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>	
+			<li>Jan 2017 -- Dec 2018: M.Eng. in Information System, Le Quy Don Technical University, Hanoi, Vietnam.</li>
+			<li>Sep 2008 -- Dec 2013: B.Eng. in Information Technology, Le Quy Don Technical University, Hanoi, Vietnam</li>
+			<li>Research Interest: Medical Knowledge Graph</li>
+		</ul></td>
+	</tr>
+</table>
 
 ###### Phuc Vinh Bui (Sep 2022 -- Present)
 
