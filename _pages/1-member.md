@@ -39,6 +39,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Phuc.jpg"/></td>  
 		<td><ul>
 			<li>Sep 2022 -- Present: MS/Ph.D. Combined Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
+			<li>Sep 2015 -- Jun 2019: B.Eng. in Software Engineering, Duy Tan University, Danang, Vietnam</li>
 			<li>Research Interest: Medical Knowledge Graph</li>
 		</ul></td>
 	</tr>
@@ -50,7 +51,8 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Sang.jpg"/></td>  
 		<td><ul>
-			<li>Sep 2022 -- Present: MS Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
+			<li>Sep 2022 -- Present: MS Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>
+			<li>Sep 2017 -- Jun 2021: B.Eng. in Software Engineering, Duy Tan University, Danang, Vietnam</li>
 			<li>Research Interest: Network Representation Learning</li>
 		</ul></td>
 	</tr>
