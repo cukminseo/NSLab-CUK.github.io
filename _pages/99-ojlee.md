@@ -236,6 +236,7 @@ Principal Investigator
 Co-Principal Investigator
 ------------
 
+* Industry-Academic Cooperation Project, 30 Mil KRW, Order Queen Co., Ltd., 2022
 * Industry-Academic Cooperation Project, 150 Mil KRW, IntoCNS Co., Ltd., 2022
 * Industry-Academic Cooperation Project, 150 Mil KRW, RIST, 2020
 
