@@ -29,6 +29,12 @@ image:
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/LabLogo.png" style="width : 125px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.msit.go.kr/"><img align="center" src="/images/MSITLogo.png" style="width : 150px; margin : 10px"></a></p>
 
 ***
+##### Aug 29th, 2022
+{:.no_toc}
+
+* Van Thuy Hoang, Phuc Vinh Bui, and Sang Thanh Nguyen have joined NS Lab@CUK as a Ph.D. course student, an MS/Ph.D. combined course student, and an MS course student, respectively. 
+
+***
 ### H1 2022
 
 ***
