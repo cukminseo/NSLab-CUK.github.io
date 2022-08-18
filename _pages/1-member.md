@@ -33,10 +33,28 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 * Sep 2022 (Expected) -- Present: Ph.D. Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
 
 ###### Phuc Vinh Bui (Sep 2022 -- Present)
-* Sep 2022 (Expected) -- Present: MS/Ph.D. Combined Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Phuc.jpg"/></td>  
+		<td><ul>
+			<li>Sep 2022 -- Present: MS/Ph.D. Combined Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
+			<li>Research Interest: Medical Knowledge Graph</li>
+		</ul></td>
+	</tr>
+</table>
 
 ###### Sang Thanh Nguyen (Sep 2022 -- Present)
-* Sep 2022 (Expected) -- Present: MS Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Sang.jpg"/></td>  
+		<td><ul>
+			<li>Sep 2022 -- Present: MS Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
+			<li>Research Interest: Network Representation Learning</li>
+		</ul></td>
+	</tr>
+</table>
 
 ***
 # Undergraduate Research Assistants
