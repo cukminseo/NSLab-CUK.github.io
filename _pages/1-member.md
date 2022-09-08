@@ -2,7 +2,7 @@
 layout: page
 title: Member
 permalink: /member/
-image: 220908_1.jpg
+image: 220908_2.jpg
 ---
 
 
