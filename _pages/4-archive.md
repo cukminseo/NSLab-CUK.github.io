@@ -34,6 +34,8 @@ image:
 
 * Van Thuy Hoang, Phuc Vinh Bui, and Sang Thanh Nguyen have joined NS Lab@CUK as a Ph.D. course student, an MS/Ph.D. combined course student, and an MS course student, respectively. 
 
+<p align="center"><img width="600" height="600" src="/images/220908_1.jpg" margin="10px"></p>
+
 ***
 ##### Aug 1st, 2022
 {:.no_toc}
