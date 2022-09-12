@@ -1,7 +1,8 @@
 #-------------------------------
 # General Site Settings
 title: NS Lab@CUK
-logo: LabLogo.png
+logo: 
+#LabLogo.png
 description: Network Science Lab
 
 
