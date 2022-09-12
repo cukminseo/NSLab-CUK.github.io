@@ -56,7 +56,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 	</tr>
 </table>
 
-###### Sang Thanh Nguyen (Sep 2022 -- Present)
+###### [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen) (Sep 2022 -- Present)
 
 <table border="0">  
 	<tr valign="top">
