@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: NS Lab@CUK
-logo:
+logo: LabLogo.png
 description: Network Science Lab
 
 
@@ -12,7 +12,8 @@ author:
   image: 220908_2.jpg
   #logo_please.png
   say-hello: <strong>Network Science Lab</strong>
-  bio: Network Science Lab, Dept. of Artificial Intelligence, The Catholic University of Korea studies a broad range of theories, methodologies, and applications related to collecting, representing, and analyzing networked data.
+  bio: Network science is a research field about unveiling structural patterns in real-world interaction networks, e.g., social networks, bibliographic networks, power grids, etc. We study a broad range of theories, methodologies, and applications related to collecting, representing, and analyzing networked data.
+  #Network Science Lab, Dept. of Artificial Intelligence, The Catholic University of Korea studies a broad range of theories, methodologies, and applications related to collecting, representing, and analyzing networked data.
 
 
 #-------------------------------
