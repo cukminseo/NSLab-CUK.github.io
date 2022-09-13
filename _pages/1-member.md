@@ -127,7 +127,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 </table>
 
 
-###### [Sang Myeong Lee](https://nslab-cuk.github.io/member/Sangmyeong) (Sep 2022 -- Present)
+###### [Sang Myeong Lee](https://nslab-cuk.github.io/member/sangmyeong) (Sep 2022 -- Present)
 
 <table border="0">  
 	<tr valign="top">
