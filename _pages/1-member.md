@@ -127,6 +127,20 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 </table>
 
 
+###### [Sang Myeong Lee](https://nslab-cuk.github.io/member/Sangmyeong) (Sep 2022 -- Present)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Sangmyeong.jpg"/></td>  
+		<td><ul>
+			<li>Mar 2021 -- Present: Dept. of Physics, The Catholic University of Korea, Bucheon, Korea</li>		
+			<li>Research Interest: </li>
+			<li><a href="https://github.com/sngmng6506"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
+		</ul></td>
+	</tr>
+</table>
+
+
 ***
 # Alumni
 ***
