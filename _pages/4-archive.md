@@ -29,6 +29,12 @@ image:
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/LabLogo.png" style="width : 125px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.msit.go.kr/"><img align="center" src="/images/MSITLogo.png" style="width : 150px; margin : 10px"></a></p>
 
 ***
+##### Sep 7th, 2022
+{:.no_toc}
+
+* Sangmyeong Lee has joined as an undergraduate researcher. 
+
+***
 ##### Aug 29th, 2022
 {:.no_toc}
 
@@ -89,7 +95,7 @@ image:
 ##### Apr 20th, 2022
 {:.no_toc}
 
-* [Yeongmin Kim](https://nslab-cuk.github.io/member/ymkim) has joined as an undergraduate researcher. 
+* Yeongmin Kim has joined as an undergraduate researcher. 
 
 ***
 ##### Apr 1st, 2022
