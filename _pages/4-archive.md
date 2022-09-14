@@ -32,13 +32,13 @@ image:
 ##### Sep 7th, 2022
 {:.no_toc}
 
-* Sangmyeong Lee has joined as an undergraduate researcher. 
+* [Sangmyeong Lee](https://nslab-cuk.github.io/member/sangmyeong) has joined as an undergraduate researcher. 
 
 ***
 ##### Aug 29th, 2022
 {:.no_toc}
 
-* Van Thuy Hoang, Phuc Vinh Bui, and Sang Thanh Nguyen have joined NS Lab@CUK as a Ph.D. course student, an MS/Ph.D. combined course student, and an MS course student, respectively. 
+* Van Thuy Hoang, Phuc Vinh Bui, and [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen) have joined NS Lab@CUK as a Ph.D. course student, an MS/Ph.D. combined course student, and an MS course student, respectively. 
 
 <p align="center"><img width="600" height="600" src="/images/220908_1.jpg" margin="10px"></p>
 
