@@ -43,7 +43,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 	</tr>
 </table>
 
-###### Phuc Vinh Bui (Sep 2022 -- Present)
+###### [Phuc Vinh Bui](https://nslab-cuk.github.io/member/phucbui) (Sep 2022 -- Present)
 
 <table border="0">  
 	<tr valign="top">
@@ -52,6 +52,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 			<li>Sep 2022 -- Present: MS/Ph.D. Combined Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Sep 2015 -- Jun 2019: B.Eng. in Software Engineering, Duy Tan University, Danang, Vietnam</li>
 			<li>Research Interest: Medical Knowledge Graph</li>
+			<li><a href="https://github.com/phucbuiforwork"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 		</ul></td>
 	</tr>
 </table>
