@@ -65,6 +65,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Sang.jpg"/></td>  
 		<td><ul>
 			<li>Sep 2022 -- Present: MS Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>
+			<li>March 2021 -- Sep 2022: DevOps Engineer, <a href="https://symphony.com/">Symphony</a> project, FPT Software, Danang, Vietnam</li>
 			<li>Sep 2017 -- Jun 2021: B.Eng. in Software Engineering, Duy Tan University, Danang, Vietnam</li>
 			<li>Research Interest: Network Representation Learning</li>
 			<li><a href="https://github.com/nguyenthanhsang99"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
