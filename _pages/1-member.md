@@ -29,7 +29,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 # Researchers
 ***
 
-###### Van Thuy Hoang (Sep 2022 -- Present)
+###### Van Thuy Hoang (Sep 2022 -- Present; **Lab Representative**)
 
 <table border="0">  
 	<tr valign="top">
@@ -74,7 +74,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 # Undergraduate Research Assistants
 ***
 
-###### [Jiyoon Song](https://nslab-cuk.github.io/member/jysong) (Dec 2021 -- Present; **Lab Representative**)
+###### [Jiyoon Song](https://nslab-cuk.github.io/member/jysong) (Dec 2021 -- Present)
 
 <table border="0">  
 	<tr valign="top">
