@@ -70,7 +70,7 @@ toc_label: "Table of Contents"
   <img align="center" width="700" src="/images/SolarStations_Small.png" alt="absolute" padding="10px">
 </div>
 
-* Hyeon-Ju Jeon, Min-Woo Choi, O-Joun Lee: Day-ahead Hourly Solar Irradiance Forecasting based on Multi-attributed Spatio-temporal Graph Convolutional Network. Sensors. <br>[![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/higd963/MST-GCN)
+* Hyeon-Ju Jeon, Min-Woo Choi, O-Joun Lee: Day-ahead Hourly Solar Irradiance Forecasting based on Multi-attributed Spatio-temporal Graph Convolutional Network. Sensors. <br>[![Status](https://img.shields.io/badge/Status-To%20Appear-lightgrey?style=flat-square)](https://www.mdpi.com/journal/sensors) [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/higd963/MST-GCN)
 
 ***
 # Medical Image and Signal Processing
