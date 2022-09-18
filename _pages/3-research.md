@@ -59,10 +59,10 @@ toc_label: "Table of Contents"
 * [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Kiosk-RecSys)
 
 ***
-# Graph Convolutional Networks
+# Graph Neural Networks
 
 ***
-## Spatio-Temporal Graph Convolutional Networks
+## Spatio-Temporal Graph Neural Networks
 
 ### Solar Irradiance Forecasting
 
