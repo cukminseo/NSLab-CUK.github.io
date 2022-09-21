@@ -48,6 +48,8 @@ Awards & Grants
 
 Journal Publications
 ============
+* Hyeon-Ju Jeon, Min-Woo Choi, O-Joun Lee: Day-ahead Hourly Solar Irradiance Forecasting based on Multi-attributed Spatio-temporal Graph Convolutional Network. Sensors 09/2022; 22(19): 7179. DOI:10.3390/s22197179
+
 * O-Joun Lee, Hae Gyun Lim, K. Kirk Shung, Jin-Taek Kim, Hyung Ham Kim: Automated Estimation of Cancer Cell Deformability with Machine Learning and Acoustic Trapping. Scientific Reports 04/2022; 12: 6891. DOI:10.1038/s41598-022-10882-w
 
 * O-Joun Lee, Seungha Hong, Jin-Taek Kim: Interinstitutional Research Team Formation Based on Bibliographic Network Embedding. Mobile Information Systems 02/2021; 2021: 6629520. DOI:10.1155/2021/6629520
