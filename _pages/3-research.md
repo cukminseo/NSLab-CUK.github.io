@@ -13,7 +13,7 @@ toc_label: "Table of Contents"
 {:toc}
 
 ***
-# Dynamic Heterogeneous Network Embedding
+# Network Representation Learning
 
 <p align="center">
   <img width="700" data-action="zoom" src="/images/embedding.png" alt="absolute">
