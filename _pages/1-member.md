@@ -47,7 +47,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Thuy.jpg"/></td>  
 		<td><ul>
 			<li>Sep 2022 -- Present: Ph.D. Course, Dept. of Artificial Intelligence, The Graduate School, The Catholic University of Korea, Bucheon, Korea</li>	
-			<li>Jan 2017 -- Dec 2018: M.Eng. in Information System, Le Quy Don Technical University, Hanoi, Vietnam.</li>
+			<li>Jan 2017 -- Dec 2018: M.Eng. in Information System, Le Quy Don Technical University, Hanoi, Vietnam</li>
 			<li>Sep 2008 -- Dec 2013: B.Eng. in Information Technology, Le Quy Don Technical University, Hanoi, Vietnam</li>
 			<li>Research Interest: Network Representation Learning</li>
 			<li><a href="https://github.com/hoangvanthuy90"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
