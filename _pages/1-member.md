@@ -34,7 +34,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 # Post-Doctoral Researchers
 ***
 
-###### Eun-Soon You (Sep 2022 -- Present)
+###### Dr. Eun-Soon You (Sep 2022 -- Present)
 
 <table border="0">  
 	<tr valign="top">
@@ -199,12 +199,13 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 * Prof. Changhan Yoon, Inje University, Gimhae, Korea
 * Prof. [Kang-Min Kim](https://kangmin89.com/), The Catholic University of Korea, Bucheon, Korea
 * Prof. Kyungroul Lee, Mokpo National University, Muan, Korea
-* Dr. Eunsoon You, Inha University, Incheon, Korea
 * Dr. Nam D. Vo, FPT University, Danang, Vietnam
 * Dr. Phuong-Mai Nguyen, International School, Vietnam National University, Hanoi, Vietnam
 * Dr. [Min Gon Kim](https://sites.google.com/view/mingonk), Carnegie Mellon University, Pittsburgh, PA, USA
 * Min-Woo Choi, Korea Institute of Atmospheric Prediction System, Seoul, Korea
 
-
+<!-- 
+* Dr. Eunsoon You, Inha University, Incheon, Korea 
+-->
 
 
