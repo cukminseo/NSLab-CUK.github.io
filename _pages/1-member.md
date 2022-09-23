@@ -38,7 +38,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/ESYou.jpg"/></td>  
 		<td><ul>
-			You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Korea, since September 2022. She received his Ph.D. degree in Computational Linguistics from Besancon University of France in 2007.  She was a full-time researcher at Inha University, Rep. of Korea, from July 2017 to December 2019. Her research topics are Natural Language Processing(NLP), AI Ethics and Story generation. 
+			You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Korea, since September 2022. She received her Ph.D. degree in Computational Linguistics from Besancon University, France, in 2007.  She was a full-time researcher at Inha University, Rep. of Korea, from July 2017 to December 2019. Her research topics are Natural Language Processing (NLP), AI Ethics, and Story generation. 
 		</ul></td>
 	</tr>
 </table>
