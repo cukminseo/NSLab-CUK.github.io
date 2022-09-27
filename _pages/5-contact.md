@@ -25,7 +25,7 @@ image: CUK.jpg
 
 * [![E-mail](https://img.shields.io/badge/Official-nslab.ai.cuk@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=white)](mailto:nslab.ai.cuk@gmail.com)
 * [![E-mail](https://img.shields.io/badge/Director-ojlee@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=white)](mailto:ojlee@catholic.ac.kr)
-* [![E-mail](https://img.shields.io/badge/Lab%20Rep-sarasong4423@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=white)](mailto:sarasong4423@gmail.com)
+* [![E-mail](https://img.shields.io/badge/Lab%20Rep-hoangvanthuy90@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=white)](mailto:hoangvanthuy90@gmail.com)
 
 ***
 
