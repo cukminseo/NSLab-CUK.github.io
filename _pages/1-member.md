@@ -195,7 +195,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 * Prof. Hoon Ko, Chungbuk National University, Cheongju, Korea
 * Prof. [Hae Gyun Lim](https://sites.google.com/view/lim-lab/home), Pukyong National University, Busan, Korea 
 * Dr. [Sungyeop Jung](https://sites.google.com/view/sungyeopjung), Advanced Institute of Convergence Technology, Suwon, Korea
-* Dr. [Luong Vuong Nguyen](https://luongvuongnguyen.github.io/), University of Da Nang, Da Nang, Vietnam
+* Dr. [Luong Vuong Nguyen](https://luongvuongnguyen.github.io/), Da Nang University of Economics, Da Nang, Vietnam
 * Prof. Changhan Yoon, Inje University, Gimhae, Korea
 * Prof. [Kang-Min Kim](https://kangmin89.com/), The Catholic University of Korea, Bucheon, Korea
 * Prof. Kyungroul Lee, Mokpo National University, Muan, Korea
