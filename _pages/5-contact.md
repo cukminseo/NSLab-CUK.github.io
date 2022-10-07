@@ -28,5 +28,11 @@ image: CUK.jpg
 * [![E-mail](https://img.shields.io/badge/Lab%20Rep-hoangvanthuy90@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=white)](mailto:hoangvanthuy90@gmail.com)
 
 ***
+### Websites
+
+* [![Website](https://img.shields.io/badge/-Dept.%20of%20Artificial%20Intelligence-0C2E86?style=flat-square)](https://cukadmin.catholic.ac.kr/cukai.eng/index.html)
+* [![Website](https://img.shields.io/badge/-The%20Graduate%20School-0C2E86?style=flat-square)](https://cukadmin.catholic.ac.kr/gscuk.eng/index.html)
+
+***
 
 
