@@ -146,7 +146,7 @@ toc_label: "Table of Contents"
 
 ***
 
-* Young Man Kwon, Seok Jeong, O-Joun Lee, Joo-Ho Lee, Ji-Yoon Song: SYSTEM FOR PROVIDING CONTEXT AWARENESS BASED CROSS-DOMAIN RECOMMENDATION SERVICE FOR RETAIL KIOSK. Ref. No: KR 1020220087796, 07/2022
+* Young Man Kwon, Seok Jeong, O-Joun Lee, [Joo-Ho Lee](https://nslab-cuk.github.io/member/jhlee), [Ji-Yoon Song](https://nslab-cuk.github.io/member/jysong): SYSTEM FOR PROVIDING CONTEXT AWARENESS BASED CROSS-DOMAIN RECOMMENDATION SERVICE FOR RETAIL KIOSK. Ref. No: KR 1020220087796, 07/2022
 
 * Jason J. Jung, O-Joun Lee: Method and apparatus for content analysis including story. Ref. No: KR 1020180058510, 05/2018
 
