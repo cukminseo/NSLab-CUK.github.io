@@ -66,9 +66,10 @@ toc_label: "Table of Contents"
 
 ### Solar Irradiance Forecasting
 
-<div id="inline" align="center">
-  <img align="center" width="700" src="/images/SolarStations_Small.png" alt="absolute" padding="10px">
-</div>
+<p align="center">
+  <img align="center" width="700" src="/images/SolarStations_Small.png">
+  <em>ASOS stations on Korean peninsula and their correlations.</em>
+</p>
 
 * Hyeon-Ju Jeon, Min-Woo Choi, O-Joun Lee: Day-ahead Hourly Solar Irradiance Forecasting based on Multi-attributed Spatio-temporal Graph Convolutional Network. Sensors 09/2022; 22(19): 7179. <br>[![DOI](http://img.shields.io/:DOI-10.3390/s22197179-blue?style=flat-square)](https://doi.org/10.3390/s22197179) [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/higd963/MST-GCN)
 
@@ -87,9 +88,7 @@ toc_label: "Table of Contents"
   <em>Inflicting high-frequency ultrasonic wave on invasive/non-invasive breast cancer cells.</em>
 </p>
 
-<!--
-* Hyeon-Ju Jeon, Hae Gyun Lim, K. Kirk Shung, O-Joun Lee†, Min Gon Kim†: Automated cell-type classification combining dilated convolutional neural networks with label-free acoustic sensing. Scientific Reports. (†: Co-correspondence) <br>[![Status](https://img.shields.io/badge/Status-Under%20Review-lightgrey?style=flat-square)](https://www.nature.com/srep/) 
--->
+* Hyeon-Ju Jeon, Hae Gyun Lim, K. Kirk Shung, O-Joun Lee†, Min Gon Kim†: Automated cell-type classification combining dilated convolutional neural networks with label-free acoustic sensing. Scientific Reports. (†: Co-correspondence) (To Appear)
 
 * O-Joun Lee, Hae Gyun Lim, K. Kirk Shung, Jin-Taek Kim, Hyung Ham Kim: Automated Estimation of Cancer Cell Deformability with Machine Learning and Acoustic Trapping. Scientific Reports 04/2022; 12: 6891. <br>[![DOI](http://img.shields.io/:DOI-10.1038/s41598--022--10882--w-blue?style=flat-square)](https://doi.org/10.1038/s41598-022-10882-w)
 
