@@ -18,6 +18,8 @@ toc_label: "Table of Contents"
 
 ***
 
+* Hyeon-Ju Jeon, Hae Gyun Lim, K. Kirk Shung, O-Joun Lee†, Min Gon Kim†: Automated cell-type classification combining dilated convolutional neural networks with label-free acoustic sensing. Scientific Reports. (†: Co-correspondence) (To Appear)
+
 * Hyeon-Ju Jeon, Min-Woo Choi, O-Joun Lee: Day-ahead Hourly Solar Irradiance Forecasting based on Multi-attributed Spatio-temporal Graph Convolutional Network. Sensors 09/2022; 22(19): 7179. DOI:10.3390/s22197179
 
 * O-Joun Lee, Hae Gyun Lim, K. Kirk Shung, Jin-Taek Kim, Hyung Ham Kim: Automated Estimation of Cancer Cell Deformability with Machine Learning and Acoustic Trapping. Scientific Reports 04/2022; 12: 6891. DOI:10.1038/s41598-022-10882-w
