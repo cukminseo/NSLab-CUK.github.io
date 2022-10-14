@@ -45,7 +45,7 @@ toc_label: "Table of Contents"
 
 ### Medical Knowledge Graph Embedding for Disease Diagnosis
 
-* [![Demo](https://img.shields.io/badge/-System%20Demo-0C2E86?style=flat-square)](https://nslab.catholic.ac.kr/)
+* [![Demo](https://img.shields.io/badge/-System%20Demo-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://nslab.catholic.ac.kr/)
 
 ### Medical Knowledge Graph Embedding for Drug Effect Prediction
 
