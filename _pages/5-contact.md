@@ -30,8 +30,8 @@ image: CUK.jpg
 ***
 ### Websites
 
-* [![Website](https://img.shields.io/badge/-Dept.%20of%20Artificial%20Intelligence-0C2E86?style=flat-square)](https://cukadmin.catholic.ac.kr/cukai.eng/index.html)
-* [![Website](https://img.shields.io/badge/-The%20Graduate%20School-0C2E86?style=flat-square)](https://cukadmin.catholic.ac.kr/gscuk.eng/index.html)
+* [![Website](https://img.shields.io/badge/-Dept.%20of%20Artificial%20Intelligence-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://cukadmin.catholic.ac.kr/cukai.eng/index.html)
+* [![Website](https://img.shields.io/badge/-The%20Graduate%20School-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://cukadmin.catholic.ac.kr/gscuk.eng/index.html)
 
 ***
 
