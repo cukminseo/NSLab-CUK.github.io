@@ -217,10 +217,11 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 * Dr. Nam D. Vo, FPT University, Danang, Vietnam
 * Dr. Phuong-Mai Nguyen, International School, Vietnam National University, Hanoi, Vietnam
 * Dr. [Min Gon Kim](https://sites.google.com/view/mingonk), Carnegie Mellon University, Pittsburgh, PA, USA
-* Min-Woo Choi, Korea Institute of Atmospheric Prediction System, Seoul, Korea
+
 
 <!-- 
 * Dr. Eunsoon You, Inha University, Incheon, Korea 
+* Min-Woo Choi, Korea Institute of Atmospheric Prediction System, Seoul, Korea
 -->
 
 
