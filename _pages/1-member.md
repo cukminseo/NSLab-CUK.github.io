@@ -70,6 +70,20 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	</tr>
 </table>
 
+###### Min-Woo Choi (Mar 2023 -- Present)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/MWChoi.jpg"/></td>  
+		<td><ul>
+			<li>Mar 2023 -- Present: Ph.D. Course, Dept. of Artificial Intelligence, The Graduate School, The Catholic University of Korea, Bucheon, Korea</li>	
+			<li>Mar 2017 -- Feb 2019: M.S. in Atmospheric Sciences, Kongju National University, Gongju, Korea</li>
+			<li>Mar 2011 -- Feb 2017: B.S. in Atmospheric Sciences, Kongju National University, Gongju, Korea</li>
+			<li>Research Interest: Network Representation Learning</li>
+		</ul></td>
+	</tr>
+</table>
+
 ###### [Phuc Vinh Bui](https://nslab-cuk.github.io/member/phucbui) (Sep 2022 -- Present)
 
 <table border="0">  
