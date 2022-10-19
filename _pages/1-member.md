@@ -79,7 +79,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 			<li>Mar 2023 -- Present: Ph.D. Course, Dept. of Artificial Intelligence, The Graduate School, The Catholic University of Korea, Bucheon, Korea</li>	
 			<li>Mar 2017 -- Feb 2019: M.S. in Atmospheric Sciences, Kongju National University, Gongju, Korea</li>
 			<li>Mar 2011 -- Feb 2017: B.S. in Atmospheric Sciences, Kongju National University, Gongju, Korea</li>
-			<li>Research Interest: Network Representation Learning</li>
+			<li>Research Interest: </li>
 		</ul></td>
 	</tr>
 </table>
