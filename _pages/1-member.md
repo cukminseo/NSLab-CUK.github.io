@@ -117,6 +117,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 # Undergraduate Research Assistants
 ***
 
+<!-- 
 ###### [Jiyoon Song](https://nslab-cuk.github.io/member/jysong) (Dec 2021 -- Present)
 
 <table border="0">  
@@ -129,6 +130,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 		</ul></td>
 	</tr>
 </table>
+-->
 
 ###### [Jooho Lee](https://nslab-cuk.github.io/member/jhlee) (Nov 2021 -- Present)
 
@@ -143,6 +145,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	</tr>
 </table>
 
+<!-- 
 ###### [Hyebin Ahn](https://nslab-cuk.github.io/member/hbahn) (Dec 2021 -- Present)
 
 <table border="0">  
@@ -155,6 +158,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 		</ul></td>
 	</tr>
 </table>
+-->
 
 ###### [Se Eun Cho](https://nslab-cuk.github.io/member/secho) (Jan 2022 -- Present)
 
@@ -184,6 +188,12 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	</tr>
 </table>
 
+***
+### Interns
+***
+
+* [Jiyoon Song](https://nslab-cuk.github.io/member/jysong) (Dec 2021 -- Present)
+* [Hyebin Ahn](https://nslab-cuk.github.io/member/hbahn) (Dec 2021 -- Present)
 
 ***
 # Alumni
