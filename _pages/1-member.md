@@ -194,6 +194,8 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 
 * [Jiyoon Song](https://nslab-cuk.github.io/member/jysong) (Dec 2021 -- Present)
 * [Hyebin Ahn](https://nslab-cuk.github.io/member/hbahn) (Dec 2021 -- Present)
+* [HoBeom Kim]() (October 2022 -- Present)
+* [SangYu Park]() (October 2022 -- Present)
 
 ***
 # Alumni
