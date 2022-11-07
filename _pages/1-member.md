@@ -184,6 +184,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 			<li>Mar 2016 -- Present: Dept. of Physics, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: </li>
 			<li><a href="https://github.com/sngmng6506"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
+			<li><a href="https://velog.io/@sngmng6506"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a></li>
 		</ul></td>
 	</tr>
 </table>
