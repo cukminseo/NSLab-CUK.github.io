@@ -35,6 +35,14 @@ image:
 * [Sangmyeong Lee](https://nslab-cuk.github.io/member/sangmyeong) has joined as an undergraduate researcher. 
 
 ***
+##### Sep 1st, 2022
+{:.no_toc}
+
+* We started an intramural research project on "Research Team Formation based on Bibliographic Network Embedding," funded by [The Catholic University of Korea](https://catholic.ac.kr/) (Sep 2022 -- Aug 2023, 7 Mil KRW).
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a></p>
+
+***
 ##### Aug 29th, 2022
 {:.no_toc}
 
