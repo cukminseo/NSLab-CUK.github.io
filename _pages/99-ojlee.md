@@ -233,6 +233,7 @@ Principal Investigator
 ------------
 
 * Korea-EU Cooperation Promotion Program, 25 Mil KRW, MSIT, 2022 -- 2023
+* Intramural Research Grants, 7 Mil KRW, CUK, 2022 -- 2023
 * Basic Science Research Program, 132 Mil KRW, MSIT, 2022 -- 2025
 * Industry-Academic Cooperation Project, 10 Mil KRW, Order Queen Co., Ltd., 2022
 * Intramural Research Grants, 7 Mil KRW, CUK, 2021 -- 2022
