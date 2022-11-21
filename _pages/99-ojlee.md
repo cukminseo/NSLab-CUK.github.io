@@ -48,7 +48,7 @@ Awards & Grants
 
 Journal Publications
 ============
-* Hyeon-Ju Jeon, Hae Gyun Lim, K. Kirk Shung, O-Joun Lee†, Min Gon Kim†: Automated cell-type classification combining dilated convolutional neural networks with label-free acoustic sensing. Scientific Reports. (†: Co-correspondence) (To Appear)
+* Hyeon-Ju Jeon, Hae Gyun Lim, K. Kirk Shung, O-Joun Lee†, Min Gon Kim†: Automated cell-type classification combining dilated convolutional neural networks with label-free acoustic sensing. Scientific Reports 11/2022; 12: 19873. (†: Co-correspondence) DOI:10.1038/s41598-022-22075-6
 
 * Hyeon-Ju Jeon, Min-Woo Choi, O-Joun Lee: Day-ahead Hourly Solar Irradiance Forecasting based on Multi-attributed Spatio-temporal Graph Convolutional Network. Sensors 09/2022; 22(19): 7179. DOI:10.3390/s22197179
 
