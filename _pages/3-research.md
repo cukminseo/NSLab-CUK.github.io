@@ -85,7 +85,7 @@ toc_label: "Table of Contents"
   <em>Inflicting high-frequency ultrasonic wave on invasive/non-invasive breast cancer cells.</em>
 </p>
 
-* Hyeon-Ju Jeon, Hae Gyun Lim, K. Kirk Shung, O-Joun Lee†, Min Gon Kim†: Automated cell-type classification combining dilated convolutional neural networks with label-free acoustic sensing. Scientific Reports. (†: Co-correspondence) (To Appear)
+* Hyeon-Ju Jeon, Hae Gyun Lim, K. Kirk Shung, O-Joun Lee†, Min Gon Kim†: Automated cell-type classification combining dilated convolutional neural networks with label-free acoustic sensing. Scientific Reports 11/2022; 12: 19873. (†: Co-correspondence) <br>[![DOI](http://img.shields.io/:DOI-10.1038/s41598--022--22075--6-blue?style=flat-square)](https://doi.org/10.1038/s41598-022-22075-6)
 
 * O-Joun Lee, Hae Gyun Lim, K. Kirk Shung, Jin-Taek Kim, Hyung Ham Kim: Automated Estimation of Cancer Cell Deformability with Machine Learning and Acoustic Trapping. Scientific Reports 04/2022; 12: 6891. <br>[![DOI](http://img.shields.io/:DOI-10.1038/s41598--022--10882--w-blue?style=flat-square)](https://doi.org/10.1038/s41598-022-10882-w)
 
