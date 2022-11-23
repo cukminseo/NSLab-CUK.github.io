@@ -13,6 +13,12 @@ image:
 ### H2 2022
 
 ***
+##### Dec 17th, 2022
+{:.no_toc}
+
+* [Jooho Lee](https://nslab-cuk.github.io/member/jhlee) will participate in the winter internship program of [DSTI Co.,Ltd.](http://www.dsti.co.kr/) 
+
+***
 ##### Dec 16th -- 17th, 2022
 {:.no_toc}
 
