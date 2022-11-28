@@ -16,7 +16,8 @@ image:
 ##### Dec 17th, 2022
 {:.no_toc}
 
-* [Jooho Lee](https://nslab-cuk.github.io/member/jhlee) will participate in the winter internship program of [DSTI Co.,Ltd.](http://www.dsti.co.kr/) 
+* [Sangmyeong Lee](https://nslab-cuk.github.io/member/sangmyeong) will leave to join Hanyang University as a graduate student.
+* [Jooho Lee](https://nslab-cuk.github.io/member/jhlee) will leave for a while to participate in the winter internship program of [DSTI Co., Ltd.](http://www.dsti.co.kr/) 
 
 ***
 ##### Dec 16th -- 17th, 2022
