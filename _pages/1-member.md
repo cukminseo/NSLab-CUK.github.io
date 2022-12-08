@@ -174,21 +174,6 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	</tr>
 </table>
 
-
-###### [Sangmyeong Lee](https://nslab-cuk.github.io/member/sangmyeong) (Sep 2022 -- Present)
-
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Sangmyeong.jpg"/></td>  
-		<td><ul>
-			<li>Mar 2016 -- Present: Dept. of Physics, The Catholic University of Korea, Bucheon, Korea</li>		
-			<li>Research Interest: </li>
-			<li><a href="https://github.com/sngmng6506"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
-			<li><a href="https://velog.io/@sngmng6506"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a></li>
-		</ul></td>
-	</tr>
-</table>
-
 <br>
 
 #### Interns
@@ -212,7 +197,21 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 
 #### B.Eng.
 
-* TBA
+###### [Sangmyeong Lee](https://nslab-cuk.github.io/member/sangmyeong) (Sep 2022 -- Dec 2022)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Sangmyeong.jpg"/></td>  
+		<td><ul>
+			<li>Mar 2023 -- Present: M.Eng. Course, Dept. of Artificial Intelligence, Hanyang University, Seoul, Korea</li>
+			<li>Mar 2016 -- Feb 2023: B.S. in Physics, The Catholic University of Korea, Bucheon, Korea</li>		
+			<li><a href="https://github.com/sngmng6506"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
+			<li><a href="https://velog.io/@sngmng6506"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a></li>
+		</ul></td>
+	</tr>
+</table>
+
+<br>
 
 ***
 # Collaborators
