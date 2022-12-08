@@ -178,8 +178,8 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 
 #### Interns
 
-* [Jiyoon Song](https://nslab-cuk.github.io/member/jysong) (Dec 2021 -- Present)
-* [Hyebin Ahn](https://nslab-cuk.github.io/member/hbahn) (Dec 2021 -- Present)
+* [Jiyoon Song](https://nslab-cuk.github.io/member/jysong) (Dec 2021 -- Present) <a href="https://github.com/sara4423"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
+* [Hyebin Ahn](https://nslab-cuk.github.io/member/hbahn) (Dec 2021 -- Present) <a href="https://github.com/hyebing"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
 * [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim) (October 2022 -- Present)
 * [Sang Yu Park](https://nslab-cuk.github.io/member/sypark) (October 2022 -- Present)
 
@@ -211,7 +211,6 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	</tr>
 </table>
 
-<br>
 
 ***
 # Collaborators
