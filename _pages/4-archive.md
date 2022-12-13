@@ -26,6 +26,12 @@ image:
 * [Jooho Lee](https://nslab-cuk.github.io/member/jhlee) will leave for a while to participate in the winter internship program of [DSTI Co., Ltd.](http://www.dsti.co.kr/) 
 
 ***
+##### Dec 13th, 2022
+{:.no_toc}
+
+* [Jooho Lee](https://nslab-cuk.github.io/member/jhlee) and [Se Eun Cho](https://nslab-cuk.github.io/member/secho) participated in the 2022 CUK Competition on Data Analytics and won the best award. 
+
+***
 ##### Dec 16th -- 17th, 2022
 {:.no_toc}
 
