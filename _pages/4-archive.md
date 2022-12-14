@@ -31,6 +31,8 @@ image:
 
 * [Jooho Lee](https://nslab-cuk.github.io/member/jhlee) and [Se Eun Cho](https://nslab-cuk.github.io/member/secho) participated in [the 2022 CUK Competition on Data Analytics](https://sites.google.com/view/cukdata/home) and won the best award. 
 
+<p align="center"><img width="600" height="600" src="/images/Competition2022.jpg" margin="10px"></p>
+
 ***
 ##### Dec 16th -- 17th, 2022
 {:.no_toc}
