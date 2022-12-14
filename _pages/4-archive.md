@@ -16,7 +16,7 @@ image:
 ##### Dec 19th, 2022 -- Jan 27th, 2023
 {:.no_toc}
 
-* NS Lab@CUK organizes [the 1st NS-CUK Winter School on Ethics of AI and Robots (AI Ethics 2022)](https://nslab-cuk.github.io/2022/12/06/WS/), which consists of 18 lectures given by Dr. Eun-Soon You. 
+* NS Lab@CUK organizes [the 1st NS-CUK Winter School on Ethics of AI and Robots (AI Ethics 2022)](https://nslab-cuk.github.io/2022/12/06/WS/), which consists of 18 lectures given by Dr. Eun-Soon You.  
 
 ***
 ##### Dec 17th, 2022
@@ -36,6 +36,7 @@ image:
 {:.no_toc}
 
 * [Computing4Human 2022](https://c4h.isvnu.vn/) will be held at Hanoi, Vietnam.
+  * [Program Book](https://drive.google.com/file/d/1vpGEtHTTUvIC5k8NofIBo4xbkFogwnsa/view?usp=sharing)
 
 <p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" style="width : 120px; margin : 10px"></a></p>
 
