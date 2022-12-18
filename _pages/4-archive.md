@@ -10,7 +10,12 @@ image:
 {:toc}
 
 ***
-### H2 2022
+### 2023
+
+* Computing4Human 2023 will be held again in Hanoi, Vietnam, by collaborating with International School, Vietnam National University.
+
+***
+### 2022
 
 ***
 ##### Dec 19th, 2022 -- Jan 27th, 2023
@@ -29,7 +34,7 @@ image:
 ##### Dec 16th -- 17th, 2022
 {:.no_toc}
 
-* [Computing4Human 2022](https://c4h.isvnu.vn/) will be held at Hanoi, Vietnam.
+* We successfully organized [Computing4Human 2022](https://c4h.isvnu.vn/) at Hanoi, Vietnam.
   * [Program Book](https://drive.google.com/file/d/1vpGEtHTTUvIC5k8NofIBo4xbkFogwnsa/view?usp=sharing)
   * Proceedings
 
@@ -84,9 +89,6 @@ image:
 * We started participating in an industry-academic cooperation project on "Conversational Interface and Menu Recommendation System for Robot Cafe," funded by [Order Queen Co., Ltd.](http://www.orderqueen.co.kr/) (Aug 2022 -- Nov 2022, 30 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/) and his team.
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="http://www.orderqueen.co.kr/"><img align="center" src="/images/OrderQueenLogo.png" style="width : 100px; margin : 10px"></a></p>
-
-***
-### H1 2022
 
 ***
 ##### Jun 24th, 2022
@@ -169,7 +171,7 @@ image:
 * [Se Eun Cho](https://nslab-cuk.github.io/member/secho) has joined as an undergraduate researcher. 
 
 ***
-### H2 2021
+### 2021
 
 ***
 ##### Dec 15th, 2021
