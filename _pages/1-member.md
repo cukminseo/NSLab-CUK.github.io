@@ -227,6 +227,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 * Prof. Kyungroul Lee, Mokpo National University, Muan, Korea
 * Dr. Nam D. Vo, FPT University, Danang, Vietnam
 * Dr. Phuong-Mai Nguyen, International School, Vietnam National University, Hanoi, Vietnam
+* Dr. Khac-Hoai Nam Bui, Viettel Cyberspace Center, Viettel, Hanoi, Vietnam 
 * Dr. [Min Gon Kim](https://sites.google.com/view/mingonk), Carnegie Mellon University, Pittsburgh, PA, USA
 
 
