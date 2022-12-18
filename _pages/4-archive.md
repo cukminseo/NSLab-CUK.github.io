@@ -26,21 +26,26 @@ image:
 * [Jooho Lee](https://nslab-cuk.github.io/member/jhlee) will leave for a while to participate in the winter internship program of [DSTI Co., Ltd.](http://www.dsti.co.kr/) 
 
 ***
+##### Dec 16th -- 17th, 2022
+{:.no_toc}
+
+* [Computing4Human 2022](https://c4h.isvnu.vn/) will be held at Hanoi, Vietnam.
+  * [Program Book](https://drive.google.com/file/d/1vpGEtHTTUvIC5k8NofIBo4xbkFogwnsa/view?usp=sharing)
+  * Proceedings
+
+<p align="center"><img width="700" src="/images/Computing4Human2022_Banner.JPG" padding="5px"></p>
+
+<p align="center"><img width="700" src="/images/Computing4Human2022.JPG" padding="5px"></p>
+
+<p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" style="width : 120px; margin : 10px"></a></p>
+
+***
 ##### Dec 13th, 2022
 {:.no_toc}
 
 * [Jooho Lee](https://nslab-cuk.github.io/member/jhlee) and [Se Eun Cho](https://nslab-cuk.github.io/member/secho) participated in [the 2022 CUK Competition on Data Analytics](https://sites.google.com/view/cukdata/home) and won the best award. 
 
 <p align="center"><img width="600" src="/images/Competition2022.jpg" margin="10px"></p>
-
-***
-##### Dec 16th -- 17th, 2022
-{:.no_toc}
-
-* [Computing4Human 2022](https://c4h.isvnu.vn/) will be held at Hanoi, Vietnam.
-  * [Program Book](https://drive.google.com/file/d/1vpGEtHTTUvIC5k8NofIBo4xbkFogwnsa/view?usp=sharing)
-
-<p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" style="width : 120px; margin : 10px"></a></p>
 
 ***
 ##### Oct 1st, 2022
