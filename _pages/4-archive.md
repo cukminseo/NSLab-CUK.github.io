@@ -12,7 +12,7 @@ image:
 ***
 ### 2023
 
-* Computing4Human 2023 will be held again in Hanoi, Vietnam, by collaborating with International School, Vietnam National University.
+* Computing4Human 2023 will be held again in Hanoi, Vietnam, by collaborating with [International School, Vietnam National University](https://vnuis.edu.vn/en/).
 
 ***
 ### 2022
@@ -34,7 +34,7 @@ image:
 ##### Dec 16th -- 17th, 2022
 {:.no_toc}
 
-* We successfully organized [Computing4Human 2022](https://c4h.isvnu.vn/) at Hanoi, Vietnam.
+* We successfully organized [Computing4Human 2022](https://c4h.isvnu.vn/) at Hanoi, Vietnam, by collaborating with [International School, Vietnam National University](https://vnuis.edu.vn/en/).
   * [Program Book](https://drive.google.com/file/d/1vpGEtHTTUvIC5k8NofIBo4xbkFogwnsa/view?usp=sharing)
   * Proceedings
 
@@ -195,7 +195,7 @@ image:
 ##### Oct 27th -- 28th, 2021
 {:.no_toc}
 
-* We successfully organized [Computing4Human 2021](http://due.udn.vn/vi-vn/computing4human-intro/cid/4673) at Danang, Vietnam.
+* We successfully organized [Computing4Human 2021](http://due.udn.vn/vi-vn/computing4human-intro/cid/4673) at Danang, Vietnam, by collaborating with [University of Economics - The University of Danang](http://due.udn.vn/en-us/).
   * [Proceedings](https://ceur-ws.org/Vol-3026/)
 
 <p align="center"><img width="700" src="/images/Computing4Human2021.JPG" padding="5px"></p>
