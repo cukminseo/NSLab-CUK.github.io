@@ -23,9 +23,14 @@ image: CUK.jpg
 ***
 ### E-mail Addresses
 
-* [![E-mail](https://img.shields.io/badge/Official-nslab.ai.cuk@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=white)](mailto:nslab.ai.cuk@gmail.com)
-* [![E-mail](https://img.shields.io/badge/Director-ojlee@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=white)](mailto:ojlee@catholic.ac.kr)
-* [![E-mail](https://img.shields.io/badge/Lab%20Rep-hoangvanthuy90@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=white)](mailto:hoangvanthuy90@gmail.com)
+* [![E-mail](https://img.shields.io/badge/Official-nslab.ai.cuk@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:nslab.ai.cuk@gmail.com)
+* [![E-mail](https://img.shields.io/badge/Director-ojlee@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:ojlee@catholic.ac.kr)
+* [![E-mail](https://img.shields.io/badge/Lab%20Rep-hoangvanthuy90@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:hoangvanthuy90@gmail.com)
+
+***
+### Phone
+
+* ![phone](https://custom-icon-badges.demolab.com/badge/Phone-%2B82%E2%80%932%E2%80%932164%E2%80%935523-0C2E86.svg?style=flat-square&logo=phone&logoColor=FFFFFF)
 
 ***
 ### Websites
