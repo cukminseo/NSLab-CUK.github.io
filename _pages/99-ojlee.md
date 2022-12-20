@@ -192,6 +192,7 @@ Editorship
 Conference Committee
 ------------
 
+* Committee Member, The 4th International Conference on Human-centered Artificial Intelligence (Computing4Human 2023), Hanoi, Vietnam, 12/2023.
 * Committee Member, The 3rd International Conference on Human-centered Artificial Intelligence (Computing4Human 2022), Hanoi, Vietnam, 12/2022.
 * Committee Member, The 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Danang, Vietnam, 10/2021.
 * Program Committee Member, Artificial Inteligence for Narratives Workshop (AI4Narrative) held in conjunction with the 29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence (IJCAI-PRICAI 2020), 07/2020.
