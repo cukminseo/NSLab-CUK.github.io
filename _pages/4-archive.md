@@ -23,6 +23,8 @@ image:
 
 * NS Lab@CUK organizes [the 1st NS-CUK Winter School on Ethics of AI and Robots (AI Ethics 2022)](https://nslab-cuk.github.io/2022/12/06/WS/), which consists of 18 lectures given by Dr. Eun-Soon You.  
 
+<p align="center"><img width="600" src="/images/WS2022.jpg" margin="10px"></p>
+
 ***
 ##### Dec 17th, 2022
 {:.no_toc}
