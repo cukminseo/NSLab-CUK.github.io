@@ -222,6 +222,8 @@ image:
 * We successfully organized [Computing4Human 2020](https://sites.google.com/view/computing4human/home) at Pohang, Rep. of Korea.
   * [Proceedings](https://ceur-ws.org/Vol-2653/)
 
+<iframe src="https://ceur-ws.org/Vol-2653/" width="700" height="700" frameborder="0"></iframe>
+
 <p align="center"><a href="https://postech.ac.kr/"><img align="center" src="/images/POSTECHLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a></p>
 
 
