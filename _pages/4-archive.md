@@ -200,6 +200,8 @@ image:
 
 <p align="center"><img width="700" src="/images/Computing4Human2021.JPG" padding="5px"></p>
 
+<p align="center"><iframe src="https://ceur-ws.org/Vol-3026/" width="700" height="700" frameborder="0"></iframe></p>
+
 <p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" style="width : 120px; margin : 10px"></a></p>
 
 ***
@@ -222,7 +224,7 @@ image:
 * We successfully organized [Computing4Human 2020](https://sites.google.com/view/computing4human/home) at Pohang, Rep. of Korea.
   * [Proceedings](https://ceur-ws.org/Vol-2653/)
 
-<iframe src="https://ceur-ws.org/Vol-2653/" width="700" height="700" frameborder="0"></iframe>
+<p align="center"><iframe src="https://ceur-ws.org/Vol-2653/" width="700" height="700" frameborder="0"></iframe></p>
 
 <p align="center"><a href="https://postech.ac.kr/"><img align="center" src="/images/POSTECHLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a></p>
 
