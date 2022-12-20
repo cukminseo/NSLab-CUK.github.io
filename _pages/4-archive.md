@@ -23,7 +23,7 @@ image:
  * President: [Se Eun Cho](https://nslab-cuk.github.io/member/secho)
  * Vice-President: [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim)
 
-<p align="center"><iframe src="https://cuk-aim.github.io/" width="700" height="700" frameborder="0"></iframe></p>
+<p align="center"><iframe src="https://cuk-aim.github.io/" width="700" height="700" frameborder="0" allowfullscreen></iframe></p>
 
 ***
 ### 2022
@@ -34,7 +34,7 @@ image:
 
 * NS Lab@CUK organizes [the 1st NS-CUK Winter School on Ethics of AI and Robots (AI Ethics 2022)](https://nslab-cuk.github.io/2022/12/06/WS/), which consists of 18 lectures given by Dr. Eun-Soon You.  
 
-<p align="center"><img width="600" src="/images/WS2022.jpg" margin="10px"></p>
+<p align="center"><img width="700" src="/images/WS2022.jpg" margin="10px"></p>
 
 ***
 ##### Dec 17th, 2022
@@ -63,7 +63,7 @@ image:
 
 * [Jooho Lee](https://nslab-cuk.github.io/member/jhlee) and [Se Eun Cho](https://nslab-cuk.github.io/member/secho) participated in [the 2022 CUK Competition on Data Analytics](https://sites.google.com/view/cukdata/home) and won the best award. 
 
-<p align="center"><img width="600" src="/images/Competition2022.jpg" margin="10px"></p>
+<p align="center"><img width="700" src="/images/Competition2022.jpg" margin="10px"></p>
 
 ***
 ##### Oct 1st, 2022
@@ -93,7 +93,7 @@ image:
 
 * [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90), [Phuc Vinh Bui](https://nslab-cuk.github.io/member/phucbui), and [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen) have joined NS Lab@CUK as a Ph.D. course student, an MS/Ph.D. combined course student, and an MS course student, respectively. 
 
-<p align="center"><img width="600" height="600" src="/images/220908_1.jpg" margin="10px"></p>
+<p align="center"><img width="700" height="700" src="/images/220908_1.jpg" margin="10px"></p>
 
 ***
 ##### Aug 1st, 2022
@@ -109,7 +109,7 @@ image:
 
 * Our undergraduate research assistants presented two papers at the 2022 Conference of Korea Institute of Smart Media (KISM) and won [the best paper award](https://drive.google.com/file/d/1vMnVNUzf29TECy6coVAU-oL2PftihMt3/view?usp=sharing). 
 
-<p align="center"><img width="600" height="600" src="/images/KISM2022.jpg" margin="10px"></p>
+<p align="center"><img width="700" height="700" src="/images/KISM2022.jpg" margin="10px"></p>
 
 ***
 ##### Jun 1st, 2022
@@ -131,7 +131,7 @@ image:
 ##### May 15th, 2022
 {:.no_toc}
 
-<p align="center"><img width="600" height="600" src="/images/20220513.jpg" margin="10px"></p>
+<p align="center"><img width="700" height="700" src="/images/20220513.jpg" margin="10px"></p>
 
 ***
 ##### May 13th, 2022
@@ -159,7 +159,7 @@ image:
 ##### Mar 16th, 2022
 {:.no_toc}
 
-<p align="center"><img width="600" height="600" src="/images/20220316.jpg" margin="10px"></p>
+<p align="center"><img width="700" height="700" src="/images/20220316.jpg" margin="10px"></p>
 
 ***
 ##### Feb 7th, 2022
@@ -213,7 +213,7 @@ image:
 
 <p align="center"><img width="700" src="/images/Computing4Human2021.JPG" padding="5px"></p>
 
-<p align="center"><iframe src="https://ceur-ws.org/Vol-3026/" width="700" height="700" frameborder="0"></iframe></p>
+<p align="center"><iframe src="https://ceur-ws.org/Vol-3026/" width="700" height="700" frameborder="0" allowfullscreen></iframe></p>
 
 <p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" style="width : 120px; margin : 10px"></a></p>
 
@@ -237,7 +237,7 @@ image:
 * We successfully organized [Computing4Human 2020](https://sites.google.com/view/computing4human/home) at Pohang, Rep. of Korea.
   * [Proceedings](https://ceur-ws.org/Vol-2653/)
 
-<p align="center"><iframe src="https://ceur-ws.org/Vol-2653/" width="700" height="700" frameborder="0"></iframe></p>
+<p align="center"><iframe src="https://ceur-ws.org/Vol-2653/" width="700" height="700" frameborder="0" allowfullscreen></iframe></p>
 
 <p align="center"><a href="https://postech.ac.kr/"><img align="center" src="/images/POSTECHLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a></p>
 
