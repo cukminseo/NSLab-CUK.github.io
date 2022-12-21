@@ -184,7 +184,6 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 			<li>Mar 2021 -- Present: Dept. of Mathematices, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: Knowledge Graph Embedding</li>
 			<li><a href="https://github.com/kim-hobeom"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
-			</li>
 		</ul></td>
 	</tr>
 </table>
