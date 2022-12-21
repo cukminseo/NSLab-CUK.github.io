@@ -174,7 +174,6 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	</tr>
 </table>
 
-<br>
 ###### [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim) (Oct 2022 -- Present)
 
 <table border="0">  
