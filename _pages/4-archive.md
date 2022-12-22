@@ -32,6 +32,7 @@ image:
 ##### Dec 21th, 2022
 {:.no_toc}
 
+* [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim) has joined as an undergraduate researcher.
 * :santa: :santa: :christmas_tree: :christmas_tree: :tada: :tada: :beers: :beers: :cake: :cake:
 
 <p align="center"><img width="700" src="/images/Christmas2022.jpg" margin="10px"></p>
