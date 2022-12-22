@@ -14,6 +14,17 @@ image:
 
 * Computing4Human 2023 will be held again in Hanoi, Vietnam, by collaborating with [International School, Vietnam National University](https://vnuis.edu.vn/en/).
 
+##### Jan 16th -- 17th, 2023
+{:.no_toc}
+
+* [CUK AI Colloquium 2022](https://sites.google.com/view/cukai-colloquium-2022/home) will be held in Incheon, Korea. 
+  * The CUK AI Colloquium 2022 is a premier forum for graduate and undergraduate students to present their research and receive guidance from experienced scholars in the field of artificial intelligence. This unique opportunity allows candidates at all stages of their research to share their findings and proposals with peers and senior colleagues in a supportive and constructive workshop setting.
+  * In addition to presentations and group discussions, the Colloquium also features experienced AI scholars who will share their insights on pursuing a career in academia, as well as alternative career paths in industry and entrepreneurship. This is a rare opportunity for attendees to learn from the best in the field and ask all the questions they've always wanted to ask.
+  * The core of the Colloquium is dedicated to intensive and interactive mentoring sessions, where participants will discuss their research with their peers and a senior academic mentor. These sessions are designed to be collaborative and future-oriented, helping attendees to become active participants in the research ecosystem and fostering lifetime collaboration opportunities.
+  * Don't miss this chance to exchange knowledge, expand your networks, and engage in meaningful conversations with scholars in AI studies. Apply now and take the first step towards a successful and fulfilling career in artificial intelligence research.
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a></p>
+
 ##### Jan 3rd, 2023
 {:.no_toc}
 
