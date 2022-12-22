@@ -12,8 +12,10 @@ image:
 ***
 ### 2023
 
+***
 * Computing4Human 2023 will be held again in Hanoi, Vietnam, by collaborating with [International School, Vietnam National University](https://vnuis.edu.vn/en/).
 
+***
 ##### Jan 16th -- 17th, 2023
 {:.no_toc}
 
@@ -25,6 +27,7 @@ image:
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a></p>
 
+***
 ##### Jan 3rd, 2023
 {:.no_toc}
 
