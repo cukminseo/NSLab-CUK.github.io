@@ -29,6 +29,14 @@ image:
 ### 2022
 
 ***
+##### Dec 21th, 2022
+{:.no_toc}
+
+* :santa: :santa: :christmas_tree: :christmas_tree: :tada: :tada: :beers: :beers: :cake: :cake:
+
+<p align="center"><img width="700" src="/images/Christmas2022.jpg" margin="10px"></p>
+
+***
 ##### Dec 19th, 2022 -- Jan 27th, 2023
 {:.no_toc}
 
