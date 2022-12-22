@@ -44,6 +44,8 @@ image:
 
 <p align="center"><img width="700" src="/images/WS2022.jpg" margin="10px"></p>
 
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a></p>
+
 ***
 ##### Dec 17th, 2022
 {:.no_toc}
