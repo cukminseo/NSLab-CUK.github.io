@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-image: Social_Network.png
+image: Bib_Network.png
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
