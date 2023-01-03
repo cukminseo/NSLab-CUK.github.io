@@ -29,7 +29,7 @@ image:
 ##### Jan 3rd, 2023
 {:.no_toc}
 
-* [AIM (Artificial Intelligence Master)](https://cuk-aim.github.io/), a student-run academic society affiliated with the Department of AI at CUK, has been founded as a sister society of NS Lab@CUK.
+* [AIM (Artificial Intelligence Master)](https://cuk-aim.github.io/), a student-run academic society affiliated with the Department of AI at CUK, has been founded as a sister society of NS Lab@CUK. :tada: :tada:
   * President: [Se Eun Cho](https://nslab-cuk.github.io/member/secho)
   * Vice-President: [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim)
 
