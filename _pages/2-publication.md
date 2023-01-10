@@ -176,6 +176,18 @@ toc_label: "Table of Contents"
 
 ***
 
+# Awards & Grants
+
+***
+
+* Jun 2022: [Best Paper Award](https://drive.google.com/file/d/1vMnVNUzf29TECy6coVAU-oL2PftihMt3/view?usp=sharing), The 2022 Conference of Korea Institute of Smart Media (KISM), Daejeon, Korea
+
+<p align="center"><img width="700" src="/images/BP1.jpg" margin="10px"></p>
+
+
+
+***
+
 # Invited Talks
 
 ***
