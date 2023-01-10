@@ -132,6 +132,8 @@ image:
 
 <p align="center"><img width="700" height="700" src="/images/KISM2022.jpg" margin="10px"></p>
 
+<p align="center"><img width="700" src="/images/BP1.jpg" margin="10px"></p>
+
 ***
 ##### Jun 1st, 2022
 {:.no_toc}
