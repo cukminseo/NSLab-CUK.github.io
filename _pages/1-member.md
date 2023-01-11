@@ -16,6 +16,7 @@ image: 220908_2.jpg
 
 O-Joun Lee has been an assistant professor at the Catholic University of Korea, Rep. of Korea, since September 2021. He received his Ph.D. degree in Computer Science and Engineering from Chung-Ang University in 2019. He also received B.Eng. degree in Software Science from Dankook University in 2015. Also, he was a full-time researcher at Pohang University of Science and Technology, Rep. of Korea, from September 2019 to August 2021. His research topics are networked data analysis based on unsupervised/self-supervised representation learning and graph neural networks. He has applied the networked data analysis models and methods to various unstructured data, such as social media, bibliographic data, medical knowledge base, traffic flow data, etc.
 
+* Mar 2022 -- Present: Adjunct Professor, [Dept. of Mathematics](https://math.catholic.ac.kr/math.eng/), CUK
 * Mar 2022 -- Present: Head/Assistant Professor, [Dept. of AI, The Graduate School](https://cukadmin.catholic.ac.kr/cukai.eng/D_141_6080.html), CUK
 * Sep 2021 -- Present: Adjunct Professor, [Dept. of Data Science](https://cukadmin.catholic.ac.kr/datascience.eng/index.html), CUK
 * Sep 2021 -- Present: Adjunct Professor, [Dept. of Healthcare and AI, The Graduate School](https://cukmai.catholic.ac.kr/cukmai/index.html), CUK
