@@ -191,8 +191,6 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	</tr>
 </table>
 
-<br>
-
 ###### [Hyo Eun Lee](https://nslab-cuk.github.io/member/helee) (Jan 2023 -- Present)
 
 <table border="0">  
