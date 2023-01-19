@@ -191,6 +191,20 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 
 <br>
 
+###### [Hyo Eun Lee](https://nslab-cuk.github.io/member/helee) (Jan 2023 -- Present)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/helee.jpg"/></td>  
+		<td><ul>
+			<li>Mar 2020 -- Present: Dept. of Biotechnology, The Catholic University of Korea, Bucheon, Korea</li>		
+			<li>Research Interest: Network Representation Learning</li>
+		</ul></td>
+	</tr>
+</table>
+
+<br>
+
 #### Interns
 
 * [Jiyoon Song](https://nslab-cuk.github.io/member/jysong) (Dec 2021 -- Present) <a href="https://github.com/sara4423"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
