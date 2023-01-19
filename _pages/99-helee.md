@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Hyo Eun Lee"
-permalink: /member/hbkim
+permalink: /member/helee
 image: 
 ---
 
