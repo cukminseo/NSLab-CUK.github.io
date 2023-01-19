@@ -23,6 +23,8 @@ image:
 
 * [The 1st CUK Annual Colloquium on Artificial Intelligence (CUK AI Colloquium 2022)](https://sites.google.com/view/cukai-colloquium-2022/home) will be held in Seoul, Korea by the Department of Artificial Intelligence, the Catholic University of Korea.
 
+<p align="center"><img width="700" src="/images/Colloquium2022.jpg" margin="10px"></p>
+
 <p align="center"><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 380px; margin : 10px"></a></p>
 
 ***
