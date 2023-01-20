@@ -28,6 +28,12 @@ image:
 <p align="center"><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 380px; margin : 10px"></a></p>
 
 ***
+##### Jan 16th, 2023
+{:.no_toc}
+
+* [Hyo Eun Lee](https://nslab-cuk.github.io/member/helee) has joined as an undergraduate researcher. :tada: :tada:
+
+***
 ##### Jan 3rd, 2023
 {:.no_toc}
 
