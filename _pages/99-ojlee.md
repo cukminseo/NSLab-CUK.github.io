@@ -184,6 +184,11 @@ Patents
 Academic Activities
 ============
 
+Membership
+------------
+
+* [한국스마트미디어학회](https://kism.jams.or.kr/co/main/jmMain.kci), 상임이사, since Jan 2023
+
 Editorship
 ------------
 
