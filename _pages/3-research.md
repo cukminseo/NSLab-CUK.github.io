@@ -103,7 +103,7 @@ toc_label: "Table of Contents"
   <img width="700" src="/images/liver.png">
 </p>
 
-* TBA
+* Yunsang Joo, Hyun-Cheol Park, O-Joun Lee, Changhan Yoon, Moon Hyung Choi, Chang Choi: Classification of Liver Fibrosis from Heterogeneous Ultrasound Image. IEEE Access 01/2023. (To Appear)
 
 ***
 # Miscellaneous
