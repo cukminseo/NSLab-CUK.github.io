@@ -33,6 +33,15 @@ toc_label: "Table of Contents"
   * Instructor: Eun-Soon You
 
 ***
+### Winter 2022
+
+***
+
+* [Winter School on Ethics of AI and Robots](https://nslab-cuk.github.io/2022/12/05/WS/) (Special course)
+  * Instructor: Eun-Soon You
+  * TA: [Se Eun Cho](https://nslab-cuk.github.io/member/secho) and [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim)
+
+***
 ### Fall 2022
 
 ***
