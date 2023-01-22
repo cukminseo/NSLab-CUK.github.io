@@ -78,7 +78,7 @@ toc_label: "Table of Contents"
 
 ***
 
-* San-Hee Park, Kang-Min Kim, O-Joun Lee, Youjin Kang, Jaewon Lee, Su-Min Lee, SangKeun Lee: "Why do I feel offended?" - Korean Dataset for Offensive Language Identification. The 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), Dubrovnik, Croatia; 05/2023
+* San-Hee Park, Kang-Min Kim, O-Joun Lee, Youjin Kang, Jaewon Lee, Su-Min Lee, SangKeun Lee: "Why do I feel offended?" - Korean Dataset for Offensive Language Identification. The 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), Dubrovnik, Croatia; 05/2023 (To appear in Findings of ACL)
 
 * [Ji-Yoon Song](https://nslab-cuk.github.io/member/jysong), [Se-Eun Cho](https://nslab-cuk.github.io/member/secho), [Joo-Ho Lee](https://nslab-cuk.github.io/member/jhlee), [Yeong-Min Kim](https://nslab-cuk.github.io/member/ymkim), [Hye-Bin Ahn](https://nslab-cuk.github.io/member/hbahn), O-Joun Lee: Context-aware Cross-domain Recommendation System for Retail Kiosk. The 2022 Conference of Korea Institute of Smart Media (KISM), Daejeon, Korea; 06/2022 (in Korean)
 
