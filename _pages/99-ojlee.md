@@ -121,6 +121,8 @@ Book Chapters
 
 Conference Proceedings
 ============
+* San-Hee Park, Kang-Min Kim, O-Joun Lee, Youjin Kang, Jaewon Lee, Su-Min Lee, SangKeun Lee: "Why do I feel offended?" - Korean Dataset for Offensive Language Identification. The 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), Dubrovnik, Croatia; 05/2023 (To appear in Findings of ACL)
+
 * Nam D Vo, O-Joun Lee, Khac-Hoai Nam Bui, Hae Gyun Lim, Hyeon-Ju Jeon, Phuong-Mai Nguyen, Jin-Taek Kim, Bui Quang Tuyen, Jason J Jung, Thuy Anh Vo: Computing4Human 2021: The 2nd International Conference on Human-centered Artificial Intelligence. The 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Da Nang, Vietnam; 10/2021 (Editorial)
 
 * Hyeon-Ju Jeon, Gyu-Sik Choi, Se-Young Cho, Hanbin Lee, Hee Yeon Ko, Jason J Jung, O-Joun Lee, Myeong-Yeon Yi: Learning Contextual Representations of Citations via Graph Transformer. The 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Da Nang, Vietnam; 10/2021
