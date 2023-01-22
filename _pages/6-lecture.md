@@ -21,6 +21,7 @@ toc_label: "Table of Contents"
 
 * 06837-01 Graph Mining
   * Instructor: O-Joun Lee
+  * TA: [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) and [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen)
 
 * 06535-01 Career exploration of Artificial Intelligence (Joint Lecture)
   * Instructor: Faculty members of Dept. of AI
@@ -40,6 +41,7 @@ toc_label: "Table of Contents"
 
 * 02922-05 Computers & Programming 2
   * Instructor: O-Joun Lee
+  * TA: [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen)
 
 * 54345-01 Artificial Intelligence/Robot Ethics (Graduate course)
   * Instructor: Eun-Soon You
