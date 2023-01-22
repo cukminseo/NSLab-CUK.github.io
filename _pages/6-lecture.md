@@ -19,7 +19,7 @@ toc_label: "Table of Contents"
 * 54369-01 Advanced Graph Neural Networks (Graduate course)
   * Instructor: O-Joun Lee
 
-* 06837-01 Graph Mining
+* [06837-01 Graph Mining](https://ns-cuk.notion.site/Syllabus-Graph-Mining-0b9257569a0e4ad3be2bac9ed427a4ed)
   * Instructor: O-Joun Lee
   * TA: [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) and [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen)
 
