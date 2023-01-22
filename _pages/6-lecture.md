@@ -2,7 +2,7 @@
 layout: page
 title: Lecture
 permalink: /lecture/
-image: 
+image: CUK_4Seasons.jpg
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
