@@ -2,7 +2,7 @@
 layout: page
 title: Archive
 permalink: /archive/
-image: 
+image: CUK_4Seasons.jpg
 ---
 
 <h5>Table of Contents</h5>
