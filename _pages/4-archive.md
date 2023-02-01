@@ -33,6 +33,8 @@ image: CUK_4Seasons.jpg
 
 <p align="center"><img width="700" src="/images/Colloquium2022.jpg" margin="10px"></p>
 
+<p align="center"><img width="700" src="/images/Colloquium2022_Group.jpg" margin="10px"></p>
+
 <p align="center"><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 380px; margin : 10px"></a></p>
 
 ***
