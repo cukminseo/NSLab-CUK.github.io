@@ -18,6 +18,6 @@ Our team members presented two papers at [the 1st CUK Annual Colloquium on Artif
 
 Also, [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen) won the best paper award.
 
-<p align="center"><img width="700" src="/images/BP2_1.jpg" margin="10px"></p>
+<p align="center"><img src="/images/BP2_1.jpg" style="width : 90%; max-width: 90%"></p>
 
 
