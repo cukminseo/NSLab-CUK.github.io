@@ -26,7 +26,7 @@ toc_label: "Table of Contents"
 * 06535-01 Career exploration of Artificial Intelligence (Joint Lecture)
   * Instructor: Faculty members of Dept. of AI
 
-* Academic Writing and Research Ethics (Graduate Course)
+* 54366-01 Academic Writing and Research Ethics (Graduate Course)
   * Instructor: Eun-Soon You
 
 * 06298-01 Living with AI
