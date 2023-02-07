@@ -30,6 +30,7 @@ image: CUK.jpg
 ***
 ### Phone
 
+* ![phone](https://custom-icon-badges.demolab.com/badge/Director-%2B82%E2%80%932%E2%80%932164%E2%80%935516-0C2E86.svg?style=flat-square&logo=phone&logoColor=FFFFFF)
 * ![phone](https://custom-icon-badges.demolab.com/badge/Lab%20%231-%2B82%E2%80%932%E2%80%932164%E2%80%935523-0C2E86.svg?style=flat-square&logo=phone&logoColor=FFFFFF)
 
 ***
