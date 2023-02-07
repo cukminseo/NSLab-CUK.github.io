@@ -59,7 +59,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 # Researchers
 ***
 
-###### [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) (Sep 2022 -- Present; **Lab Representative**)
+###### [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) (Sep 2022 -- Present)
 
 <table border="0">  
 	<tr valign="top">
@@ -74,7 +74,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	</tr>
 </table>
 
-###### Min-Woo Choi (Mar 2023 -- Present)
+###### Min-Woo Choi (Mar 2023 -- Present; **Lab Representative**)
 
 <table border="0">  
 	<tr valign="top">
