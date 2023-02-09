@@ -16,8 +16,11 @@ Our team members presented two papers at [the 1st CUK Annual Colloquium on Artif
 <iframe width="1166" height="656" src="https://www.youtube.com/embed/jNfuMibK-yc" title="Sang Thanh Nguyen: Mining Literals in Medical Knowledge Graph Embedding" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
 
-Also, [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen) won the best paper award.
+We would like to extend our congratulations to [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen) for winning the best paper award. This recognition showcases his dedication and expertise in his research progress and future plans.
 
 <p align="center"><img src="/images/BP2_1.jpg" style="width : 90%; max-width: 90%"></p>
+
+Our gratitude also goes to [Se Eun Cho](https://nslab-cuk.github.io/member/secho) and [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim) for their valuable contributions as student volunteers, who greatly contributed to the success of the event with their commitment and eagerness to learn. Their efforts are highly commendable.
+
 
 
