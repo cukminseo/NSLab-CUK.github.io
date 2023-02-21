@@ -104,9 +104,9 @@ image: CUK_4Seasons.jpg
   * [Program Book](https://drive.google.com/file/d/1vpGEtHTTUvIC5k8NofIBo4xbkFogwnsa/view?usp=sharing)
   * Proceedings
 
-<p align="center"><img width="700" src="/images/Computing4Human2022_Banner.JPG" padding="5px"></p>
+<p align="center"><img width="700" src="/images/Computing4Human2022_Banner.JPG"></p>
 
-<p align="center"><img width="700" src="/images/Computing4Human2022.JPG" padding="5px"></p>
+<p align="center"><img width="700" src="/images/Computing4Human2022.JPG"></p>
 
 <p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" style="width : 120px; margin : 10px"></a></p>
 
@@ -116,7 +116,7 @@ image: CUK_4Seasons.jpg
 
 * [Jooho Lee](https://nslab-cuk.github.io/member/jhlee) and [Se Eun Cho](https://nslab-cuk.github.io/member/secho) participated in [the 2022 CUK Competition on Data Analytics](https://sites.google.com/view/cukdata/home) and won the best award. 
 
-<p align="center"><img width="700" src="/images/Competition2022.jpg" margin="10px"></p>
+<p align="center"><img width="700" src="/images/Competition2022.jpg"></p>
 
 ***
 ##### Oct 1st, 2022
@@ -146,7 +146,7 @@ image: CUK_4Seasons.jpg
 
 * [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90), [Phuc Vinh Bui](https://nslab-cuk.github.io/member/phucbui), and [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen) have joined NS Lab@CUK as a Ph.D. course student, an MS/Ph.D. combined course student, and an MS course student, respectively. 
 
-<p align="center"><img width="700" height="700" src="/images/220908_1.jpg" margin="10px"></p>
+<p align="center"><img width="700" height="700" src="/images/220908_1.jpg"></p>
 
 ***
 ##### Aug 1st, 2022
@@ -162,9 +162,9 @@ image: CUK_4Seasons.jpg
 
 * Our undergraduate research assistants presented two papers at the 2022 Conference of Korea Institute of Smart Media (KISM) and won [the best paper award](https://drive.google.com/file/d/1vMnVNUzf29TECy6coVAU-oL2PftihMt3/view?usp=sharing). 
 
-<p align="center"><img width="700" height="700" src="/images/KISM2022.jpg" margin="10px"></p>
+<p align="center"><img width="700" height="700" src="/images/KISM2022.jpg"></p>
 
-<p align="center"><img width="700" src="/images/BP1.jpg" margin="10px"></p>
+<p align="center"><img width="700" src="/images/BP1.jpg"></p>
 
 ***
 ##### Jun 1st, 2022
@@ -186,7 +186,7 @@ image: CUK_4Seasons.jpg
 ##### May 15th, 2022
 {:.no_toc}
 
-<p align="center"><img width="700" height="700" src="/images/20220513.jpg" margin="10px"></p>
+<p align="center"><img width="700" height="700" src="/images/20220513.jpg"></p>
 
 ***
 ##### May 13th, 2022
@@ -214,7 +214,7 @@ image: CUK_4Seasons.jpg
 ##### Mar 16th, 2022
 {:.no_toc}
 
-<p align="center"><img width="700" height="700" src="/images/20220316.jpg" margin="10px"></p>
+<p align="center"><img width="700" height="700" src="/images/20220316.jpg"></p>
 
 ***
 ##### Feb 7th, 2022
@@ -266,7 +266,7 @@ image: CUK_4Seasons.jpg
 * We successfully organized [Computing4Human 2021](http://due.udn.vn/vi-vn/computing4human-intro/cid/4673) at Danang, Vietnam, by collaborating with [University of Economics - The University of Danang](http://due.udn.vn/en-us/).
   * [Proceedings](https://ceur-ws.org/Vol-3026/)
 
-<p align="center"><img width="700" src="/images/Computing4Human2021.JPG" padding="5px"></p>
+<p align="center"><img width="700" src="/images/Computing4Human2021.JPG"></p>
 
 <p align="center"><iframe src="https://ceur-ws.org/Vol-3026/" width="700" height="700" frameborder="0" marginwidth="0" marginheight="0" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
