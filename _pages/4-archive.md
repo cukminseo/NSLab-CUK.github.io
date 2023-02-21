@@ -18,6 +18,14 @@ image: CUK_4Seasons.jpg
 <p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" style="width : 120px; margin : 10px"></a></p>
 
 ***
+##### Feb 16th, 2023
+{:.no_toc}
+
+* [Sangmyeong Lee](https://nslab-cuk.github.io/member/sangmyeong) received his B.S. degree in Physics. :tada: :tada:
+
+<p align="center"><img width="700" src="/images/230216.JPG"></p>
+
+***
 ##### Feb 7th, 2023
 {:.no_toc}
 
@@ -37,9 +45,9 @@ image: CUK_4Seasons.jpg
   * [Program Book](https://drive.google.com/file/d/1RYbhMluqNwhuJqFwnwn0CHvQ4I4QB2aH/view?usp=sharing)
   * [Photos](https://photos.app.goo.gl/hbksdgFimLMEBFLU8)
 
-<p align="center"><img width="700" src="/images/Colloquium2022.jpg" margin="10px"></p>
+<p align="center"><img width="700" src="/images/Colloquium2022.jpg"></p>
 
-<p align="center"><img width="700" src="/images/Colloquium2022_Group.jpg" margin="10px"></p>
+<p align="center"><img width="700" src="/images/Colloquium2022_Group.jpg"></p>
 
 <p align="center"><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 380px; margin : 10px"></a></p>
 
@@ -69,7 +77,7 @@ image: CUK_4Seasons.jpg
 * [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim) has joined as an undergraduate researcher.
 * :santa: :santa: :christmas_tree: :christmas_tree: :tada: :tada: :beers: :beers: :cake: :cake:
 
-<p align="center"><img width="700" src="/images/Christmas2022.jpg" margin="10px"></p>
+<p align="center"><img width="700" src="/images/Christmas2022.jpg"></p>
 
 ***
 ##### Dec 19th, 2022 -- Jan 27th, 2023
@@ -77,7 +85,7 @@ image: CUK_4Seasons.jpg
 
 * NS Lab@CUK organizes [the 1st NS-CUK Winter School on Ethics of AI and Robots (AI Ethics 2022)](https://nslab-cuk.github.io/2022/12/06/WS/), which consists of 18 lectures given by Dr. Eun-Soon You.  
 
-<p align="center"><img width="700" src="/images/WS2022.jpg" margin="10px"></p>
+<p align="center"><img width="700" src="/images/WS2022.jpg"></p>
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a></p>
 
