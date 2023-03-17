@@ -21,6 +21,14 @@ image: CUK_4Seasons.jpg
 ##### Feb 16th, 2023
 {:.no_toc}
 
+<p align="center"><img width="700" src="/images/230316_1.jpg"></p>
+
+<p align="center"><img width="700" src="/images/230316_2.jpg"></p>
+
+***
+##### Feb 16th, 2023
+{:.no_toc}
+
 * [Sangmyeong Lee](https://nslab-cuk.github.io/member/sangmyeong) received his B.S. degree in Physics. :tada: :tada:
 
 <p align="center"><img width="700" src="/images/230216.JPG"></p>
