@@ -22,6 +22,7 @@ toc_label: "Table of Contents"
 * [06837-01 Graph Mining](https://ns-cuk.notion.site/Syllabus-Graph-Mining-0b9257569a0e4ad3be2bac9ed427a4ed)
   * Instructor: O-Joun Lee
   * TA: [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) and [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen)
+  * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Mining-Spring-2023)
 
 * 06535-01 Career exploration of Artificial Intelligence (Joint Lecture)
   * Instructor: Faculty members of Dept. of AI
