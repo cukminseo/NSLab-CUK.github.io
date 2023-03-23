@@ -162,7 +162,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 		</ul></td>
 	</tr>
 </table>
--->
+
 
 ###### [Se Eun Cho](https://nslab-cuk.github.io/member/secho) (Jan 2022 -- Present)
 
@@ -177,6 +177,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 		</ul></td>
 	</tr>
 </table>
+-->
 
 ###### [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim) (Oct 2022 -- Present)
 
@@ -203,6 +204,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	</tr>
 </table>
 
+<!-- 
 ###### [Yu Jin Yang](https://nslab-cuk.github.io/member/yjyang) (Feb 2023 -- Present)
 
 <table border="0">  
@@ -214,13 +216,16 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 		</ul></td>
 	</tr>
 </table>
+-->
 
 <br>
 #### Interns
 
 * [Jiyoon Song](https://nslab-cuk.github.io/member/jysong) (Dec 2021 -- Present) <a href="https://github.com/sara4423"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
 * [Hyebin Ahn](https://nslab-cuk.github.io/member/hbahn) (Dec 2021 -- Present) <a href="https://github.com/hyebing"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
+* [Se Eun Cho](https://nslab-cuk.github.io/member/secho) (Jan 2022 -- Present)
 * [Sang Yu Park](https://nslab-cuk.github.io/member/sypark) (Oct 2022 -- Present)
+* [Yu Jin Yang](https://nslab-cuk.github.io/member/yjyang) (Feb 2023 -- Present)
 
 ***
 # Alumni
