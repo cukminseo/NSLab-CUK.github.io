@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI-CUK Weekly Joint Journal Club
+title: AI-CUK Joint Journal Club
 permalink: /joint-journal-club/
 image: CUK_4Seasons.jpg
 toc: true
