@@ -23,6 +23,6 @@ toc_label: "Table of Contents"
 <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/fVyQO91v6MfgJU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 * S.T.Nguyen, Review on "On Generalized Degree Fairness in Graph Neural Networks," AAAI 2023
-<p align="center"></p>
+<p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 
