@@ -22,7 +22,11 @@ toc_label: "Table of Contents"
 * V.T.Hoang, Review on "Everything is Connected: Graph Neural Networks," Current Opinion in Structural Biology
 <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/MBfuVNBL6LYnBR" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
-* S.T.Nguyen, Review on "On Generalized Degree Fairness in Graph Neural Networks," AAAI 2023
+* S.T.Nguyen, Review on "DeeperGCN: All You Need to Train Deeper GCNs," arXiv
+
+<p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/ED1XAl547nw6eb" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+
+* J.H.Lee, "Hyperbolic graph convolutional neural networks," Advances in Neural Information Processing Systems
 
 ***
 ##### Feb 27th, 2023
