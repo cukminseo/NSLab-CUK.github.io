@@ -119,6 +119,7 @@ toc_label: "Table of Contents"
 * A hybrid age and gender classification framework wrapping **state-of-the-art** models: [`VGG-Face`](https://sefiks.com/2018/08/06/deep-face-recognition-with-keras/), [`Google FaceNet`](https://sefiks.com/2018/09/03/face-recognition-with-facenet-in-keras/), [`OpenFace`](https://sefiks.com/2019/07/21/face-recognition-with-openface-in-keras/), [`Facebook DeepFace`](https://sefiks.com/2020/02/17/face-recognition-with-facebook-deepface-in-keras/), [`DeepID`](https://sefiks.com/2020/06/16/face-recognition-with-deepid-in-keras/), [`ArcFace`](https://sefiks.com/2020/12/14/deep-face-recognition-with-arcface-in-keras-and-python/), etc. 
 
 ***
+# Regular Seminars
 
 * [![Link](https://img.shields.io/badge/NS@CUK-Weekly%20Seminar-0C2E86?style=flat-square)](https://nslab-cuk.github.io/seminar/)
 * [![Link](https://img.shields.io/badge/AI@CUK-Joint%20Journal%20Club-0C2E86?style=flat-square)](https://nslab-cuk.github.io/joint-journal-club/)
