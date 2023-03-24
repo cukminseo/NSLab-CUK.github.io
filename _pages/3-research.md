@@ -76,9 +76,10 @@ toc_label: "Table of Contents"
 
 ***
 # Medical Image and Signal Processing
-
+{:.no_toc}
 ***
 ## Single-cell Analysis by Combining High-Frequency Single-Beam Acoustic Tweezers and Deep Neural Networks
+{:.no_toc}
 
 * Developing (semi-) automated diagnosis systems for various diseases 
   * Inflicting high-frequency ultrasonic wave on live cells and analyzing microscopic images/back-scattered signals using deep learning-empowered models
@@ -97,11 +98,13 @@ toc_label: "Table of Contents"
 
 ***
 ## Marine Environment Monitoring System
+{:.no_toc}
 
 * TBA
 
 ***
 ## Diagnosis and Staging of Liver Fibrosis
+{:.no_toc}
 
 <p align="center">
   <img width="700" src="/images/liver.png">
@@ -111,9 +114,10 @@ toc_label: "Table of Contents"
 
 ***
 # Miscellaneous
-
+{:.no_toc}
 ***
 ## Lightweight Age and Gender Classifier and Face Tracker
+{:.no_toc}
 
 <iframe width="1065" height="826" src="https://www.youtube.com/embed/n0gDwgyqzZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
