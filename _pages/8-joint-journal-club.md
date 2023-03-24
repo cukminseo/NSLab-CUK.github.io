@@ -16,6 +16,13 @@ toc_label: "Table of Contents"
 ### Spring 2023
 
 ***
+##### Jan 10th, 2023
+{:.no_toc}
+
+* S.T.Nguyen, Review on "Do Transformers Really Perform Bad for Graph Representation?," NeurIPS 2021
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/l4shGXsWXsR3RM?hostedIn=slideshare&page=upload" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+
+***
 ##### Jan 3rd, 2023
 {:.no_toc}
 
