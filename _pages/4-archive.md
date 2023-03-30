@@ -21,7 +21,7 @@ image: CUK_4Seasons.jpg
 ##### Feb 28th, 2023
 {:.no_toc}
 
-Seung Charlie Kim, the CEO/Founder of [Shukran Korea Inc.](https://www.shukrankorea.com/), was invited to give a talk to the students of the Department of Artificial Intelligence at the Catholic University of Korea.
+* Seung Charlie Kim, the CEO/Founder of [Shukran Korea Inc.](https://www.shukrankorea.com/), was invited to give a talk to the students of the Department of Artificial Intelligence at the Catholic University of Korea.
 
 <p align="center"><img width="700" src="/images/230329.jpg"></p>
 
