@@ -20,26 +20,26 @@ toc_label: "Table of Contents"
 {:.no_toc}
 
 * V.T.Hoang, Review on "Graph Neural Networks with Learnable Structural and Positional Representations", ICLR 2022
-<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/bY76rtG68KJliv?hostedIn=slideshare&page=upload" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/bY76rtG68KJliv?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 * S.T.Nguyen, Review on "Geom-GCN: Geometric Graph Convolutional Networks", ICLR 2020
-<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/bMjEK7ML8y0bE?hostedIn=slideshare&page=upload" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/bMjEK7ML8y0bE?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 * J.H.Lee,  Review on "Learning Intents behind Interactions with Knowledge Graph for Recommendation", WWW 2021
-<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/AIMtP02kzJjjK6?hostedIn=slideshare&page=upload" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/AIMtP02kzJjjK6?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 ***
 #### Mar 17th, 2023
 {:.no_toc}
 
 * V.T.Hoang, Review on "DropEdge: Towards Deep Graph Convolutional Networks on Node Classification", ICLR 2020
-<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/X8bCYSwvBwzzd?hostedIn=slideshare&page=upload" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/X8bCYSwvBwzzd?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 * S.T.Nguyen, Review on "Graph Pointer Neural Networks", AAAI 2022
-<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/N4NKTz3cmGdgnT?hostedIn=slideshare&page=upload" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/N4NKTz3cmGdgnT?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 * J.H.Lee,  Review on "Scaling Law for Recommendation Models: Towards General-purpose User Representations", AAAI 2023
-<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/FgwnKsJJnW34Zn?hostedIn=slideshare&page=upload" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/FgwnKsJJnW34Zn?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 ***
 #### Mar 6th, 2023
