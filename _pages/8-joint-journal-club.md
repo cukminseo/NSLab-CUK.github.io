@@ -17,6 +17,55 @@ toc_label: "Table of Contents"
 ### Spring 2023
 
 ***
+##### Mar 21th, 2023
+{:.no_toc}
+
+* S.T.Nguyen, Review on "Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs", NeurIPS 2022
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/oCeB4OE2MDsM3F?hostedIn=slideshare&page=upload" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+***
+##### Mar 14th, 2023
+{:.no_toc}
+
+* V.T.Hoang, Review on "Heterogeneous Graph Attention Network", WWW 2019
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/alAygijkgP9a2Z?hostedIn=slideshare&page=upload" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+***
+##### Mar 07th, 2023
+{:.no_toc}
+
+* Minwoo Choi, Review on "Spatio-Temporal Wind Speed Forecasting using Graph Networks and Novel Transformer Architectures", Appied Energy 333 2023
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/BvhvTOD8AiolEv?hostedIn=slideshare&page=upload" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+***
+##### Feb 28th, 2023
+{:.no_toc}
+
+* S.T.Nguyen, Review on "How Attentive are Graph Attention Networks?", ICLR 2022
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/seRDp6uhrdaAz5?hostedIn=slideshare&page=upload" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+***
+##### Fed 21th, 2023
+{:.no_toc}
+
+* V.T.Hoang, Review on "Breaking the Limit of Graph Neural Networks by Improving the Assortativity of Graphs with Local Mixing Patterns", KDD 2021
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/2QAWDXqvPidobp?hostedIn=slideshare&page=upload" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+***
+##### Feb 14th, 2023
+{:.no_toc}
+
+* Minwoo Choi, Review on "Short-term wind speed forecasting based on spatial-temporal graph transformer networks", Energy 2021
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/NzPemnb8jbiHDt?hostedIn=slideshare&page=upload" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+***
+##### Feb 7th, 2023
+{:.no_toc}
+
+* S.T.Nguyen, Review on “Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks”, KDD 2019
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/1xqftq9ry2jiwG?hostedIn=slideshare&page=upload" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+***
 ##### Jan 31th, 2023
 {:.no_toc}
 
