@@ -34,7 +34,7 @@ toc_label: "Table of Contents"
 ##### Mar 07th, 2023
 {:.no_toc}
 
-* Minwoo Choi, Review on "Spatio-Temporal Wind Speed Forecasting using Graph Networks and Novel Transformer Architectures", Appied Energy 333 2023
+* M.W.Choi, Review on "Spatio-Temporal Wind Speed Forecasting using Graph Networks and Novel Transformer Architectures", Appied Energy 333 2023
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/BvhvTOD8AiolEv?hostedIn=slideshare&page=upload" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
 
 ***
@@ -55,7 +55,7 @@ toc_label: "Table of Contents"
 ##### Feb 14th, 2023
 {:.no_toc}
 
-* Minwoo Choi, Review on "Short-term wind speed forecasting based on spatial-temporal graph transformer networks", Energy 2021
+* M.W.Choi, Review on "Short-term wind speed forecasting based on spatial-temporal graph transformer networks", Energy 2021
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/NzPemnb8jbiHDt?hostedIn=slideshare&page=upload" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
 
 ***
