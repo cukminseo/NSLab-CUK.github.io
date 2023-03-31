@@ -25,7 +25,7 @@ part 2
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/9dWIwzvOCGEWJ4?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
 ***
-##### Mar 21th, 2023
+##### Mar 21st, 2023
 {:.no_toc}
 
 * S.T.Nguyen, Review on "Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs", NeurIPS 2022
@@ -40,7 +40,7 @@ part 1
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/alAygijkgP9a2Z?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
 ***
-##### Mar 07th, 2023
+##### Mar 7th, 2023
 {:.no_toc}
 
 * M.W.Choi, Review on "Spatio-Temporal Wind Speed Forecasting using Graph Networks and Novel Transformer Architectures", Appied Energy 333 2023
@@ -54,7 +54,7 @@ part 1
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/seRDp6uhrdaAz5?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
 ***
-##### Fed 21th, 2023
+##### Fed 21st, 2023
 {:.no_toc}
 
 * V.T.Hoang, Review on "Breaking the Limit of Graph Neural Networks by Improving the Assortativity of Graphs with Local Mixing Patterns", KDD 2021
@@ -75,7 +75,7 @@ part 1
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/1xqftq9ry2jiwG?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
 ***
-##### Jan 31th, 2023
+##### Jan 31st, 2023
 {:.no_toc}
 
 * V.T.Hoang, Review on "Universal Graph Transformer Self-Attention Networks", WWW 2022
