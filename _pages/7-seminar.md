@@ -16,6 +16,19 @@ toc_label: "Table of Contents"
 ### Spring 2023
 
 ***
+#### Mar 31th, 2023
+{:.no_toc}
+
+* V.T.Hoang, Review on "Relative Molecule Self-Attention Transformer", ICLR 2022
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/gWUPTJyT8fiin4?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+
+* S.T.Nguyen, Review on "Multi-modal Trajectory Prediction for Autonomous Driving with Semantic Map and Dynamic Graph Attention Network", NIPS 2020
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/27htZdwgkuYF3r?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+
+* J.H.Lee,  Review on "Abstract Meaning Representation for Sembanking", ACL 2013
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/J7yqzA2L69vqWO?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+
+***
 #### Mar 24th, 2023
 {:.no_toc}
 
