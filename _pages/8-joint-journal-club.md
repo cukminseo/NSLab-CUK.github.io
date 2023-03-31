@@ -17,10 +17,17 @@ toc_label: "Table of Contents"
 ### Spring 2023
 
 ***
+##### Mar 28th, 2023
+{:.no_toc}
+
+* S.T.Nguyen, Review on "Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs" part 2, NeurIPS 2022
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/9dWIwzvOCGEWJ4?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+
+***
 ##### Mar 21th, 2023
 {:.no_toc}
 
-* S.T.Nguyen, Review on "Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs", NeurIPS 2022
+* S.T.Nguyen, Review on "Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs" part 1, NeurIPS 2022
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/oCeB4OE2MDsM3F?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
 ***
