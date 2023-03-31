@@ -16,7 +16,7 @@ toc_label: "Table of Contents"
 ### Spring 2023
 
 ***
-#### Mar 31th, 2023
+#### Mar 31st, 2023
 {:.no_toc}
 
 * V.T.Hoang, Review on "Relative Molecule Self-Attention Transformer", ICLR 2022
