@@ -19,6 +19,19 @@ toc_label: "Table of Contents"
 #### Mar 31st, 2023
 {:.no_toc}
 
+* V.T.Hoang, Review on "Principal Neighbourhood Aggregation for Graph Nets", NeurIPS 2020 
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/1Guf7KDcn8IJjb?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+
+* S.T.Nguyen, Review on "Hierarchical Graph Convolutional Networks for Semi-supervised Node Classification", IJCAI 2019
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/35VFjahN7wG9tK?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+
+* J.H.Lee,  Review on "MGCN: Semi-supervised Classification in Multi-layer Graphs with Graph Convolutional Networks", ASONAM 2019
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/NFLrXOrWGUU1Cb?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+
+***
+#### Mar 31st, 2023
+{:.no_toc}
+
 * V.T.Hoang, Review on "Relative Molecule Self-Attention Transformer", ICLR 2022
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/gWUPTJyT8fiin4?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
