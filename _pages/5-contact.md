@@ -39,7 +39,7 @@ image: CUK.jpg
 * [![Website](https://img.shields.io/badge/-Dept.%20of%20Artificial%20Intelligence-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://cukadmin.catholic.ac.kr/cukai.eng/index.html)
 * [![Website](https://img.shields.io/badge/-The%20Graduate%20School-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://cukadmin.catholic.ac.kr/gscuk.eng/index.html)
 
-<p align="center"><a href="https://cukai.catholic.ac.kr/cukai/index.html"><img align="center" src="/images/AI_Logo.png" style="width : 120px; margin : 10px"></a><a href="https://cukadmin.catholic.ac.kr/datascience/index.html"><img align="center" src="/images/DS_Logo.png" style="width : 120px; margin : 10px"></a><a href="https://cukadmin.catholic.ac.kr/bmsw/index.html"><img align="center" src="/images/BMSW_Logo.png" style="width : 120px; margin : 10px"></a></p>
+<p align="center"><a href="https://cukai.catholic.ac.kr/cukai/index.html"><img align="center" src="/images/AI_Logo.png" style="width : 250px; margin : 20px"></a><a href="https://cukadmin.catholic.ac.kr/datascience/index.html"><img align="center" src="/images/DS_Logo.png" style="width : 250px; margin : 20px"></a><a href="https://cukadmin.catholic.ac.kr/bmsw/index.html"><img align="center" src="/images/BMSW_Logo.png" style="width : 250px; margin : 20px"></a></p>
 
 ***
 
