@@ -22,6 +22,8 @@ toc_label: "Table of Contents"
 
 * Van Thuy Hoang, Hyeon-Ju Jeon, Eun-Soon You, Yoewon Yoon, Sungyeop Jung, O-Joun Lee: Graph Representation Learning and its Applications: A Survey. Sensors 04/2023; 23(8): 4168. <br>[![DOI](http://img.shields.io/:DOI-10.3390/s23084168-blue?style=flat-square)](https://doi.org/10.3390/s23084168)
 
+* Thanh Sang Nguyen, Jooho Lee, Van Thuy Hoang, O-Joun Lee: Connector 0.5: A unified framework for graph representation learning. arXiv:2304.13195. (Preprint) <br>[![arXiv](https://img.shields.io/badge/arXiv-2304.13195-b31b1b?style=flat-square)](https://arxiv.org/abs/2304.13195)
+
 ***
 ## Bibliographic Network Embedding
 
