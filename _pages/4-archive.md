@@ -26,6 +26,15 @@ image: CUK_4Seasons.jpg
   * [![arXiv](https://img.shields.io/badge/arXiv-2304.13195-b31b1b?style=flat-square)](https://arxiv.org/abs/2304.13195)
 
 ***
+##### Apr 19th, 2023
+{:.no_toc}
+
+* The briefing session for AI@CUK graduate admissions was successfully organized, and we would like to express our gratitude for the attendees' attention.
+  * [Presentation material](https://drive.google.com/file/d/1q_nXWi1Xw5xo-S4hBhHkv-0EgSYbX4x2/view?usp=sharing)
+
+<p align="center"><img width="700" src="/images/2023-1-admission.jpg"></p>
+
+***
 ##### Mar 28th, 2023
 {:.no_toc}
 
