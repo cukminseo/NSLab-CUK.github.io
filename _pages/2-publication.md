@@ -80,11 +80,15 @@ toc_label: "Table of Contents"
 
 ***
 
+* Min-Woo Choi, Hyeon-Ju Jeon, [Joo-Ho Lee](https://nslab-cuk.github.io/member/jhlee), O-Joun Lee: Topographic-aware wind forecasting system using multi-modal spatio-temporal graph neural network. The 2023 Conference of Korea Institute of Smart Media (KISM 2023), Jeju, Korea; 04/2023 (in Korean)
+
+* [Ho-Beom Kim](https://nslab-cuk.github.io/member/hbkim), [Joo-Ho Lee](https://nslab-cuk.github.io/member/jhlee), O-Joun Lee: Detection of Influential Unethical Expressions through Construction of a Spread Graph for Unethical Expression Propagation. The 2023 Conference of Korea Institute of Smart Media (KISM 2023), Jeju, Korea; 04/2023 (in Korean)
+
 * San-Hee Park, Kang-Min Kim, O-Joun Lee, Youjin Kang, Jaewon Lee, Su-Min Lee, SangKeun Lee: "Why do I feel offended?" - Korean Dataset for Offensive Language Identification. The 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), Dubrovnik, Croatia; 05/2023 (To appear in Findings of ACL)
 
-* [Ji-Yoon Song](https://nslab-cuk.github.io/member/jysong), [Se-Eun Cho](https://nslab-cuk.github.io/member/secho), [Joo-Ho Lee](https://nslab-cuk.github.io/member/jhlee), [Yeong-Min Kim](https://nslab-cuk.github.io/member/ymkim), [Hye-Bin Ahn](https://nslab-cuk.github.io/member/hbahn), O-Joun Lee: Context-aware Cross-domain Recommendation System for Retail Kiosk. The 2022 Conference of Korea Institute of Smart Media (KISM), Daejeon, Korea; 06/2022 (in Korean)
+* [Ji-Yoon Song](https://nslab-cuk.github.io/member/jysong), [Se-Eun Cho](https://nslab-cuk.github.io/member/secho), [Joo-Ho Lee](https://nslab-cuk.github.io/member/jhlee), [Yeong-Min Kim](https://nslab-cuk.github.io/member/ymkim), [Hye-Bin Ahn](https://nslab-cuk.github.io/member/hbahn), O-Joun Lee: Context-aware Cross-domain Recommendation System for Retail Kiosk. The 2022 Conference of Korea Institute of Smart Media (KISM 2022), Daejeon, Korea; 06/2022 (in Korean)
 
-* Won-Sik Oh, [Se-Eun Cho](https://nslab-cuk.github.io/member/secho), [Ji-Yoon Song](https://nslab-cuk.github.io/member/jysong), [Hye-Bin Ahn](https://nslab-cuk.github.io/member/hbahn), O-Joun Lee: News Article Recommendation and Curation System based on Document Embedding and Keyword Extraction. The 2022 Conference of Korea Institute of Smart Media (KISM), Daejeon, Korea; 06/2022 (in Korean)
+* Won-Sik Oh, [Se-Eun Cho](https://nslab-cuk.github.io/member/secho), [Ji-Yoon Song](https://nslab-cuk.github.io/member/jysong), [Hye-Bin Ahn](https://nslab-cuk.github.io/member/hbahn), O-Joun Lee: News Article Recommendation and Curation System based on Document Embedding and Keyword Extraction. The 2022 Conference of Korea Institute of Smart Media (KISM 2022), Daejeon, Korea; 06/2022 (in Korean)
 
 * Nam D Vo, O-Joun Lee, Khac-Hoai Nam Bui, Hae Gyun Lim, Hyeon-Ju Jeon, Phuong-Mai Nguyen, Jin-Taek Kim, Bui Quang Tuyen, Jason J Jung, Thuy Anh Vo: Computing4Human 2021: The 2nd International Conference on Human-centered Artificial Intelligence. The 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Da Nang, Vietnam; 10/2021 (Editorial)
 
