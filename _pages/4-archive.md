@@ -25,10 +25,6 @@ image: CUK_4Seasons.jpg
 
 <p align="center"><img width="700" src="/images/KISM2023.jpg"></p>
 
-<p align="center"><img width="700" src="/images/KISM2023-JH.jpg"></p>
-
-<p align="center"><img width="700" src="/images/KISM2023-HB.jpg"></p>
-
 ***
 ##### Apr 24th, 2023
 {:.no_toc}
