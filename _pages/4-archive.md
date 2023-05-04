@@ -18,6 +18,18 @@ image: CUK_4Seasons.jpg
 <p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" style="width : 120px; margin : 10px"></a></p>
 
 ***
+##### Apr 29th, 2023
+{:.no_toc}
+
+* Our undergraduate research assistants presented two papers at the 2023 Conference of Korea Institute of Smart Media (KISM 2023). 
+
+<p align="center"><img width="700" src="/images/KISM2023.jpg"></p>
+
+<p align="center"><img width="700" src="/images/KISM2023-JH.jpg"></p>
+
+<p align="center"><img width="700" src="/images/KISM2023-HB.jpg"></p>
+
+***
 ##### Apr 24th, 2023
 {:.no_toc}
 
