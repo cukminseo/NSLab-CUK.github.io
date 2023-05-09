@@ -16,6 +16,52 @@ toc_label: "Table of Contents"
 ### Spring 2023
 
 ***
+#### May 5st, 2023
+{:.no_toc}
+
+* V.T.Hoang, Review on "Exploiting Neighbor Effect: Conv-Agnostic GNNs Framework for Graphs with Heterophily", TNNLS 2023
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/LBDMuYlEndKw9d?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+
+* S.T.Nguyen, Review on "Are More Layers Beneficial to Graph Transformers?", ICLR 2023
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/iORkyJQNiLxWgK?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+
+* J.H.Lee,  Review on "Rethinking the Expressive Power of GNNs via Graph Biconnectivity", ICLR 2023
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/GHSPYDv42lwWGE?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+
+***
+#### Apr 28st, 2023
+{:.no_toc}
+
+* V.T.Hoang, Review on "Heterogeneous Graph Transformer", WWW 2020
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/gdB27PyS7VE7ka?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+
+* S.T.Nguyen, Review on "Weather-Aware Fiber-Wireless Traffic Prediction Using Graph Convolutional Networks", IEEE 2022
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/tA0wP4nkmlGNX?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+
+***
+#### Apr 21st, 2023
+{:.no_toc}
+
+* V.T.Hoang, Review on "Gophormer: Ego-Graph Transformer for Node Classification", CoRR 2021
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/sLISNe7ureLjPl?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+
+* S.T.Nguyen, Review on "Make Heterophily Graphs Better Fit GNN: A Graph Rewiring Approach", 
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/CMg0kZwRcFe4UO?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+
+***
+#### Apr 14st, 2023
+{:.no_toc}
+
+* V.T.Hoang, Review on "Role Equivalence Attention for Label Propagation in Graph Neural Networks", PAKDD 2020
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/BgwGHLUXjiJfFY?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+
+* S.T.Nguyen, Review on "DeepGCNs: Can GCNs Go as Deep as CNNs?", ICCV 2019
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/hRMZDAQWvwz6LG?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+
+* J.H.Lee,  Review on "Recipe for a General, Powerful, Scalable Graph Transformer", NeurIPS 2022
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/D60n0H9YzlPRON?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+
+***
 #### Apr 7st, 2023
 {:.no_toc}
 
