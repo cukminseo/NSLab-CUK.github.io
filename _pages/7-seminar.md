@@ -33,7 +33,7 @@ toc_label: "Table of Contents"
 {:.no_toc}
 
 * V.T.Hoang, Review on "Heterogeneous Graph Transformer", WWW 2020
-<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/gdB27PyS7VE7ka?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/jxNP4NGuDMCHkB?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 * S.T.Nguyen, Review on "Weather-Aware Fiber-Wireless Traffic Prediction Using Graph Convolutional Networks", IEEE 2022
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/tA0wP4nkmlGNX?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
