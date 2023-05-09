@@ -12,9 +12,22 @@ toc_label: "Table of Contents"
 * TOC
 {:toc}
 
-
 ***
 ### Spring 2023
+
+***
+##### May 2nd, 2023
+{:.no_toc}
+
+* THLee, Review on "Learning Conjoint Attentions for Graph Neural Nets", NeurIPS 2021
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/fBiuGE83PaJHAA?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+
+***
+##### Apr 11th, 2023
+{:.no_toc}
+
+* V.T.Hoang, Review on "NAGphormer: A Tokenized Graph Transformer for Node Classification in Large Graphs", ICLR 2023
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/2KixExTQx9nGB?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
 ***
 ##### Mar 28th, 2023
