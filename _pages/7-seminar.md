@@ -14,6 +14,18 @@ toc_label: "Table of Contents"
 
 ***
 ### Spring 2023
+***
+#### May 5st, 2023
+{:.no_toc}
+
+* V.T.Hoang, Review on "Multi-Order-Content-Based Adaptive Graph Attention Network for Graph Node Classification", Symmetry 2023
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/gYWFRCPWoqrrgX?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+
+* S.T.Nguyen, Review on "Do We Really Need Complicated Model Architectures For Temporal Networks?.” ICLR 2023
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/meEtBOpkxaoGKw?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+
+* J.H.Lee,  Review on "Rethinking the Expressive Power of GNNs via Graph Biconnectivity", ICLR 2023
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/7KvfWXreHX3Rzb?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 ***
 #### May 5st, 2023
