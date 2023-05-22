@@ -23,7 +23,7 @@ toc_label: "Table of Contents"
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/hpbnux3RjUGKtj?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 * J.H.Lee,  Review on "Graph Pre-training for AMR Parsing and Generation", ACL 2022
-<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/2U0tN2wwo4IuQJ?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/sPs3Z789QXVeW4?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 ***
 #### May 12st, 2023
