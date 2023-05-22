@@ -16,7 +16,7 @@ toc_label: "Table of Contents"
 ### Spring 2023
 
 ***
-#### May 19st, 2023
+#### May 19th, 2023
 {:.no_toc}
 
 * V.T.Hoang, Review on "Two-Dimensional Weisfeiler-Lehman Graph Neural Networks for Link Prediction", arXiv 2022
@@ -26,7 +26,7 @@ toc_label: "Table of Contents"
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/sPs3Z789QXVeW4?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 ***
-#### May 12st, 2023
+#### May 12th, 2023
 {:.no_toc}
 
 * V.T.Hoang, Review on "Multi-Order-Content-Based Adaptive Graph Attention Network for Graph Node Classification", Symmetry 2023
@@ -39,7 +39,7 @@ toc_label: "Table of Contents"
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/7KvfWXreHX3Rzb?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 ***
-#### May 5st, 2023
+#### May 5th, 2023
 {:.no_toc}
 
 * V.T.Hoang, Review on "Exploiting Neighbor Effect: Conv-Agnostic GNNs Framework for Graphs with Heterophily", TNNLS 2023
@@ -52,7 +52,7 @@ toc_label: "Table of Contents"
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/GHSPYDv42lwWGE?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 ***
-#### Apr 28st, 2023
+#### Apr 28th, 2023
 {:.no_toc}
 
 * V.T.Hoang, Review on "Heterogeneous Graph Transformer", WWW 2020
@@ -72,7 +72,7 @@ toc_label: "Table of Contents"
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/CMg0kZwRcFe4UO?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 ***
-#### Apr 14st, 2023
+#### Apr 14th, 2023
 {:.no_toc}
 
 * V.T.Hoang, Review on "Role Equivalence Attention for Label Propagation in Graph Neural Networks", PAKDD 2020
@@ -85,7 +85,7 @@ toc_label: "Table of Contents"
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/D60n0H9YzlPRON?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 ***
-#### Apr 7st, 2023
+#### Apr 7th, 2023
 {:.no_toc}
 
 * V.T.Hoang, Review on "Principal Neighbourhood Aggregation for Graph Nets", NeurIPS 2020 
