@@ -16,12 +16,13 @@ toc_label: "Table of Contents"
 ### Summer 2023
 
 ***
-
-* Summer School on Digital Humanities (Special Course)
+* [Summer School on Digital Humanities](https://nslab-cuk.github.io/2023/05/24/SS/) (Special Course)
   * Instructor: Eun-Soon You
+  * TA: [Hyo Eun Lee](https://nslab-cuk.github.io/member/helee) and [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim)
 
-* Summer School on Technical Writing (Special Course)
+* [Summer School on Technical Writing](https://nslab-cuk.github.io/2023/05/25/SS/) (Special Course)
   * Instructor: Eun-Soon You
+  * TA: [Hyo Eun Lee](https://nslab-cuk.github.io/member/helee) and [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim)
 
 ***
 ### Spring 2023
@@ -48,7 +49,6 @@ toc_label: "Table of Contents"
 ### Winter 2022
 
 ***
-
 * [Winter School on Ethics of AI and Robots](https://nslab-cuk.github.io/2022/12/05/WS/) (Special Course)
   * Instructor: Eun-Soon You
   * TA: [Se Eun Cho](https://nslab-cuk.github.io/member/secho) and [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim)
