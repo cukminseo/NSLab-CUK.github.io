@@ -13,6 +13,17 @@ toc_label: "Table of Contents"
 {:toc}
 
 ***
+### Summer 2023
+
+***
+
+* Winter School on Digital Humanities (Special Course)
+  * Instructor: Eun-Soon You
+
+* Winter School on Technical Writing (Special Course)
+  * Instructor: Eun-Soon You
+
+***
 ### Spring 2023
 
 ***
