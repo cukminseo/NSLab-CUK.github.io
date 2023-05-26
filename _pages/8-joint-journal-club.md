@@ -16,6 +16,13 @@ toc_label: "Table of Contents"
 ### Spring 2023
 
 ***
+##### May 23th, 2023
+{:.no_toc}
+
+* S.T.Nguyen, Review on "Graph Neural Networks for Link Prediction with Subgraph Sketching", ICLR 2023. 
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/4jxmnHJMhn0Igo?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+
+***
 ##### May 16th, 2023
 {:.no_toc}
 
