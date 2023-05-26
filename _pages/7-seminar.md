@@ -16,6 +16,19 @@ toc_label: "Table of Contents"
 ### Spring 2023
 
 ***
+#### May 25th, 2023
+{:.no_toc}
+
+* V.T.Hoang, Review on "Structured self-attention architecture for graph-level representation learning", 2020
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/gAGZhGQLYIXCe4?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+
+* S.T.Nguyen, Review on "Hypergraph Neural Networks", AAAI 2019
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/lmxqwjlsbGjl3l?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+
+* J.H.Lee,  Review on "How Attentive are Graph Attention Networks?", ICLR 2022
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/f9pO5CYhR0KIcz?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+
+***
 #### May 19th, 2023
 {:.no_toc}
 
