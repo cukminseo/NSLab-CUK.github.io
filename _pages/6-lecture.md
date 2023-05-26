@@ -17,10 +17,10 @@ toc_label: "Table of Contents"
 
 ***
 
-* Winter School on Digital Humanities (Special Course)
+* Summer School on Digital Humanities (Special Course)
   * Instructor: Eun-Soon You
 
-* Winter School on Technical Writing (Special Course)
+* Summer School on Technical Writing (Special Course)
   * Instructor: Eun-Soon You
 
 ***
