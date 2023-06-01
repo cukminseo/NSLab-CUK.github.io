@@ -24,6 +24,10 @@ toc_label: "Table of Contents"
   * Instructor: Eun-Soon You
   * TA: [Hyo Eun Lee](https://nslab-cuk.github.io/member/helee) and [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim)
 
+* [Summer School on Deep Learning with PyTorch](https://nslab-cuk.github.io/2023/05/31/SS/) (Special Course)
+  * Instructor: Namgyu Jung
+  * TA: [Hyo Eun Lee](https://nslab-cuk.github.io/member/helee) and [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim)
+
 ***
 ### Spring 2023
 
