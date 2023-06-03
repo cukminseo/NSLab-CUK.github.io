@@ -16,6 +16,13 @@ toc_label: "Table of Contents"
 ### Spring 2023
 
 ***
+##### May 30nd, 2023
+{:.no_toc}
+
+* JHLee, Review on "GraphMAE: Self-Supervised Masked Graph Autoencoders", KDD 2022
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/24ZNwoj4L44BhX?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+
+***
 ##### May 23rd, 2023
 {:.no_toc}
 
