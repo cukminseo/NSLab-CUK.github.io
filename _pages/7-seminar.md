@@ -16,6 +16,19 @@ toc_label: "Table of Contents"
 ### Spring 2023
 
 ***
+#### Jun 1st, 2023
+{:.no_toc}
+
+* V.T.Hoang, Review on "Graph Clustering with Graph Neural Networks", JMLR 2020
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/piYd770hHSvuSV?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+
+* S.T.Nguyen, Review on "Improving Graph Neural Network Expressivity via Subgraph Isomorphism Counting", IEEE 2020
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/RtiEyJc0xZy5A?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+
+* J.H.Lee,  Review on "GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training", KDD 2020
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/gJ7o5EZsSINm3q?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+
+***
 #### May 25th, 2023
 {:.no_toc}
 
