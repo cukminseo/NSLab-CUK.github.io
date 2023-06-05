@@ -195,6 +195,7 @@ Membership
 Editorship
 ------------
 
+* Guest Editor, Applied Sciences, Special Issue on "[Machine Learning and Artificial Intelligence for Human Information Analysis](https://www.mdpi.com/journal/applsci/special_issues/9E6QLH63AE)."
 * [Academic Editor, Plos One](https://journals.plos.org/plosone/static/editorial-board), since Dec 2022
 * Guest Editor, Sensors, Special Issue on "[Machine Learning and AI for Medical Data Analysis](https://www.mdpi.com/journal/sensors/special_issues/mdata_analysis)."
 * Corresponding Guest Editor, Concurrency and Computation: Practice and Experience (CCPE), Special Issue on "[Multimedia Content Analysis for Explainable Recommendation and Retrieval (RACS 2020)](http://www.cc-pe.net/journalinfo/issues/2020.html#RACS2020)."
