@@ -16,6 +16,16 @@ toc_label: "Table of Contents"
 ### Spring 2023
 
 ***
+#### Jun 8nd, 2023
+{:.no_toc}
+
+* V.T.Hoang, Review on "Structure-Aware Transformer for Graph Representation Learning", ICML 2022
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/kgcBRsd56x88Af?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+
+* S.T.Nguyen, Review on "DropAGG: Robust Graph Neural Networks via Drop Aggregation", Neural Netw 2023
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/zT5pcjKW4mbshA?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+
+***
 #### Jun 1st, 2023
 {:.no_toc}
 
