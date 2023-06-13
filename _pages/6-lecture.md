@@ -13,6 +13,24 @@ toc_label: "Table of Contents"
 {:toc}
 
 ***
+### Fall 2023
+
+***
+* Advanced Machine Learning (Graduate Course)
+  * Instructor: O-Joun Lee
+
+* Graph Neural Networks
+  * Instructor: O-Joun Lee
+  * TA: [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) and [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen)
+  * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Neural-Networks-Fall-2023)
+
+* 54345-01 Artificial Intelligence/Robot Ethics (Graduate Course)
+  * Instructor: Eun-Soon You
+
+* 06298-01 Living with AI
+  * Instructor: Eun-Soon You
+
+***
 ### Summer 2023
 
 ***
