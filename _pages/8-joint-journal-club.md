@@ -16,6 +16,13 @@ toc_label: "Table of Contents"
 ### Spring 2023
 
 ***
+##### Jun 28nd, 2023
+{:.no_toc}
+
+* HELee, Review on "Graph embedding on biomedical networks: methods, applications and evaluations", Bioinformatics 2020
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/NTh9QOVNN33g3p?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+
+***
 ##### May 30nd, 2023
 {:.no_toc}
 
