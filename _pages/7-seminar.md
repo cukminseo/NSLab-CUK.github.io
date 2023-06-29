@@ -16,6 +16,39 @@ toc_label: "Table of Contents"
 ### Spring 2023
 
 ***
+#### Jun 26nd, 2023
+{:.no_toc}
+
+* V.T.Hoang, Review on "Representation Learning On Heterogeneous Information Networks with Graph Transformer", WWW 2023
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/bOYamEHe3W21fS?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p></iframe>
+
+* J.H.Lee,  Review on "CoRGi: Content-Rich Graph Neural Networks with Attention", KDD 2022
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/2pz56EWVoEeB99?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p></iframe>
+
+***
+#### Jun 22nd, 2023
+{:.no_toc}
+
+* V.T.Hoang, Review on "Are Graph Attention Networks Attentive Enough? Rethinking Graph Attention by Capturing Homophily and Heterophily", ICLR 2023
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/wZllZhSLIXDSTH?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p></iframe>
+
+* J.H.Lee,  Review on "Self-supervised Heterogeneous Graph Pre-training Based on Structural Clustering", NeurIPS 2022
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/gHirZE8aSjOhKO?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p></iframe></iframe>
+
+* J.H.Lee,  Review on "Self-Supervised Graph Neural Networks via Diverse and Interactive Message Passing", AAAI 2022
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/pFgCONru5pPvSw?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p></iframe></iframe>
+
+***
+#### Jun 15nd, 2023
+{:.no_toc}
+
+* V.T.Hoang, Review on "Long Range Graph Benchmark.", NeurIPS 2022
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/9i8aDpQXgEP0bE?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p></iframe>
+
+* S.T.Nguyen, Review on "Continuous-Time Sequential Recommendation with Temporal Graph Collaborative Transformer", CIKM 2021
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/mUA59Z0LupM7ir?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+
+***
 #### Jun 8nd, 2023
 {:.no_toc}
 
