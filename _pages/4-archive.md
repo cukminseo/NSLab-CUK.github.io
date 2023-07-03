@@ -18,6 +18,16 @@ image: CUK_4Seasons.jpg
 <p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" style="width : 120px; margin : 10px"></a></p>
 
 ***
+##### Jul 3rd, 2023 -- Jul 31st, 2023
+{:.no_toc}
+
+* NS Lab@CUK organizes [the 1st NS-CUK Summer School on Deep Learning with PyTorch (NS-CUK DL 2023)](https://nslab-cuk.github.io/2023/05/31/SS/). This program consists of 5 lectures presented by Namgyu Jung and is scheduled to take place over a period of five weeks, from July 3rd, 2023, to July 31st, 2023.
+
+<p align="center"><img width="700" src="/images/230703.jpg"></p>
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a></p>
+
+***
 ##### Jun 29th, 2023
 {:.no_toc}
 
