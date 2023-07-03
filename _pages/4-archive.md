@@ -21,7 +21,7 @@ image: CUK_4Seasons.jpg
 ##### Jun 29th, 2023
 {:.no_toc}
 
-* We attended [The 2023 Summer Annual Conference of the Institute of Electronics and Information Engineers](https://conf.theieie.org/2023s/pages/guest_lecture.vm) and gave a talk on "Semiconductor Design with Graph Neural Networks."
+* We attended [The 2023 Summer Annual Conference of the Institute of Electronics and Information Engineers](https://conf.theieie.org/2023s/pages/guest_lecture.vm) and gave an invited talk on "Semiconductor Design with Graph Neural Networks."
 
 <p align="center"><img width="700" src="/images/230629.jpg"></p>
 
