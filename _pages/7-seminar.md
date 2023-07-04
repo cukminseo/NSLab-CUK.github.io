@@ -43,7 +43,7 @@ toc_label: "Table of Contents"
 {:.no_toc}
 
 * V.T.Hoang, Review on "Long Range Graph Benchmark.", NeurIPS 2022
-<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/9i8aDpQXgEP0bE?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p></iframe>
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/9i8aDpQXgEP0bE?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 * S.T.Nguyen, Review on "Continuous-Time Sequential Recommendation with Temporal Graph Collaborative Transformer", CIKM 2021
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/mUA59Z0LupM7ir?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
