@@ -31,9 +31,19 @@ image: CUK_4Seasons.jpg
 ##### Jun 29th, 2023
 {:.no_toc}
 
-* We attended [The 2023 Summer Annual Conference of the Institute of Electronics and Information Engineers](https://conf.theieie.org/2023s/pages/guest_lecture.vm) and gave an invited talk on "Semiconductor Design with Graph Neural Networks."
+* We attended [the 2023 Summer Annual Conference of the Institute of Electronics and Information Engineers](https://conf.theieie.org/2023s/pages/guest_lecture.vm) and gave an invited talk on "Semiconductor Design with Graph Neural Networks."
 
 <p align="center"><img width="700" src="/images/230629.jpg"></p>
+
+***
+##### Jun 27th, 2023 -- Jul 27th, 2023
+{:.no_toc}
+
+* NS Lab@CUK organizes [the 1st NS-CUK Summer School on Digital Humanities (NS-CUK DH 2023)](https://nslab-cuk.github.io/2023/05/24/SS/). This program consists of 10 lectures presented by Dr. Eun-Soon You and is scheduled to take place over a period of five weeks, from June 27th, 2023, to July 27th, 2023.
+
+<p align="center"><img width="700" src="/images/230627.jpg"></p>
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a></p>
 
 ***
 ##### May 15th, 2023
