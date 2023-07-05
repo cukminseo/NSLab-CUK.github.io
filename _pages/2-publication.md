@@ -80,6 +80,8 @@ toc_label: "Table of Contents"
 
 ***
 
+* Minsun Cho, O-Joun Lee, Sungyeop Jung: An Artificial Neural Network-based Compact Model for Organic Field-Effect Transistors with the Gaussian Disorder Model. The 2023 Asia-Pacific Workshop on Advanced Semiconductor Devices (AWAD 2023), Yokohama, Japan; 07/2023 ([Poster](https://drive.google.com/file/d/1fv7gLmXkhWWx31pbOmwLEgO80h_gE0hT/view?usp=sharing))
+
 * Min-Woo Choi, Hyeon-Ju Jeon, [Joo-Ho Lee](https://nslab-cuk.github.io/member/jhlee), O-Joun Lee: Topographic-aware wind forecasting system using multi-modal spatio-temporal graph neural network. The 2023 Conference of Korea Institute of Smart Media (KISM 2023), Jeju, Korea; 04/2023 (in Korean)
 
 * [Ho-Beom Kim](https://nslab-cuk.github.io/member/hbkim), [Joo-Ho Lee](https://nslab-cuk.github.io/member/jhlee), O-Joun Lee: Detection of Influential Unethical Expressions through Construction of a Spread Graph for Unethical Expression Propagation. The 2023 Conference of Korea Institute of Smart Media (KISM 2023), Jeju, Korea; 04/2023 (in Korean)
