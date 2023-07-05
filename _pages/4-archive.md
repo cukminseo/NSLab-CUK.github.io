@@ -18,6 +18,15 @@ image: CUK_4Seasons.jpg
 <p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" style="width : 120px; margin : 10px"></a></p>
 
 ***
+##### Jul 11th, 2023
+{:.no_toc}
+
+* We presented our research on semiconductor device simulation as a [poster](https://drive.google.com/file/d/1fv7gLmXkhWWx31pbOmwLEgO80h_gE0hT/view?usp=sharing) at [AWAD 2023](https://www.ieice.org/es/sdm/jpn/awad2023/index.html).
+  * Minsun Cho, O-Joun Lee, Sungyeop Jung: An Artificial Neural Network-based Compact Model for Organic Field-Effect Transistors with the Gaussian Disorder Model. [The 2023 Asia-Pacific Workshop on Advanced Semiconductor Devices (AWAD 2023)](https://www.ieice.org/es/sdm/jpn/awad2023/index.html), Yokohama, Japan; 07/2023 ([Poster](https://drive.google.com/file/d/1fv7gLmXkhWWx31pbOmwLEgO80h_gE0hT/view?usp=sharing))
+
+<p align="center"><img width="700" src="/images/AWAD2023_Poster.webp"></p>
+
+***
 ##### Jul 3rd, 2023 -- Jul 31st, 2023
 {:.no_toc}
 
