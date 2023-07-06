@@ -14,9 +14,21 @@ toc_label: "Table of Contents"
 
 ***
 ### Spring 2023
+***
+#### Jul 3nd, 2023
+{:.no_toc}
+
+* V.T.Hoang, Review on "Relphormer: Relational Graph Transformer for Knowledge Graph Representations", 2022
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/rQ5qqgxAyGQiae?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+
+* S.T.Nguyen, Review on "Hierarchical Graph Transformer with Adaptive Node Sampling", NeurIPS 2022
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/rUnhRkCC5y6cH3?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+
+* J.H.Lee,  Review on "Graph Pointer Neural Networks", AAAI 2022
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/q2uk4iivuqb4Jz?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
 ***
-#### Jun 26nd, 2023
+#### Jun 26th, 2023
 {:.no_toc}
 
 * V.T.Hoang, Review on "Representation Learning On Heterogeneous Information Networks with Graph Transformer", WWW 2023
@@ -39,7 +51,7 @@ toc_label: "Table of Contents"
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/pFgCONru5pPvSw?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 ***
-#### Jun 15nd, 2023
+#### Jun 15th, 2023
 {:.no_toc}
 
 * V.T.Hoang, Review on "Long Range Graph Benchmark.", NeurIPS 2022
@@ -49,7 +61,7 @@ toc_label: "Table of Contents"
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/mUA59Z0LupM7ir?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 ***
-#### Jun 8nd, 2023
+#### Jun 8th, 2023
 {:.no_toc}
 
 * V.T.Hoang, Review on "Structure-Aware Transformer for Graph Representation Learning", ICML 2022
