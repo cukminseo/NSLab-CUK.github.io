@@ -22,7 +22,7 @@ image: CUK_4Seasons.jpg
 {:.no_toc}
 
 * We presented our research on semiconductor device simulation as a [poster](https://drive.google.com/file/d/1fv7gLmXkhWWx31pbOmwLEgO80h_gE0hT/view?usp=sharing) at [AWAD 2023](https://www.ieice.org/es/sdm/jpn/awad2023/index.html).
-  * Minsun Cho, O-Joun Lee, Sungyeop Jung: An Artificial Neural Network-based Compact Model for Organic Field-Effect Transistors with the Gaussian Disorder Model. [The 2023 Asia-Pacific Workshop on Advanced Semiconductor Devices (AWAD 2023)](https://www.ieice.org/es/sdm/jpn/awad2023/index.html), Yokohama, Japan; 07/2023 ([Poster](https://drive.google.com/file/d/1fv7gLmXkhWWx31pbOmwLEgO80h_gE0hT/view?usp=sharing))
+  * Minsun Cho, O-Joun Lee, Sungyeop Jung: An Artificial Neural Network-based Compact Model for Organic Field-Effect Transistors with the Gaussian Disorder Model. [The 2023 Asia-Pacific Workshop on Advanced Semiconductor Devices (AWAD 2023)](https://www.ieice.org/es/sdm/jpn/awad2023/index.html), Yokohama, Japan; 07/2023 ([Poster](https://drive.google.com/file/d/1fv7gLmXkhWWx31pbOmwLEgO80h_gE0hT/view?usp=sharing); in Korean)
 
 <p align="center"><img width="700" src="/images/AWAD2023_Poster.webp"></p>
 
