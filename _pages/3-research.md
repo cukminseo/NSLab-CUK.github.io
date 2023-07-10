@@ -100,13 +100,13 @@ toc_label: "Table of Contents"
 
 * Hae Gyun Lim†, O-Joun Lee†, K. Kirk Shung, Jin-Taek Kim, Hyung Ham Kim: Classification of Breast Cancer Cells Using the Integration of High-Frequency Single-Beam Acoustic Tweezers and Convolutional Neural Networks. Cancers 05/2020; 12(5): 1212. (†: Co-first authors) <br>[![DOI](http://img.shields.io/:DOI-10.3390/cancers12051212-blue?style=flat-square)](https://doi.org/10.3390/cancers12051212)
 
-* Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: High-frequency ultrasound and convolutional neural network: A Potential tool for diagnosis of diabetes mellitus. [Samsung Global Technology Symposium](https://www.samsung-gts.technology/), Seoul, Korea; 04/2023 ([Poster](https://drive.google.com/file/d/10VUYGe9Y3unTdUDHQ5FP0LmF15_GLR1i/view?usp=sharing))
+* Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: High-frequency ultrasound and convolutional neural network: A Potential tool for diagnosis of diabetes mellitus. [Samsung Global Technology Symposium](https://www.samsung-gts.technology/), Seoul, Korea; 04/2023 ([Poster](https://drive.google.com/file/d/10VUYGe9Y3unTdUDHQ5FP0LmF15_GLR1i/view?usp=sharing); in Korean)
 
 <p align="center">
   <img width="700" src="/images/Samsung2023_poster_JL.webp">
 </p>
 
-* Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: A Potential Tool of Non-Invasive Diabetes Diagnosis using High-Frequency Ultrasound and Convolutional Neural Networks. [The 2023 Spring Conference of The Acoustical Society of Korea](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265), Jeju, Korea; 06/2023 ([Poster](https://drive.google.com/file/d/1wcnm1kmlVxVGWQKs0Lpw1jLnvbo3RR1I/view?usp=sharing))
+* Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: A Potential Tool of Non-Invasive Diabetes Diagnosis using High-Frequency Ultrasound and Convolutional Neural Networks. [The 2023 Spring Conference of The Acoustical Society of Korea](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265), Jeju, Korea; 06/2023 ([Poster](https://drive.google.com/file/d/1wcnm1kmlVxVGWQKs0Lpw1jLnvbo3RR1I/view?usp=sharing); in Korean)
 
 <p align="center">
   <img width="700" src="/images/ASK2023_poster_JL.webp">
@@ -135,7 +135,7 @@ toc_label: "Table of Contents"
 ## Semiconductor Design and Simulation
 {:.no_toc}
 
-* Minsun Cho, O-Joun Lee, Sungyeop Jung: An Artificial Neural Network-based Compact Model for Organic Field-Effect Transistors with the Gaussian Disorder Model. [The 2023 Asia-Pacific Workshop on Advanced Semiconductor Devices (AWAD 2023)](https://www.ieice.org/es/sdm/jpn/awad2023/index.html), Yokohama, Japan; 07/2023 ([Poster](https://drive.google.com/file/d/1fv7gLmXkhWWx31pbOmwLEgO80h_gE0hT/view?usp=sharing))
+* Minsun Cho, O-Joun Lee, Sungyeop Jung: An Artificial Neural Network-based Compact Model for Organic Field-Effect Transistors with the Gaussian Disorder Model. [The 2023 Asia-Pacific Workshop on Advanced Semiconductor Devices (AWAD 2023)](https://www.ieice.org/es/sdm/jpn/awad2023/index.html), Yokohama, Japan; 07/2023 ([Poster](https://drive.google.com/file/d/1fv7gLmXkhWWx31pbOmwLEgO80h_gE0hT/view?usp=sharing); in Korean)
 
 <p align="center">
   <img width="700" src="/images/AWAD2023_Poster.webp">
