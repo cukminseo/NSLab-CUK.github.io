@@ -80,13 +80,17 @@ toc_label: "Table of Contents"
 
 ***
 
-* Minsun Cho, O-Joun Lee, Sungyeop Jung: An Artificial Neural Network-based Compact Model for Organic Field-Effect Transistors with the Gaussian Disorder Model. The 2023 Asia-Pacific Workshop on Advanced Semiconductor Devices (AWAD 2023), Yokohama, Japan; 07/2023 ([Poster](https://drive.google.com/file/d/1fv7gLmXkhWWx31pbOmwLEgO80h_gE0hT/view?usp=sharing))
+* Minsun Cho, O-Joun Lee, Sungyeop Jung: An Artificial Neural Network-based Compact Model for Organic Field-Effect Transistors with the Gaussian Disorder Model. The 2023 Asia-Pacific Workshop on Advanced Semiconductor Devices (AWAD 2023), Yokohama, Japan; 07/2023 ([Poster](https://drive.google.com/file/d/1fv7gLmXkhWWx31pbOmwLEgO80h_gE0hT/view?usp=sharing); in Korean)
+
+* Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: A Potential Tool of Non-Invasive Diabetes Diagnosis using High-Frequency Ultrasound and Convolutional Neural Networks. [The 2023 Spring Conference of The Acoustical Society of Korea](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265), Jeju, Korea; 06/2023 ([Poster](https://drive.google.com/file/d/1wcnm1kmlVxVGWQKs0Lpw1jLnvbo3RR1I/view?usp=sharing); in Korean)
+
+* San-Hee Park, Kang-Min Kim, O-Joun Lee, Youjin Kang, Jaewon Lee, Su-Min Lee, SangKeun Lee: "Why do I feel offended?" - Korean Dataset for Offensive Language Identification. Findings of the Association for Computational Linguistics - The 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), Dubrovnik, Croatia; 05/2023
 
 * Min-Woo Choi, Hyeon-Ju Jeon, [Joo-Ho Lee](https://nslab-cuk.github.io/member/jhlee), O-Joun Lee: Topographic-aware wind forecasting system using multi-modal spatio-temporal graph neural network. The 2023 Conference of Korea Institute of Smart Media (KISM 2023), Jeju, Korea; 04/2023 (in Korean)
 
 * [Ho-Beom Kim](https://nslab-cuk.github.io/member/hbkim), [Joo-Ho Lee](https://nslab-cuk.github.io/member/jhlee), O-Joun Lee: Detection of Influential Unethical Expressions through Construction of a Spread Graph for Unethical Expression Propagation. The 2023 Conference of Korea Institute of Smart Media (KISM 2023), Jeju, Korea; 04/2023 (in Korean)
 
-* San-Hee Park, Kang-Min Kim, O-Joun Lee, Youjin Kang, Jaewon Lee, Su-Min Lee, SangKeun Lee: "Why do I feel offended?" - Korean Dataset for Offensive Language Identification. Findings of the Association for Computational Linguistics - The 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), Dubrovnik, Croatia; 05/2023
+* Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: High-frequency ultrasound and convolutional neural network: A Potential tool for diagnosis of diabetes mellitus. [Samsung Global Technology Symposium](https://www.samsung-gts.technology/), Seoul, Korea; 04/2023 ([Poster](https://drive.google.com/file/d/10VUYGe9Y3unTdUDHQ5FP0LmF15_GLR1i/view?usp=sharing); in Korean)
 
 * [Ji-Yoon Song](https://nslab-cuk.github.io/member/jysong), [Se-Eun Cho](https://nslab-cuk.github.io/member/secho), [Joo-Ho Lee](https://nslab-cuk.github.io/member/jhlee), [Yeong-Min Kim](https://nslab-cuk.github.io/member/ymkim), [Hye-Bin Ahn](https://nslab-cuk.github.io/member/hbahn), O-Joun Lee: Context-aware Cross-domain Recommendation System for Retail Kiosk. The 2022 Conference of Korea Institute of Smart Media (KISM 2022), Daejeon, Korea; 06/2022 (in Korean)
 
