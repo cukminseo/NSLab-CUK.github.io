@@ -21,8 +21,8 @@ image: CUK_4Seasons.jpg
 ##### Jul 11th, 2023
 {:.no_toc}
 
-* We presented our research on semiconductor device simulation as a [poster](https://drive.google.com/file/d/1fv7gLmXkhWWx31pbOmwLEgO80h_gE0hT/view?usp=sharing) at [AWAD 2023](https://www.ieice.org/es/sdm/jpn/awad2023/index.html).
-  * Minsun Cho, O-Joun Lee, Sungyeop Jung: An Artificial Neural Network-based Compact Model for Organic Field-Effect Transistors with the Gaussian Disorder Model. [The 2023 Asia-Pacific Workshop on Advanced Semiconductor Devices (AWAD 2023)](https://www.ieice.org/es/sdm/jpn/awad2023/index.html), Yokohama, Japan; 07/2023 ([Poster](https://drive.google.com/file/d/1fv7gLmXkhWWx31pbOmwLEgO80h_gE0hT/view?usp=sharing); in Korean)
+* A research collaboration between NS@CUK and AICT on semiconductor device simulation has been presented as a [poster](https://drive.google.com/file/d/1fv7gLmXkhWWx31pbOmwLEgO80h_gE0hT/view?usp=sharing) at [AWAD 2023](https://www.ieice.org/es/sdm/jpn/awad2023/index.html).
+  * Minsun Cho, O-Joun Lee, Sungyeop Jung: An Artificial Neural Network-based Compact Model for Organic Field-Effect Transistors with the Gaussian Disorder Model. [The 2023 Asia-Pacific Workshop on Advanced Semiconductor Devices (AWAD 2023)](https://www.ieice.org/es/sdm/jpn/awad2023/index.html), Yokohama, Japan; 07/2023 ([Poster](https://drive.google.com/file/d/1fv7gLmXkhWWx31pbOmwLEgO80h_gE0hT/view?usp=sharing))
 
 <p align="center"><img width="700" src="/images/AWAD2023_Poster.webp"></p>
 
@@ -55,6 +55,15 @@ image: CUK_4Seasons.jpg
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://cukai.catholic.ac.kr/cukai/index.html"><img align="center" src="/images/AI_Logo.png" style="width : 100px; margin : 15px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a></p>
 
 ***
+##### Jun 1st, 2023
+{:.no_toc}
+
+* A research collaboration between NS@CUK and BU@PKNU on single cell analysis with deep learning has been introduced as a [poster](https://drive.google.com/file/d/1wcnm1kmlVxVGWQKs0Lpw1jLnvbo3RR1I/view?usp=sharing) at [ASK 2023 Spring](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265).
+  * Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: A Potential Tool of Non-Invasive Diabetes Diagnosis using High-Frequency Ultrasound and Convolutional Neural Networks. [The 2023 Spring Conference of The Acoustical Society of Korea](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265), Jeju, Korea; 06/2023 ([Poster](https://drive.google.com/file/d/1wcnm1kmlVxVGWQKs0Lpw1jLnvbo3RR1I/view?usp=sharing); in Korean)
+
+<p align="center"><img width="700" src="/images/ASK2023_poster_JL.webp"></p>
+
+***
 ##### May 15th, 2023
 {:.no_toc}
 
@@ -75,6 +84,15 @@ image: CUK_4Seasons.jpg
 * NS Lab@CUK released a novel graph representation learning framework, [Connector](https://github.com/NSLab-CUK/Connector), which is developed in Python using the PyTorch library. Connector Ver. 0.5 is a test release that will be further developed to enable researchers from different fields to apply graph representation learning models to their research. Connector is available at:
   * [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Connector)
   * [![arXiv](https://img.shields.io/badge/arXiv-2304.13195-b31b1b?style=flat-square)](https://arxiv.org/abs/2304.13195)
+
+***
+##### Apr 21st, 2023
+{:.no_toc}
+
+* A research collaboration between NS@CUK and BU@PKNU on single cell analysis with deep learning has been introduced as a [poster](https://drive.google.com/file/d/10VUYGe9Y3unTdUDHQ5FP0LmF15_GLR1i/view?usp=sharing) at [Samsung Global Technology Symposium](https://www.samsung-gts.technology/).
+  * Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: High-frequency ultrasound and convolutional neural network: A Potential tool for diagnosis of diabetes mellitus. [Samsung Global Technology Symposium](https://www.samsung-gts.technology/), Seoul, Korea; 04/2023 ([Poster](https://drive.google.com/file/d/10VUYGe9Y3unTdUDHQ5FP0LmF15_GLR1i/view?usp=sharing); in Korean)
+
+<p align="center"><img width="700" src="/images/Samsung2023_poster_JL.webp"></p>
 
 ***
 ##### Apr 19th, 2023
