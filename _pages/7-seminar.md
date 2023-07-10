@@ -13,8 +13,19 @@ toc_label: "Table of Contents"
 {:toc}
 
 ***
-### Spring 2023
+### Summer 2023
 ***
+
+#### Jul 10th, 2023
+* V.T.Hoang, Review on "Are More Layers Beneficial to Graph Transformers?", ICLR 2023
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/tSYYw65XtdZeVp?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+
+* S.T.Nguyen, Review on "Accurate learning of graph representations with graph multiset pooling", ICLR 2021
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/FYOEOrwnkx1i1i?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+
+* J.H.Lee,  Review on "raph Neural Networks with convolutional ARMA filters", IEEE Transactions on Pattern Analysis and Machine Intelligence
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/11eR6MsUszdKie?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+
 #### Jul 3nd, 2023
 {:.no_toc}
 
@@ -83,6 +94,8 @@ toc_label: "Table of Contents"
 * J.H.Lee,  Review on "GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training", KDD 2020
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/gJ7o5EZsSINm3q?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
+***
+### Spring 2023
 ***
 #### May 25th, 2023
 {:.no_toc}
