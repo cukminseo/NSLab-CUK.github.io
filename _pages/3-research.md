@@ -103,7 +103,13 @@ toc_label: "Table of Contents"
 * Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: High-frequency ultrasound and convolutional neural network: A Potential tool for diagnosis of diabetes mellitus. [Samsung Global Technology Symposium](https://www.samsung-gts.technology/), Seoul, Korea; 04/2023 ([Poster](https://drive.google.com/file/d/10VUYGe9Y3unTdUDHQ5FP0LmF15_GLR1i/view?usp=sharing))
 
 <p align="center">
-  <img width="700" src="/images/Poster-CellAnalysis.jpg">
+  <img width="700" src="/images/Samsung2023_poster_JL.webp">
+</p>
+
+* Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: A Potential Tool of Non-Invasive Diabetes Diagnosis using High-Frequency Ultrasound and Convolutional Neural Networks. [The 2023 Spring Conference of The Acoustical Society of Korea](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265), Jeju, Korea; 06/2023 ([Poster](https://drive.google.com/file/d/1wcnm1kmlVxVGWQKs0Lpw1jLnvbo3RR1I/view?usp=sharing))
+
+<p align="center">
+  <img width="700" src="/images/ASK2023_poster_JL.webp">
 </p>
 
 ***
