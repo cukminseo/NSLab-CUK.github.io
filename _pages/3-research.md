@@ -100,6 +100,8 @@ toc_label: "Table of Contents"
 
 * Hae Gyun Lim†, O-Joun Lee†, K. Kirk Shung, Jin-Taek Kim, Hyung Ham Kim: Classification of Breast Cancer Cells Using the Integration of High-Frequency Single-Beam Acoustic Tweezers and Convolutional Neural Networks. Cancers 05/2020; 12(5): 1212. (†: Co-first authors) <br>[![DOI](http://img.shields.io/:DOI-10.3390/cancers12051212-blue?style=flat-square)](https://doi.org/10.3390/cancers12051212)
 
+* Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: High-frequency ultrasound and convolutional neural network: A Potential tool for diagnosis of diabetes mellitus. [Samsung Global Technology Symposium](https://www.samsung-gts.technology/), Seoul, Korea; 04/2023 ([Poster](https://drive.google.com/file/d/10VUYGe9Y3unTdUDHQ5FP0LmF15_GLR1i/view?usp=sharing))
+
 <p align="center">
   <img width="700" src="/images/Poster-CellAnalysis.jpg">
 </p>
