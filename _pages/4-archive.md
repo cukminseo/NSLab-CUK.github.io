@@ -21,7 +21,7 @@ image: CUK_4Seasons.jpg
 ##### Jul 11th, 2023
 {:.no_toc}
 
-* A research collaboration between NS@CUK and AICT on semiconductor device simulation has been presented as a [poster](https://drive.google.com/file/d/1fv7gLmXkhWWx31pbOmwLEgO80h_gE0hT/view?usp=sharing) at [AWAD 2023](https://www.ieice.org/es/sdm/jpn/awad2023/index.html).
+* The research collaboration between NS@CUK and AICT on semiconductor device simulation has been presented as a [poster](https://drive.google.com/file/d/1fv7gLmXkhWWx31pbOmwLEgO80h_gE0hT/view?usp=sharing) at [AWAD 2023](https://www.ieice.org/es/sdm/jpn/awad2023/index.html).
   * Minsun Cho, O-Joun Lee, Sungyeop Jung: An Artificial Neural Network-based Compact Model for Organic Field-Effect Transistors with the Gaussian Disorder Model. [The 2023 Asia-Pacific Workshop on Advanced Semiconductor Devices (AWAD 2023)](https://www.ieice.org/es/sdm/jpn/awad2023/index.html), Yokohama, Japan; 07/2023 ([Poster](https://drive.google.com/file/d/1fv7gLmXkhWWx31pbOmwLEgO80h_gE0hT/view?usp=sharing))
 
 <p align="center"><img width="700" src="/images/AWAD2023_Poster.webp"></p>
@@ -58,10 +58,18 @@ image: CUK_4Seasons.jpg
 ##### Jun 1st, 2023
 {:.no_toc}
 
-* A research collaboration between NS@CUK and BU@PKNU on single cell analysis with deep learning has been introduced as a [poster](https://drive.google.com/file/d/1wcnm1kmlVxVGWQKs0Lpw1jLnvbo3RR1I/view?usp=sharing) at [ASK 2023 Spring](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265).
+* The research collaboration between NS@CUK and BU@PKNU on cell property analysis with deep learning has been presented as three posters at [ASK 2023 Spring](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265).
   * Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: A Potential Tool of Non-Invasive Diabetes Diagnosis using High-Frequency Ultrasound and Convolutional Neural Networks. [The 2023 Spring Conference of The Acoustical Society of Korea](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265), Jeju, Korea; 06/2023 ([Poster](https://drive.google.com/file/d/1wcnm1kmlVxVGWQKs0Lpw1jLnvbo3RR1I/view?usp=sharing); in Korean)
 
 <p align="center"><img width="700" src="/images/ASK2023_poster_JL.webp"></p>
+
+  * Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee, Hae Gyun Lim: Automated Dysnatremia Measurement using Ultrasound Signals and Convolutional Neural Networks. [The 2023 Spring Conference of The Acoustical Society of Korea](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265), Jeju, Korea; 06/2023 ([Poster](https://drive.google.com/file/d/1pb3myPMBzHBZCg1shM38BCV7fSXJL496/view?usp=sharing); in Korean)
+
+<p align="center"><img width="700" src="/images/ASK2023_poster_JN.webp"></p>
+
+  * Daehun Kim, Hyeon-Ju Jeon, Hye Yun Jeong, O-Joun Lee, Hae Gyun Lim: Automatic Monitoring System for Red Tide Detection using Ultrasonic Signals and Convolutional Neural Networks. [The 2023 Spring Conference of The Acoustical Society of Korea](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265), Jeju, Korea; 06/2023 ([Poster](https://drive.google.com/file/d/1TdYEOkzftD38bxeVG-hBnlu0px87z083/view?usp=sharing); in Korean)
+
+<p align="center"><img width="700" src="/images/ASK2023_poster_DK.webp"></p>
 
 ***
 ##### May 15th, 2023
@@ -89,7 +97,7 @@ image: CUK_4Seasons.jpg
 ##### Apr 21st, 2023
 {:.no_toc}
 
-* A research collaboration between NS@CUK and BU@PKNU on single cell analysis with deep learning has been introduced as a [poster](https://drive.google.com/file/d/10VUYGe9Y3unTdUDHQ5FP0LmF15_GLR1i/view?usp=sharing) at [Samsung Global Technology Symposium](https://www.samsung-gts.technology/).
+* The research collaboration between NS@CUK and BU@PKNU on cell property analysis with deep learning has been introduced as a [poster](https://drive.google.com/file/d/10VUYGe9Y3unTdUDHQ5FP0LmF15_GLR1i/view?usp=sharing) at [Samsung Global Technology Symposium](https://www.samsung-gts.technology/).
   * Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: High-frequency ultrasound and convolutional neural network: A Potential tool for diagnosis of diabetes mellitus. [Samsung Global Technology Symposium](https://www.samsung-gts.technology/), Seoul, Korea; 04/2023 ([Poster](https://drive.google.com/file/d/10VUYGe9Y3unTdUDHQ5FP0LmF15_GLR1i/view?usp=sharing); in Korean)
 
 <p align="center"><img width="700" src="/images/Samsung2023_poster_JL.webp"></p>
