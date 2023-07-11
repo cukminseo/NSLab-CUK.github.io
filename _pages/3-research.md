@@ -112,11 +112,21 @@ toc_label: "Table of Contents"
   <img width="700" src="/images/ASK2023_poster_JL.webp">
 </p>
 
+* Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee, Hae Gyun Lim: Automated Dysnatremia Measurement using Ultrasound Signals and Convolutional Neural Networks. [The 2023 Spring Conference of The Acoustical Society of Korea](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265), Jeju, Korea; 06/2023 ([Poster](https://drive.google.com/file/d/1pb3myPMBzHBZCg1shM38BCV7fSXJL496/view?usp=sharing); in Korean)
+
+<p align="center">
+  <img width="700" src="/images/ASK2023_poster_JN.webp">
+</p>
+
 ***
 ## Marine Environment Monitoring System
 {:.no_toc}
 
-* TBA
+* Daehun Kim, Hyeon-Ju Jeon, Hye Yun Jeong, O-Joun Lee, Hae Gyun Lim: Automatic Monitoring System for Red Tide Detection using Ultrasonic Signals and Convolutional Neural Networks. [The 2023 Spring Conference of The Acoustical Society of Korea](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265), Jeju, Korea; 06/2023 ([Poster](https://drive.google.com/file/d/1TdYEOkzftD38bxeVG-hBnlu0px87z083/view?usp=sharing); in Korean)
+
+<p align="center">
+  <img width="700" src="/images/ASK2023_poster_DK.webp">
+</p>
 
 ***
 ## Diagnosis and Staging of Liver Fibrosis
