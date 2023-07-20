@@ -276,6 +276,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 * Dr. Nam D. Vo, FPT University, Danang, Vietnam
 * Dr. Phuong-Mai Nguyen, International School, Vietnam National University, Hanoi, Vietnam
 * Dr. Khac-Hoai Nam Bui, Viettel Cyberspace Center, Viettel, Hanoi, Vietnam
+* Dr. [Gen Li](https://scholar.google.com/citations?hl=en&user=euEki6wAAAAJ&view_op=list_works), Chengdu University, Chengdu, China
 * Dr. [Min Gon Kim](https://sites.google.com/view/mingonk), Carnegie Mellon University, Pittsburgh, PA, USA
 * Kangsan Kim, [Braincolla Inc.](https://braincolla.com/), Seoul, Korea
 
