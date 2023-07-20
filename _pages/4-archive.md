@@ -25,6 +25,10 @@ image: CUK_4Seasons.jpg
 
 <p align="center"><img width="700" src="/images/230720.jpg"></p>
 
+<p align="center"><img width="700" src="/images/Competition2023_Poster.jpg"></p>
+
+<p align="center"><a href="https://cukai.catholic.ac.kr/cukai/index.html"><img align="center" src="/images/AI_Logo.png" style="width : 100px; margin : 15px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a></p>
+
 ***
 ##### Jul 11th, 2023
 {:.no_toc}
@@ -233,6 +237,10 @@ image: CUK_4Seasons.jpg
 * [Jooho Lee](https://nslab-cuk.github.io/member/jhlee) and [Se Eun Cho](https://nslab-cuk.github.io/member/secho) participated in [the 2022 CUK Competition on Data Analytics](https://sites.google.com/view/cukdata/home) and won the best award. 
 
 <p align="center"><img width="700" src="/images/Competition2022.jpg"></p>
+
+<p align="center"><img width="700" src="/images/Competition2022_Poster.jpg"></p>
+
+<p align="center"><a href="https://cukai.catholic.ac.kr/cukai/index.html"><img align="center" src="/images/AI_Logo.png" style="width : 100px; margin : 15px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a></p>
 
 ***
 ##### Oct 1st, 2022
