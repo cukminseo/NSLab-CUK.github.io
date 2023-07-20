@@ -26,7 +26,8 @@ toc_label: "Table of Contents"
 * J.H.Lee,  Review on "raph Neural Networks with convolutional ARMA filters", IEEE Transactions on Pattern Analysis and Machine Intelligence
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/11eR6MsUszdKie?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
-#### Jul 3nd, 2023
+***
+#### Jul 3rd, 2023
 {:.no_toc}
 
 * V.T.Hoang, Review on "Relphormer: Relational Graph Transformer for Knowledge Graph Representations", 2022
