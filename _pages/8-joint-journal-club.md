@@ -19,21 +19,21 @@ toc_label: "Table of Contents"
 ##### Jul 5th, 2023
 {:.no_toc}
 
-* HBKim, Review on "Neural Graph Collaborative Filtering", SIGIR 2019
+* H.B.Kim, Review on "Neural Graph Collaborative Filtering", SIGIR 2019
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/6Ik5i6zNjFqMp9?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
 ***
 ##### Jun 28th, 2023
 {:.no_toc}
 
-* HELee, Review on "Graph embedding on biomedical networks: methods, applications and evaluations", Bioinformatics 2020
+* H.E.Lee, Review on "Graph embedding on biomedical networks: methods, applications and evaluations", Bioinformatics 2020
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/NTh9QOVNN33g3p?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
 ***
 ##### May 30th, 2023
 {:.no_toc}
 
-* JHLee, Review on "GraphMAE: Self-Supervised Masked Graph Autoencoders", KDD 2022
+* J.H.Lee, Review on "GraphMAE: Self-Supervised Masked Graph Autoencoders", KDD 2022
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/24ZNwoj4L44BhX?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
 ***
@@ -54,7 +54,7 @@ toc_label: "Table of Contents"
 ##### May 2nd, 2023
 {:.no_toc}
 
-* JHLee, Review on "Learning Conjoint Attentions for Graph Neural Nets", NeurIPS 2021
+* J.H.Lee, Review on "Learning Conjoint Attentions for Graph Neural Nets", NeurIPS 2021
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/fBiuGE83PaJHAA?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
 ***
