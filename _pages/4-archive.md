@@ -18,6 +18,14 @@ image: CUK_4Seasons.jpg
 <p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" style="width : 120px; margin : 10px"></a></p>
 
 ***
+##### Jul 20th, 2023
+{:.no_toc}
+
+* [Jooho Lee](https://nslab-cuk.github.io/member/jhlee), [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim), and [Hyo Eun Lee](https://nslab-cuk.github.io/member/helee) have once again distinguished themselves in the 2023 CUK Competition on Data Analytics, securing the best award for the second consecutive year.
+
+<p align="center"><img width="700" src="/images/230720.jpg"></p>
+
+***
 ##### Jul 11th, 2023
 {:.no_toc}
 
