@@ -16,11 +16,30 @@ image: CUK.jpg
 
 - 모집 대상: 인공지능에 대한 열정과 성실함을 가진 3-4학년 학생 또는 대학원 진학을 희망하는 분
 - 제출 서류: 자신의 인공지능 및 컴퓨터공학에 대한 경험과 배경지식을 보여줄 수 있는 자유형식의 자기소개서
-- 제출처: ojlee@catholic.ac.kr
 
-지원을 원하시는 분들은 위의 이메일로 자신의 이력서를 보내주시기 바랍니다.
+지원을 원하시는 분들은 아래의 이메일로 자신의 이력서를 보내주시기 바랍니다.
+
+[![E-mail](https://img.shields.io/badge/Director-ojlee@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:ojlee@catholic.ac.kr)
 
 선발된 연구원들에게는 첨단학과 클러스터 내에서 독립된 연구 공간, 연구 과제 수행에 따른 인건비 지원, 그리고 논문 및 특허 작성에 대한 참여 기회가 제공될 예정입니다.
+
+#### International Applicants
+
+We are delighted to announce the start of recruitment at NS@CUK. We are currently seeking students for our combined MS/Ph.D. or stand-alone Ph.D. programmes who demonstrate a passion and commitment to the field. Our work primarily revolves around the methods and applications of artificial intelligence for the collection, representation and analysis of various unstructured data using graph structures.
+
+Recently, we have shifted our focus to the application of graph neural networks and graph transformers in diverse domains such as rumour propagation, medical knowledge graphs, recommendation/retrieval systems, renewable energy, and semiconductor design. In addition, we are dedicated to extending GNNs to provide a better understanding of graph structures. For a more detailed look at our work, please visit [our lab website](https://nslab-cuk.github.io/research/).
+
+With our diverse experience in network science, graph mining, and the analysis of other unstructured data, we are confident in the value of the research we can produce together.
+
+* Requirements
+  * Fluency in English, both spoken and written (e.g. TOEIC >= 780, IELTS >= 5.5, etc.)
+  * English language skills will be assessed in an interview for applicants without English test scores.
+  * Basic understanding of computer science and artificial intelligence
+  * A background in graph theory is an advantage
+
+If you are interested in joining our team, we encourage you to contact us. Please send your CV to the following email address and we can arrange an online or offline interview.
+
+[![E-mail](https://img.shields.io/badge/Director-ojlee@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:ojlee@catholic.ac.kr)
 
 ***
 ### Addresses
