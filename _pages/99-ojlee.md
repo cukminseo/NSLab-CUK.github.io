@@ -246,6 +246,7 @@ Projects
 Principal Investigator
 ------------
 
+* Industry-Academic Joint Technology Development Project (LINC3.0), 60 Mil KRW, MOE, 2023
 * Korea-EU Cooperation Promotion Program, 25 Mil KRW, MSIT, 2022 -- 2023
 * Intramural Research Grants, 7 Mil KRW, CUK, 2022 -- 2023
 * Basic Science Research Program, 132 Mil KRW, MSIT, 2022 -- 2025
@@ -256,6 +257,7 @@ Principal Investigator
 Co-Principal Investigator
 ------------
 
+* Commissioned Research Project, 90 Mil KRW, KICT, 2023
 * Industry-Academic Cooperation Project, 30 Mil KRW, Order Queen Co., Ltd., 2022
 * Industry-Academic Cooperation Project, 150 Mil KRW, IntoCNS Co., Ltd., 2022
 * Industry-Academic Cooperation Project, 150 Mil KRW, RIST, 2020
