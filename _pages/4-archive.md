@@ -76,10 +76,15 @@ image: CUK_4Seasons.jpg
   * Daehun Kim, Hyeon-Ju Jeon, Hye Yun Jeong, O-Joun Lee, Hae Gyun Lim: Automatic Monitoring System for Red Tide Detection using Ultrasonic Signals and Convolutional Neural Networks. [The 2023 Spring Conference of The Acoustical Society of Korea](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265), Jeju, Korea; 06/2023 ([Poster](https://drive.google.com/file/d/1TdYEOkzftD38bxeVG-hBnlu0px87z083/view?usp=sharing); in Korean)
 
 <p align="center"><img width="700" src="/images/ASK2023_poster_JL.webp"></p>
-
+<br>
 <p align="center"><img width="700" src="/images/ASK2023_poster_JN.webp"></p>
-
+<br>
 <p align="center"><img width="700" src="/images/ASK2023_poster_DK.webp"></p>
+<br>
+
+* We started participating in a commissioned research project on "Analysis of Redundancies and Conflicts in Construction Standards," funded by [Korea Institute of Civil Engineering and Building Technology (KICT)](https://www.kict.re.kr/eng/) (Jun 2023 -- Nov 2023, 90 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/), Prof. [Youjin Shin](https://adslab0.github.io/), and their teams.
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="http://www.orderqueen.co.kr/"><img align="center" src="/images/KICT_Logo.png" style="width : 150px; margin : 10px"></a></p>
 
 ***
 ##### May 15th, 2023
