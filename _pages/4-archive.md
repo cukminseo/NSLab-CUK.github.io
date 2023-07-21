@@ -49,6 +49,14 @@ image: CUK_4Seasons.jpg
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://cukai.catholic.ac.kr/cukai/index.html"><img align="center" src="/images/AI_Logo.png" style="width : 100px; margin : 15px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a></p>
 
 ***
+##### Jul 1st, 2023
+{:.no_toc}
+
+* We started an industry-academic joint technology development project, affiliated with [Leaders in INdustry-university Cooperation 3.0 (LINC3.0)](https://linc.catholic.ac.kr/lincplus/index.html) on "K-Food/Cosmetics safety evaluation and recommendation solution based on cross-culture knowledge graph," through NRF of Korea and funded by MOE of Korea (Jul 2023 -- Dec 2023, 60 Mil KRW), by cooperating with [Shukran Korea Inc.](https://www.shukrankorea.com/)
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://www.shukrankorea.com/"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 280px; margin : 10px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/Shukran_Logo.png" style="width : 220px; margin : 10px"></a><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.moe.go.kr/"><img align="center" src="/images/MOE_Logo.png" style="width : 100px; margin : 10px"></a></p>
+
+***
 ##### Jun 29th, 2023
 {:.no_toc}
 
