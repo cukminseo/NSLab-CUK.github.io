@@ -16,7 +16,7 @@ toc_label: "Table of Contents"
 ### Summer 2023
 ***
 
-#### Jul 22nd, 2023
+#### Jul 17th, 2023
 * V.T.Hoang, Review on "Multi-Order-Content-Based Adaptive Graph Attention Network for Graph Node Classification", Symmetry 2023
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/1Ah2oegTxdut3Y?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
