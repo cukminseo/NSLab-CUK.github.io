@@ -56,7 +56,7 @@ If you are interested in joining our team, we encourage you to contact us. Pleas
   * [![Map](https://img.shields.io/badge/Director-Michael%20Hall%20T404-0C2E86?style=flat-square&logo=GoogleMaps&logoColor=white)](https://goo.gl/maps/2W2nVL7KKWWMnWq89)
   * [![Map](https://img.shields.io/badge/Lab%20%231-Sophie%20Barat%20Hall%20B348-0C2E86?style=flat-square&logo=GoogleMaps&logoColor=white)](https://goo.gl/maps/QN3KLhGJC1RYcnNH6)
   * [![Map](https://img.shields.io/badge/Lab%20%232-Sophie%20Barat%20Hall%20B349-0C2E86?style=flat-square&logo=GoogleMaps&logoColor=white)](https://goo.gl/maps/QN3KLhGJC1RYcnNH6)
-* 경기도 부천시 지봉로 43 가톨릭대학교 성심교정 소피이바라관 첨단학과클러스터 B348호 네트워크과학연구실
+* 경기도 부천시 지봉로 43 가톨릭대학교 성심교정 소피이바라관(B관) 첨단학과클러스터 B348호 네트워크과학연구실
 
 ***
 ### E-mail Addresses
