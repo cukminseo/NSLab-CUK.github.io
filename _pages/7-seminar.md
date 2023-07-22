@@ -14,9 +14,11 @@ toc_label: "Table of Contents"
 
 ***
 ### Summer 2023
-***
 
+***
 #### Jul 17th, 2023
+{:.no_toc}
+
 * V.T.Hoang, Review on "Multi-Order-Content-Based Adaptive Graph Attention Network for Graph Node Classification", Symmetry 2023
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/1Ah2oegTxdut3Y?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
@@ -24,8 +26,9 @@ toc_label: "Table of Contents"
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/nnSi8XyT35M4vz?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
 ***
-
 #### Jul 10th, 2023
+{:.no_toc}
+
 * V.T.Hoang, Review on "Are More Layers Beneficial to Graph Transformers?", ICLR 2023
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/FYOEOrwnkx1i1i?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
@@ -72,6 +75,9 @@ toc_label: "Table of Contents"
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/pFgCONru5pPvSw?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 ***
+### Spring 2023
+
+***
 #### Jun 15th, 2023
 {:.no_toc}
 
@@ -104,8 +110,6 @@ toc_label: "Table of Contents"
 * J.H.Lee,  Review on "GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training", KDD 2020
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/gJ7o5EZsSINm3q?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
-***
-### Spring 2023
 ***
 #### May 25th, 2023
 {:.no_toc}
