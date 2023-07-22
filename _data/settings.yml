@@ -13,7 +13,8 @@ author:
   image: 220908_2.jpg
   #logo_please.png
   say-hello: <strong>Network Science Lab</strong>
-  bio: Network science is a research field about unveiling structural patterns in real-world interaction networks, e.g., social networks, bibliographic networks, power grids, etc. NS Lab, affiliated with the Dept. of AI, CUK, studies a broad range of theories, methodologies, and applications related to collecting, representing, and analyzing networked data.
+  bio: Network science is a field of study that aims to reveal structural patterns in real-world interaction networks, such as social networks, bibliographic networks, power grids, and others. The Network Science Lab (NS Lab; 네트워크과학연구실), part of the Department of Artificial Intelligence at CUK, conducts extensive research on a wide range of theories, methodologies, and applications related to the collection, representation, and analysis of networked data.
+  
   #Network science is a research field about unveiling structural patterns in real-world interaction networks, e.g., social networks, bibliographic networks, power grids, etc. We study a broad range of theories, methodologies, and applications related to collecting, representing, and analyzing networked data.
   #Network Science Lab, Dept. of Artificial Intelligence, The Catholic University of Korea studies a broad range of theories, methodologies, and applications related to collecting, representing, and analyzing networked data.
 
