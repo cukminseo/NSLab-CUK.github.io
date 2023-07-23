@@ -28,8 +28,10 @@ toc_label: "Table of Contents"
 ##### Jun 28th, 2023
 {:.no_toc}
 
-* H.E.Lee, Review on "Graph embedding on biomedical networks: methods, applications and evaluations", Bioinformatics 2020
-<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/NTh9QOVNN33g3p?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+<details markdown="1">
+  <summary> H.E.Lee, Review on "Graph embedding on biomedical networks: methods, applications and evaluations", Bioinformatics 2020</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/NTh9QOVNN33g3p?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
 
 ***
 ### Spring 2023
