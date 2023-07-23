@@ -8,6 +8,10 @@ toc_sticky: true
 toc_label: "Table of Contents"
 ---
 
+This page is an archive for papers reviewed by members of the Network Science Lab, along with corresponding presentation materials, as part of the NS-CUK Weekly Seminar series. Launched in Fall 2022, this seminar series is intended to be a platform for the members of the Network Science Lab at the Catholic University of Korea to exchange insights and understanding of state-of-the-art AI methodologies and models for graph mining.
+
+***
+
 <h5>Table of Contents</h5>
 * TOC
 {:toc}
