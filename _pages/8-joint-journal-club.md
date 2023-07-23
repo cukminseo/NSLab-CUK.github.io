@@ -8,7 +8,7 @@ toc_sticky: true
 toc_label: "Table of Contents"
 ---
 
-This page serves as a repository for papers reviewed by the Network Science Lab members and their accompanying presentations materials as part of the AI-CUK Joint Journal Club. This initiative is a collaboration between various labs within the Department of Artificial Intelligence at the Catholic University of Korea, beginning in Winter 2022. The participating labs in the Joint Journal Club include the Network Science Lab, the BRAIN Lab (led by Prof. Dong-Hwa Jeong), and the Industrial AI Lab (led by Prof. Jaeyeon Jang).
+This page serves as a repository for papers reviewed by the Network Science Lab members and their accompanying presentation materials as part of the AI-CUK Joint Journal Club. This weekly seminar series is a collaboration between various labs within the Department of Artificial Intelligence at the Catholic University of Korea, beginning in Winter 2022. The participating labs in the Joint Journal Club include the Network Science Lab, the BRAIN Lab (led by Prof. Dong-Hwa Jeong), and the Industrial AI Lab (led by Prof. Jaeyeon Jang).
 
 ***
 
