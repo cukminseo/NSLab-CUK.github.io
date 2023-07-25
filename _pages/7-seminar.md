@@ -23,6 +23,18 @@ This page is an archive for papers reviewed by members of the Network Science La
 #### Jul 17th, 2023
 {:.no_toc}
 
+* V.T.Hoang, Review on "Nested Graph Neural Networks", NeurIPS 2021
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/3GYOXEYKrCYktg?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+
+* J.H.Lee,  Review on "Rumor Dectection on Twitter with Claim-Guided Hierarchical Graph Attention Networks", EMNLP 2021
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/GY4BRn1ZinT8mk?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+
+***
+#### Jul 17th, 2023
+{:.no_toc}
+
 * V.T.Hoang, Review on "Multi-Order-Content-Based Adaptive Graph Attention Network for Graph Node Classification", Symmetry 2023
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/1Ah2oegTxdut3Y?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
