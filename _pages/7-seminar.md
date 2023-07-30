@@ -20,6 +20,18 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### Summer 2023
 
 ***
+#### Jul 24th, 2023
+{:.no_toc}
+
+* V.T.Hoang, Review on "Muhan Zhang, Pan Li: Nested Graph Neural Networks", NeurIPS 2021
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/IzDTNIy9S7g5Si?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+
+* J.H.Lee, "Review on "Rumor Detection on Twitter with Claim-Guided Hierarchical Graph Attention Networks", EMNLP 2021
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/Fd3Jm5YKtijEp0?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+
+***
 #### Jul 17th, 2023
 {:.no_toc}
 
