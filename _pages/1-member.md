@@ -68,7 +68,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 			<li>Sep 2022 -- Present: Ph.D. Course, Dept. of Artificial Intelligence, The Graduate School, The Catholic University of Korea, Bucheon, Korea</li>	
 			<li>Jan 2017 -- Dec 2018: M.Eng. in Information System, Le Quy Don Technical University, Hanoi, Vietnam</li>
 			<li>Sep 2008 -- Dec 2013: B.Eng. in Information Technology, Le Quy Don Technical University, Hanoi, Vietnam</li>
-			<li>Research Interest: Network Representation Learning</li>
+			<li>Research Interest: Graph Representation Learning</li>
 			<li><a href="mailto:hoangvanthuy90@catholic.ac.kr"><img src="https://img.shields.io/badge/-hoangvanthuy90@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
 			<li><a href="https://github.com/hoangvanthuy90"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 		</ul></td>
@@ -114,7 +114,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 			<li>Sep 2022 -- Present: M.Eng. Course, Dept. of Artificial Intelligence, The Graduate School, The Catholic University of Korea, Bucheon, Korea</li>
 			<li>March 2021 -- Sep 2022: DevOps Engineer, <a href="https://symphony.com/">Symphony</a> project, FPT Software, Danang, Vietnam</li>
 			<li>Sep 2017 -- Jun 2021: B.Eng. in Software Engineering, Duy Tan University, Danang, Vietnam</li>
-			<li>Research Interest: Network Representation Learning</li>
+			<li>Research Interest: Graph Representation Learning</li>
 			<li><a href="mailto:sangnguyen@catholic.ac.kr"><img src="https://img.shields.io/badge/-sangnguyen@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
 			<li><a href="https://github.com/nguyenthanhsang99"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 		</ul></td>
@@ -147,7 +147,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/jhlee.jpg"/></td>  
 		<td><ul>
 			<li>Mar 2020 -- Present: School of Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea</li>		
-			<li>Research Interest: Network Representation Learning</li>
+			<li>Research Interest: Graph Representation Learning</li>
 			<li><a href="mailto:jooho0223@catholic.ac.kr"><img src="https://img.shields.io/badge/-jooho0223@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
 			<li><a href="https://github.com/BWAAEEEK"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 		</ul></td>
@@ -191,7 +191,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/hbkim.jpg"/></td>  
 		<td><ul>
 			<li>Mar 2022 -- Present: Dept. of Mathematices, The Catholic University of Korea, Bucheon, Korea</li>		
-			<li>Research Interest: Network Representation Learning</li>
+			<li>Research Interest: Graph Representation Learning</li>
 			<li><a href="https://github.com/kim-hobeom"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 			<li><a href="https://velog.io/@khb6494"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a></li>
 		</ul></td>
@@ -205,7 +205,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/helee.jpg"/></td>  
 		<td><ul>
 			<li>Mar 2020 -- Present: Dept. of Biotechnology, The Catholic University of Korea, Bucheon, Korea</li>		
-			<li>Research Interest: Network Representation Learning</li>
+			<li>Research Interest: Medical Knowledge Graph</li>
 			<li><a href="mailto:gydnsml@catholic.ac.kr"><img src="https://img.shields.io/badge/-gydnsml@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
 		</ul></td>
 	</tr>
