@@ -8,6 +8,10 @@ toc_sticky: true
 toc_label: "Table of Contents"
 ---
 
+> Graphs illustrate intricate patterns in our perception of the world and ourselves; graph mining enhances this comprehension by highlighting overlooked details.
+
+***
+
 If you are interested in our research topics and objectives, you may find it beneficial to explore the content of our regular seminars through the links provided below.   
 [![Link](https://img.shields.io/badge/NS@CUK-Weekly%20Seminar-0C2E86?style=flat-square)](https://nslab-cuk.github.io/seminar/)
 [![Link](https://img.shields.io/badge/AI@CUK-Joint%20Journal%20Club-0C2E86?style=flat-square)](https://nslab-cuk.github.io/joint-journal-club/)
