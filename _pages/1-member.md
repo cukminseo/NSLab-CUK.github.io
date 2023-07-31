@@ -25,6 +25,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
  -->
 * Sep 2021 -- Present: Assistant Professor, [Dept. of AI](https://cukadmin.catholic.ac.kr/cukai.eng/index.html), CUK
 * Sep 2019 -- Aug 2021: Full-time Researcher, Future IT Innovation Laboratory, POSTECH
+* <a href="mailto:ojlee@catholic.ac.kr"><img src="https://img.shields.io/badge/ojlee@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
 <!--
 * Mar 2022 -- Present: Head/Assistant Professor, [Dept. of Artificial Intelligence, The Graduate School](https://cukadmin.catholic.ac.kr/cukai.eng/D_141_6080.html), The Catholic University of Korea, Bucheon, Korea
