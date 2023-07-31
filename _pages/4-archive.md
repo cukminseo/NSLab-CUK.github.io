@@ -26,6 +26,16 @@ image: CUK_4Seasons.jpg
   * Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee, Hae Gyun Lim: Classification of Red Blood Cells for the Diagnosis of dysnatremia Based on Ultrasound and Convolutional Neural Networks. The 2023 IEEE International Ultrasonics Symposium (IEEE IUS 2023), Montreal, Canada; 09/2023 (Poster)
 
 ***
+##### Jul 31st, 2023 -- Aug 21st, 2023
+{:.no_toc}
+
+* NS Lab@CUK organizes [the 1st NS-CUK Summer School on Technical Writing (NS-CUK TW 2023)](https://nslab-cuk.github.io/2023/05/25/SS/). This program consists of 10 lectures presented by Dr. Eun-Soon You and is scheduled to take place over a period of five weeks, from July 31st, 2023, to August 21st, 2023.
+
+<p align="center"><img width="700" src="/images/230731.jpg"></p>
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://cukai.catholic.ac.kr/cukai/index.html"><img align="center" src="/images/AI_Logo.png" style="width : 100px; margin : 15px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a></p>
+
+***
 ##### Jul 20th, 2023
 {:.no_toc}
 
