@@ -46,6 +46,12 @@ image: CUK_4Seasons.jpg
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://cukai.catholic.ac.kr/cukai/index.html"><img align="center" src="/images/AI_Logo.png" style="width : 100px; margin : 15px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a></p>
 
 ***
+##### Jul 28th, 2023
+{:.no_toc}
+
+<p align="center"><img width="700" src="/images/230728.jpg"></p>
+
+***
 ##### Jul 20th, 2023
 {:.no_toc}
 
