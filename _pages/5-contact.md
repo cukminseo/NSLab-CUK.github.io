@@ -85,4 +85,11 @@ If you are interested in joining our team, we encourage you to contact us. Pleas
 
 ***
 
+### Miscellaneous
+
+* [![Download](https://custom-icon-badges.demolab.com/badge/-Presentation%20Template-0C2E86?style=flat-square&logo=download&logoColor=FFFFFF)](https://docs.google.com/presentation/d/1b9780QEetoU5Fvcf9Qru4BuSDuKmZj-2/edit?usp=sharing&ouid=108773870950556903410&rtpof=true&sd=true)
+
+***
+
+
 
