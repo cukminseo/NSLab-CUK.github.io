@@ -26,6 +26,14 @@ image: CUK_4Seasons.jpg
   * Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee, Hae Gyun Lim: Classification of Red Blood Cells for the Diagnosis of dysnatremia Based on Ultrasound and Convolutional Neural Networks. The 2023 IEEE International Ultrasonics Symposium (IEEE IUS 2023), Montreal, Canada; 09/2023 (Poster)
 
 ***
+##### Aug 6th, 2023 -- Aug 10th, 2023
+{:.no_toc}
+
+* We have participated in [ACM RACS 2023](https://www.sigapp.org/RACS/RACS2023/), [Gdańsk](https://goo.gl/maps/9Bsfz87mC4K7Z4rd7), Poland. We will also dedicate ourselves to organizing future conferences sponsored or cooperated by [ACM SIGAPP](https://www.sigapp.org/), including ACM RACS and SMA.
+
+<p align="center"><img width="700" src="/images/230809.jpg"></p>
+
+***
 ##### Aug 3rd, 2023 -- Aug 4th, 2023
 {:.no_toc}
 
