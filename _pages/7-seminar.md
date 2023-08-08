@@ -18,6 +18,13 @@ This page is an archive for papers reviewed by members of the Network Science La
 
 ***
 ### Summer 2023
+***
+#### Jul 24th, 2023
+{:.no_toc}
+
+* J.H.Lee, "Review on "Similarity Preserving Adversarial Graph Contrastive Learning", KDD 2023
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/7xe1nXD9nGCUhn?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
 ***
 #### Jul 24th, 2023
