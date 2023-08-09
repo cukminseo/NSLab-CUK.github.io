@@ -170,6 +170,16 @@ toc_label: "Table of Contents"
 
 ***
 
+# Unpublished Manuscripts
+
+***
+
+* Thanh Sang Nguyen, Jooho Lee, Van Thuy Hoang, O-Joun Lee: Connector 0.5: A unified framework for graph representation learning. arXiv:2304.13195. (Preprint)
+
+
+
+***
+
 # Patents
 
 ***
