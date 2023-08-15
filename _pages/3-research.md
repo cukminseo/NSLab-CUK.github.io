@@ -17,8 +17,11 @@ If you are interested in our research topics and objectives, you may find it ben
 [![Link](https://img.shields.io/badge/AI@CUK-Joint%20Journal%20Club-0C2E86?style=flat-square)](https://nslab-cuk.github.io/joint-journal-club/)
 
 A non-technical introduction to the field of network science and graph mining can be found in the following readings. (비전공자를 위한 네트워크 과학과 그래프 마이닝 분야 소개는 다음 읽을거리들을 참조하세요.)   
-[![repo](https://custom-icon-badges.demolab.com/badge/%231-0C2E86.svg?style=flat-square&logo=repo&logoColor=FFFFFF)](https://www.soopsci.com/Story/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=15617972&t=board)
-[![repo](https://custom-icon-badges.demolab.com/badge/%232-0C2E86.svg?style=flat-square&logo=repo&logoColor=FFFFFF)](https://www.soopsci.com/Story/?idx=15893043&bmode=view)
+[![repo](https://custom-icon-badges.demolab.com/badge/%231%20in%20Kor-0C2E86.svg?style=flat-square&logo=repo&logoColor=FFFFFF)](https://www.soopsci.com/Story/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=15617972&t=board)
+[![repo](https://custom-icon-badges.demolab.com/badge/%232%20in%20Kor-0C2E86.svg?style=flat-square&logo=repo&logoColor=FFFFFF)](https://www.soopsci.com/Story/?idx=15893043&bmode=view)
+[![repo](https://custom-icon-badges.demolab.com/badge/%233%20in%20Eng-0C2E86.svg?style=flat-square&logo=repo&logoColor=FFFFFF)](https://cphss.wustl.edu/methodsandstrategies/social-network-analysis/network-analysis-101/)
+[![repo](https://custom-icon-badges.demolab.com/badge/%234%20in%20Kor-0C2E86.svg?style=flat-square&logo=repo&logoColor=FFFFFF)](https://www.sciencetimes.co.kr/news/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B3%BC%ED%95%99-6%EB%8B%A8%EA%B3%84%EB%A7%8C-%EA%B1%B0%EC%B9%98%EB%A9%B4-%EB%AA%A8%EB%91%90-%EC%95%88%EB%8B%A4/)
+[![repo](https://custom-icon-badges.demolab.com/badge/%235%20in%20Eng-0C2E86.svg?style=flat-square&logo=repo&logoColor=FFFFFF)](https://visiblenetworklabs.com/network-science-101/)
 
 ***
 
