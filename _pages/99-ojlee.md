@@ -10,7 +10,13 @@ image:
 
 <br>
 
-[![DBLP](https://img.shields.io/badge/DBLP-004F9F?style=flat-square&logo=dblp)](http://dblp.uni-trier.de/pers/hd/l/Lee:O=Joun) [![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google+Scholar&logoColor=white)](https://scholar.google.com/citations?user=43GFjoYAAAAJ&hl=en) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](http://orcid.org/0000-0001-8921-5443) [![Scopus](https://img.shields.io/badge/Scopus%20Author%20ID-E9711C?style=flat-square&logo=Scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57150108800&logoColor=white) [![Publons](https://img.shields.io/badge/Publons-336699?style=flat-square&logo=Publons)](https://publons.com/researcher/268401/o-joun-lee/) 
+[![DBLP](https://img.shields.io/badge/DBLP-004F9F?style=flat-square&logo=dblp)](http://dblp.uni-trier.de/pers/hd/l/Lee:O=Joun) 
+[![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google+Scholar&logoColor=white)](https://scholar.google.com/citations?user=43GFjoYAAAAJ&hl=en) 
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](http://orcid.org/0000-0001-8921-5443) 
+[![Scopus](https://img.shields.io/badge/Scopus%20Author%20ID-E9711C?style=flat-square&logo=Scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57150108800&logoColor=white) 
+[![Publons](https://img.shields.io/badge/Publons-336699?style=flat-square&logo=Publons)](https://publons.com/researcher/268401/o-joun-lee/) 
+[![semanticscholar](https://img.shields.io/badge/Semantic%20Scholar-336699?style=flat-square&logo=semantic+scholar&logoColor=white)](https://www.semanticscholar.org/author/O-Joun-Lee/144914730)
+[![Pure](https://img.shields.io/badge/Pure-FF6C00?style=flat-square&logo=elsevier&logoColor=white)](https://cuk.elsevierpure.com/en/persons/o-joun-lee) 
 
 <br>
 
