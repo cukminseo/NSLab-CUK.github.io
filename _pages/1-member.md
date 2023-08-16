@@ -193,7 +193,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/hbkim.jpg"/></td>  
 		<td><ul>
 			<li>Mar 2022 -- Present: Dept. of Mathematices, The Catholic University of Korea, Bucheon, Korea</li>		
-			<li>Research Interest: Graph Representation Learning</li>
+			<li>Research Interest: Recommendation Systems</li>
 			<li><a href="https://github.com/kim-hobeom"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 			<li><a href="https://velog.io/@khb6494"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a></li>
 		</ul></td>
@@ -220,10 +220,10 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/skmin.jpg"/></td>  
 		<td><ul>
 			<li>Mar 2019 -- Present: School of Information, Communications and Electronic Engineering, The Catholic University of Korea, Bucheon, Korea</li>		
-			<li>Research Interest: Recommendation System</li>
+			<li>Research Interest: Recommendation Systems</li>
+			<li><a href="mailto:kms39273@catholic.ac.kr"><img src="https://img.shields.io/badge/-kms39273@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
 			<li><a href="https://github.com/cukminseo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 			<li><a href="https://velog.io/@kms39273"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a></li>
-			<li><a href="mailto:kms39273@catholic.ac.kr"><img src="https://img.shields.io/badge/-kms39273@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
 		</ul></td>
 	</tr>
 </table>
