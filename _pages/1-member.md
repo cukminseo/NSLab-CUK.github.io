@@ -213,7 +213,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	</tr>
 </table>
 
-###### [Min Seo Kim](https://nslab-cuk.github.io/member/skmin) (Jan 2023 -- Present)
+###### [Min Seo Kim](https://nslab-cuk.github.io/member/skmin) (Aug 2023 -- Present)
 
 <table border="0">  
 	<tr valign="top">
