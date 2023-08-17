@@ -65,6 +65,9 @@ image: CUK_4Seasons.jpg
 ##### Jul 28th, 2023
 {:.no_toc}
 
+* [Min Seo Kim](https://nslab-cuk.github.io/member/skmin) has joined as an undergraduate researcher. :tada: :tada:
+* On a hot summer afternoon,
+
 <p align="center"><img width="700" src="/images/230728.jpg"></p>
 
 ***
