@@ -154,6 +154,12 @@ image: CUK_4Seasons.jpg
 <p align="center"><img width="700" src="/images/20230515.jpg"></p>
 
 ***
+##### May 4th, 2023
+{:.no_toc}
+
+* Hye-Min Kim has joined as an undergraduate researcher. :tada: :tada:
+
+***
 ##### Apr 29th, 2023
 {:.no_toc}
 
