@@ -16,10 +16,10 @@ toc_label: "Table of Contents"
 ### Fall 2023
 
 ***
-* Advanced Machine Learning (Graduate Course)
+* 54495-01 Advanced Machine Learning (Graduate Course)
   * Instructor: O-Joun Lee
 
-* Graph Neural Networks
+* 06838-01 Graph Neural Networks
   * Instructor: O-Joun Lee
   * TA: [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) and [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen)
   * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Neural-Networks-Fall-2023)
@@ -29,6 +29,18 @@ toc_label: "Table of Contents"
 
 * 06298-01 Living with AI
   * Instructor: Eun-Soon You
+
+* 54513-01 Study for Doctoral Thesis 1 (Graduate Course)
+  * Instructor: O-Joun Lee
+
+* 54513-01 Study for Master Thesis 1 (Graduate Course; Joint Lecture)
+  * Instructor: O-Joun Lee and Kang-Min Kim (NLP Lab)
+
+* 06481-01 Capstone Design for Artificial Intelligence II (Joint Lecture)
+  * Instructor: Faculty members of Dept. of AI
+
+* 06483-01 to 06487-01 	Internship Program for Artificial Intelligence 1 to 5 (Joint Lecture)
+  * Instructor: Faculty members of Dept. of AI
 
 ***
 ### Summer 2023
@@ -43,8 +55,15 @@ toc_label: "Table of Contents"
   * TA: [Hyo Eun Lee](https://nslab-cuk.github.io/member/helee) and [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim)
 
 * [Summer School on Deep Learning with PyTorch](https://nslab-cuk.github.io/2023/05/31/SS/) (Special Course)
-  * Instructor: Namgyu Jung
+  * Instructor: Namgyu Jung, GCU (정남규, 가천대학교 박사과정)
   * TA: [Hyo Eun Lee](https://nslab-cuk.github.io/member/helee) and [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim)
+
+* [Summer School on eXtended Reality](https://nslab-cuk.github.io/2023/07/03/SS/) (Special Course)
+  * Instructor: Yea Som Lee, CAU (이예솜, 중앙대학교 박사수료)
+  * TA: [Hyo Eun Lee](https://nslab-cuk.github.io/member/helee) and [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim)
+
+* 06483-01 to 06484-01 	Internship Program for Artificial Intelligence 1 to 2 (Joint Lecture)
+  * Instructor: Faculty members of Dept. of AI
 
 ***
 ### Spring 2023
