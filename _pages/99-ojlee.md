@@ -210,6 +210,7 @@ Editorship
 Conference Committee
 ------------
 
+* Poster Session Chair, The 2024 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2024), TBD, Italy, 10/2024.
 * Program Committee Chair, The 4th International Conference on Human-centered Artificial Intelligence (Computing4Human 2023), Hanoi, Vietnam, 12/2023.
 * Program Committee Chair, The 3rd International Conference on Human-centered Artificial Intelligence (Computing4Human 2022), Hanoi, Vietnam, 12/2022.
 * Program Committee Chair, The 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Danang, Vietnam, 10/2021.
