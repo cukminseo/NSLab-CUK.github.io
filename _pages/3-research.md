@@ -22,6 +22,8 @@ A non-technical introduction to the field of network science and graph mining ca
 [![repo](https://custom-icon-badges.demolab.com/badge/%233%20in%20Eng-0C2E86.svg?style=flat-square&logo=repo&logoColor=FFFFFF)](https://cphss.wustl.edu/methodsandstrategies/social-network-analysis/network-analysis-101/)
 [![repo](https://custom-icon-badges.demolab.com/badge/%234%20in%20Kor-0C2E86.svg?style=flat-square&logo=repo&logoColor=FFFFFF)](https://www.sciencetimes.co.kr/news/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B3%BC%ED%95%99-6%EB%8B%A8%EA%B3%84%EB%A7%8C-%EA%B1%B0%EC%B9%98%EB%A9%B4-%EB%AA%A8%EB%91%90-%EC%95%88%EB%8B%A4/)
 [![repo](https://custom-icon-badges.demolab.com/badge/%235%20in%20Eng-0C2E86.svg?style=flat-square&logo=repo&logoColor=FFFFFF)](https://visiblenetworklabs.com/network-science-101/)
+[![repo](https://custom-icon-badges.demolab.com/badge/%236%20in%20Kor-0C2E86.svg?style=flat-square&logo=repo&logoColor=FFFFFF)](https://drive.google.com/file/d/1I-Yyhsjm5V8Dq5J53OX3ii9pMHaZ4s0t/view?usp=drivesdk)
+[![repo](https://custom-icon-badges.demolab.com/badge/%236%20in%20Eng-0C2E86.svg?style=flat-square&logo=repo&logoColor=FFFFFF)](https://sites.google.com/a/binghamton.edu/netscied/teaching-learning/network-concepts)
 
 ***
 
