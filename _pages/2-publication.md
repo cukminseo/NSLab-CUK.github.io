@@ -174,7 +174,17 @@ toc_label: "Table of Contents"
 
 ***
 
-* Thanh Sang Nguyen, Jooho Lee, Van Thuy Hoang, O-Joun Lee: Connector 0.5: A unified framework for graph representation learning. arXiv:2304.13195. (Preprint)
+* Thanh Sang Nguyen, Jooho Lee, Van Thuy Hoang, O-Joun Lee: Connector 0.5: A unified framework for graph representation learning. arXiv 04/2023; arXiv:2304.13195. (Preprint)
+
+
+
+***
+
+# Open Datasets
+
+***
+
+* Eun-Soon You, Hyeon-Ju Jeon, O-Joun Lee: A Dynamic Social Network of Characters Appeared in the French Novel, "Les Liaisons Dangereuses". Figshare 08/2023. DOI:10.6084/m9.figshare.23993748.v1 (Dataset)
 
 
 
