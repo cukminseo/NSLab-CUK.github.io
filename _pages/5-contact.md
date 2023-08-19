@@ -3,6 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 image: CUK.jpg
+description: Contact and recruitment information for the Network Science Lab at the Catholic University of Korea
 ---
 
 ***
