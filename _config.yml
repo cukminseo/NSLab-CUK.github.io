@@ -43,3 +43,9 @@ tag_permalink_style:  pretty
 sass:
   sass_dir: _sass
   style: compressed
+
+analytics:
+  provider: google
+  ...
+  google:
+    tracking_id: G-1MH93MRZ7X
