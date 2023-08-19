@@ -3,6 +3,7 @@ layout: page
 title: "Ho Beom Kim"
 permalink: /member/hbkim
 image: 
+description: Curriculum vitae of Ho Beom Kim
 ---
 
 ***
