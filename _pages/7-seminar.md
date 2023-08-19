@@ -38,7 +38,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/7xe1nXD9nGCUhn?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
-* H.B.Kim,  Review on "Inductive Representation Learning on Large Graphs", NIPS2017
+* H.B.Kim,  Review on "Inductive Representation Learning on Large Graphs", NIPS 2017
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/LiR8dOGO1LSW7A?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
   
@@ -61,7 +61,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/4k3SBIK1vA8kb7?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
   
-* H.E.Lee,  Review on "Graph Star Net for Generalized Multi-Task Learning", arXiv e-prints 2019
+* H.E.Lee,  Review on "Graph Star Net for Generalized Multi-Task Learning", arXiv preprint, arXiv:1906.12330, 2019
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/86auZcAhuwGUca?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
@@ -81,7 +81,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/sjXvwDhdT5T3d6?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
   
-* H.E.Lee,  Review on "Structural Deep Embedding for Hyper-Networks", AAAI 20218 
+* H.E.Lee,  Review on "Structural Deep Embedding for Hyper-Networks", AAAI 2018 
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/1aitDIvK1I13bs?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
@@ -89,7 +89,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 #### Jul 17th, 2023
 {:.no_toc}
 
-* V.T.Hoang, Review on "Multi-Order-Content-Based Adaptive Graph Attention Network for Graph Node Classification", Symmetry 2023
+* V.T.Hoang, Review on "Multi-Order-Content-Based Adaptive Graph Attention Network for Graph Node Classification", Symmetry, 2023
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/1Ah2oegTxdut3Y?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
 * J.H.Lee,  Review on "Relational Attention: Generalizing Transformers for Graph-Structured Tasks", ICLR 2023
@@ -111,7 +111,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 * S.T.Nguyen, Review on "Accurate learning of graph representations with graph multiset pooling", ICLR 2021
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/tSYYw65XtdZeVp?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
-* J.H.Lee,  Review on "raph Neural Networks with convolutional ARMA filters", IEEE Transactions on Pattern Analysis and Machine Intelligence
+* J.H.Lee,  Review on "Graph Neural Networks with convolutional ARMA filters", IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/11eR6MsUszdKie?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
 * H.B.Kim,  Review on "Sequential Recommendation with Graph Neural Networks", SIGIR 2021
@@ -132,7 +132,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/q2uk4iivuqb4Jz?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
 
-* H.B.Kim,  Review on "subgraph2vec: Learning Distributed Representations of Rooted Sub-graphs from Large Graphs", 2016
+* H.B.Kim,  Review on "subgraph2vec: Learning Distributed Representations of Rooted Sub-graphs from Large Graphs", arXiv preprint, arXiv:2205.10852, 2016
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/J6vYnrongg3aMg?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
   
 ***
@@ -182,17 +182,17 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 * V.T.Hoang, Review on "Structure-Aware Transformer for Graph Representation Learning", ICML 2022
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/kgcBRsd56x88Af?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
-* S.T.Nguyen, Review on "DropAGG: Robust Graph Neural Networks via Drop Aggregation", Neural Netw 2023
+* S.T.Nguyen, Review on "DropAGG: Robust Graph Neural Networks via Drop Aggregation", Neural Networks, 2023
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/zT5pcjKW4mbshA?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 ***
 #### Jun 1st, 2023
 {:.no_toc}
 
-* V.T.Hoang, Review on "Graph Clustering with Graph Neural Networks", JMLR 2020
+* V.T.Hoang, Review on "Graph Clustering with Graph Neural Networks", Journal of Machine Learning Research, 2023
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/piYd770hHSvuSV?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
-* S.T.Nguyen, Review on "Improving Graph Neural Network Expressivity via Subgraph Isomorphism Counting", IEEE 2020
+* S.T.Nguyen, Review on "Improving Graph Neural Network Expressivity via Subgraph Isomorphism Counting", IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/RtiEyJc0xZy5A?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 * J.H.Lee,  Review on "GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training", KDD 2020
@@ -202,7 +202,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 #### May 25th, 2023
 {:.no_toc}
 
-* V.T.Hoang, Review on "Structured self-attention architecture for graph-level representation learning", 2020
+* V.T.Hoang, Review on "Structured self-attention architecture for graph-level representation learning", Pattern Recognition, 2020
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/gAGZhGQLYIXCe4?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 * S.T.Nguyen, Review on "Hypergraph Neural Networks", AAAI 2019
@@ -215,7 +215,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 #### May 19th, 2023
 {:.no_toc}
 
-* V.T.Hoang, Review on "Two-Dimensional Weisfeiler-Lehman Graph Neural Networks for Link Prediction", arXiv 2022
+* V.T.Hoang, Review on "Two-Dimensional Weisfeiler-Lehman Graph Neural Networks for Link Prediction", arXiv preprint, arXiv:2206.09567, 2022
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/hpbnux3RjUGKtj?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 * J.H.Lee,  Review on "Graph Pre-training for AMR Parsing and Generation", ACL 2022
@@ -225,7 +225,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 #### May 12th, 2023
 {:.no_toc}
 
-* V.T.Hoang, Review on "Multi-Order-Content-Based Adaptive Graph Attention Network for Graph Node Classification", Symmetry 2023
+* V.T.Hoang, Review on "Multi-Order-Content-Based Adaptive Graph Attention Network for Graph Node Classification", Symmetry, 2023
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/gYWFRCPWoqrrgX?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 * S.T.Nguyen, Review on "Do We Really Need Complicated Model Architectures For Temporal Networks?.” ICLR 2023
@@ -238,7 +238,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 #### May 5th, 2023
 {:.no_toc}
 
-* V.T.Hoang, Review on "Exploiting Neighbor Effect: Conv-Agnostic GNNs Framework for Graphs with Heterophily", TNNLS 2023
+* V.T.Hoang, Review on "Exploiting Neighbor Effect: Conv-Agnostic GNNs Framework for Graphs with Heterophily", IEEE Transactions on Neural Networks and Learning Systems, 2023
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/LBDMuYlEndKw9d?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 * S.T.Nguyen, Review on "Are More Layers Beneficial to Graph Transformers?", ICLR 2023
@@ -254,17 +254,17 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 * V.T.Hoang, Review on "Heterogeneous Graph Transformer", WWW 2020
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/fpyRvbszxhlVhY?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
-* S.T.Nguyen, Review on "Weather-Aware Fiber-Wireless Traffic Prediction Using Graph Convolutional Networks", IEEE 2022
+* S.T.Nguyen, Review on "Weather-Aware Fiber-Wireless Traffic Prediction Using Graph Convolutional Networks", IEEE Access, 2022
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/tA0wP4nkmlGNX?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 ***
 #### Apr 21st, 2023
 {:.no_toc}
 
-* V.T.Hoang, Review on "Gophormer: Ego-Graph Transformer for Node Classification", CoRR 2021
+* V.T.Hoang, Review on "Gophormer: Ego-Graph Transformer for Node Classification", arXiv preprint, arXiv:2110.13094, 2021
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/sLISNe7ureLjPl?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
-* S.T.Nguyen, Review on "Make Heterophily Graphs Better Fit GNN: A Graph Rewiring Approach", 
+* S.T.Nguyen, Review on "Make Heterophily Graphs Better Fit GNN: A Graph Rewiring Approach", arXiv preprint, arXiv:2209.08264, 2022
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/CMg0kZwRcFe4UO?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 ***
@@ -336,13 +336,13 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 #### Mar 6th, 2023
 {:.no_toc}
 
-* V.T.Hoang, Review on "Everything is Connected: Graph Neural Networks", Current Opinion in Structural Biology 2023
+* V.T.Hoang, Review on "Everything is Connected: Graph Neural Networks", Current Opinion in Structural Biology, 2023
 <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/MBfuVNBL6LYnBR" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
-* S.T.Nguyen, Review on "DeeperGCN: All You Need to Train Deeper GCNs", arXiv
+* S.T.Nguyen, Review on "DeeperGCN: All You Need to Train Deeper GCNs", arXiv preprint, arXiv:2006.07739, 2020
 <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/ED1XAl547nw6eb" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
-* J.H.Lee, "Hyperbolic graph convolutional neural networks", Advances in Neural Information Processing Systems 2019
+* J.H.Lee, "Hyperbolic graph convolutional neural networks", NeurIPS 2019
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/oKjh4oKajgVOcN?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 ***
@@ -352,7 +352,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 #### Feb 27th, 2023
 {:.no_toc}
 
-* V.T.Hoang, Review on "Graph Neural Networks Go Forward-Forward", arXiv
+* V.T.Hoang, Review on "Graph Neural Networks Go Forward-Forward", arXiv preprint, arXiv:2302.05282, 2023
 <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/fVyQO91v6MfgJU" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 * S.T.Nguyen, Review on "On Generalized Degree Fairness in Graph Neural Networks", AAAI 2023
