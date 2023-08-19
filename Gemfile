@@ -10,4 +10,5 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem 'jekyll-toc'
   gem "jemoji"
+  gem 'jekyll-seo-tag'
 end
