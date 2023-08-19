@@ -103,7 +103,7 @@ A non-technical introduction to the field of network science and graph mining ca
 ***
 ## Digital Literature
 
-* Eun-Soon You, Hyeon-Ju Jeon, O-Joun Lee: A Dynamic Social Network of Characters Appeared in the French Novel, "Les Liaisons Dangereuses". Figshare 08/2023. DOI:10.6084/m9.figshare.23993748.v1 (Dataset)
+* Eun-Soon You, Hyeon-Ju Jeon, O-Joun Lee: A Dynamic Social Network of Characters Appeared in the French Novel, "Les Liaisons Dangereuses". Figshare 08/2023. (Dataset) <br>[![DOI](http://img.shields.io/:DOI-10.6084/m9.figshare.23993748.v1-blue?style=flat-square)](https://doi.org/10.6084/m9.figshare.23993748.v1)
 
 <p align="center">
   <iframe src="https://widgets.figshare.com/articles/23993748/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"></iframe>
@@ -168,7 +168,7 @@ A non-technical introduction to the field of network science and graph mining ca
   <img width="700" src="/images/liver.png">
 </p>
 
-* Yunsang Joo, Hyun-Cheol Park, O-Joun Lee, Changhan Yoon, Moon Hyung Choi, Chang Choi: Classification of Liver Fibrosis from Heterogeneous Ultrasound Image. IEEE Access 01/2023; 11: 9920-9930. [![DOI](http://img.shields.io/:DOI-10.1109/ACCESS.2023.3240216-blue?style=flat-square)](https://doi.org/10.1109/ACCESS.2023.3240216)
+* Yunsang Joo, Hyun-Cheol Park, O-Joun Lee, Changhan Yoon, Moon Hyung Choi, Chang Choi: Classification of Liver Fibrosis from Heterogeneous Ultrasound Image. IEEE Access 01/2023; 11: 9920-9930. <br>[![DOI](http://img.shields.io/:DOI-10.1109/ACCESS.2023.3240216-blue?style=flat-square)](https://doi.org/10.1109/ACCESS.2023.3240216)
 
 ***
 # Miscellaneous
