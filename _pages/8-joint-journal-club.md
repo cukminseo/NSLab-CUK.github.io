@@ -20,7 +20,7 @@ This page serves as a repository for papers reviewed by the Network Science Lab 
 ### Summer 2023
 
 ***
-##### Jul 19th, 2023
+##### Aug 16th, 2023
 {:.no_toc}
 
 <details markdown="1">
