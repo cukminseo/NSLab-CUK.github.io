@@ -8,6 +8,7 @@ permalink: pretty
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-feed
 #  - jekyll/tagging
   - jekyll-toc
   - jemoji
@@ -27,6 +28,12 @@ defaults:
 include:
   - _pages
 
+# Atom Feed
+author:
+  name: NS Lab@CUK
+
+feed:
+  path: atom.xml
 
 # Tags
 tag_page_dir:         tag
