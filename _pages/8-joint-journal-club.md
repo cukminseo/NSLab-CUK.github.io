@@ -20,6 +20,15 @@ This page serves as a repository for papers reviewed by the Network Science Lab 
 ### Summer 2023
 
 ***
+##### Jul 19th, 2023
+{:.no_toc}
+
+<details markdown="1">
+  <summary> H.E.Lee, Review on " A biomedical knowledge graph-based method for drug–drug interactions prediction through combining local and global features with deep neural networks", Bioinformatics 2022</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/C1Vl839dCay4kx?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 ##### Jul 27th, 2023
 {:.no_toc}
 
