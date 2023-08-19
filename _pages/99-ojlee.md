@@ -17,7 +17,8 @@ image: 191103.jpg
 [![Publons](https://img.shields.io/badge/Publons-336699?style=flat-square&logo=Publons)](https://publons.com/researcher/268401/o-joun-lee/) 
 [![semanticscholar](https://img.shields.io/badge/Semantic%20Scholar-336699?style=flat-square&logo=semantic+scholar&logoColor=white)](https://www.semanticscholar.org/author/O-Joun-Lee/144914730)
 [![Pure](https://img.shields.io/badge/Pure-FF6C00?style=flat-square&logo=elsevier&logoColor=white)](https://cuk.elsevierpure.com/en/persons/o-joun-lee) 
-[![Pure](https://img.shields.io/badge/Loop-F29400?style=flat-square&logo=loop&logoColor=white)](https://loop.frontiersin.org/people/800687/) 
+[![Loop](https://img.shields.io/badge/Loop-F29400?style=flat-square&logo=loop&logoColor=white)](https://loop.frontiersin.org/people/800687/) 
+[![WOS](https://img.shields.io/badge/Web%20of%20Science-black?style=flat-square&logo=Clarivate&logoColor=black)](https://www.webofscience.com/wos/author/record/537246) 
 
 <br>
 
