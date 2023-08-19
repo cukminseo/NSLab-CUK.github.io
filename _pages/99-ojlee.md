@@ -2,7 +2,7 @@
 layout: page
 title: "O-Joun Lee, Ph. D."
 permalink: /member/ojlee
-image: 
+image: 191103.jpg
 ---
 
 > Narratives structure our understanding of the world and ourselves. <br>
