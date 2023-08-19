@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "O-Joun Lee, Ph. D."
+title: "O-Joun Lee, Ph.D."
 permalink: /member/ojlee
 image: 191103.jpg
 ---
@@ -38,7 +38,7 @@ Education
 ============
 * Mar 2015 -- Aug 2019: Chung-Ang University, Seoul, Republic of Korea <br> Ph.D., Major in Application Software, School of Computer Science and Engineering
 
-* Mar 2011 -- Feb 2015: Dankook University, Yongin, Gyeonggi-do, Republic of Korea <br> Bachelor of Engineering, Dept. of Software science
+* Mar 2011 -- Feb 2015: Dankook University, Yongin, Gyeonggi-do, Republic of Korea <br> Bachelor of Engineering, Dept. of Software Science
 
 ***
 
