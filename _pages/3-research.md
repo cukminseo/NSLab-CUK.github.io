@@ -98,11 +98,22 @@ A non-technical introduction to the field of network science and graph mining ca
 * TBA
 
 ***
+# Digital Humanities and Social Sciences
+
+***
+## Digital Literature
+
+* Eun-Soon You, Hyeon-Ju Jeon, O-Joun Lee: A Dynamic Social Network of Characters Appeared in the French Novel, "Les Liaisons Dangereuses". Figshare 08/2023. DOI:10.6084/m9.figshare.23993748.v1 (Dataset)
+
+<p align="center">
+  <iframe src="https://widgets.figshare.com/articles/23993748/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"></iframe>
+</p>
+
+***
 # Medical Image and Signal Processing
-{:.no_toc}
+
 ***
 ## Single-cell Analysis by Combining High-Frequency Single-Beam Acoustic Tweezers and Deep Neural Networks
-{:.no_toc}
 
 * Developing (semi-) automated diagnosis systems for various diseases 
   * Inflicting high-frequency ultrasonic wave on live cells and analyzing microscopic images/back-scattered signals using deep learning-empowered models
@@ -143,7 +154,6 @@ A non-technical introduction to the field of network science and graph mining ca
 
 ***
 ## Marine Environment Monitoring System
-{:.no_toc}
 
 * Daehun Kim, Hyeon-Ju Jeon, Hye Yun Jeong, O-Joun Lee, Hae Gyun Lim: Automatic Monitoring System for Red Tide Detection using Ultrasonic Signals and Convolutional Neural Networks. [The 2023 Spring Conference of The Acoustical Society of Korea](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265), Jeju, Korea; 06/2023 ([Poster](https://drive.google.com/file/d/1TdYEOkzftD38bxeVG-hBnlu0px87z083/view?usp=sharing); in Korean)
 
@@ -153,7 +163,6 @@ A non-technical introduction to the field of network science and graph mining ca
 
 ***
 ## Diagnosis and Staging of Liver Fibrosis
-{:.no_toc}
 
 <p align="center">
   <img width="700" src="/images/liver.png">
@@ -163,10 +172,9 @@ A non-technical introduction to the field of network science and graph mining ca
 
 ***
 # Miscellaneous
-{:.no_toc}
+
 ***
 ## Semiconductor Design and Simulation
-{:.no_toc}
 
 * Minsun Cho, O-Joun Lee, Sungyeop Jung: An Artificial Neural Network-based Compact Model for Organic Field-Effect Transistors with the Gaussian Disorder Model. [The 2023 Asia-Pacific Workshop on Advanced Semiconductor Devices (AWAD 2023)](https://www.ieice.org/es/sdm/jpn/awad2023/index.html), Yokohama, Japan; 07/2023 ([Poster](https://drive.google.com/file/d/1fv7gLmXkhWWx31pbOmwLEgO80h_gE0hT/view?usp=sharing))
 
@@ -176,7 +184,6 @@ A non-technical introduction to the field of network science and graph mining ca
 
 ***
 ## Lightweight Age and Gender Classifier and Face Tracker
-{:.no_toc}
 
 <iframe width="1065" height="826" src="https://www.youtube.com/embed/n0gDwgyqzZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
