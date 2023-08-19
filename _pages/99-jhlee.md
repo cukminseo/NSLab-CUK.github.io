@@ -2,8 +2,8 @@
 layout: page
 title: "Jooho Lee"
 permalink: /member/jhlee
-description: Curriculum vitae of Jooho Lee
 image: 
+description: Curriculum vitae of Jooho Lee
 ---
 
 ***
