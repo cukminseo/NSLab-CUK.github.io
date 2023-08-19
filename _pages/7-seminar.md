@@ -26,6 +26,10 @@ This page is an archive for papers reviewed by members of the Network Science La
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/e2NvJxRfWskZOq?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
+* H.E.Lee,  Review on "PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks", KDD 2015
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/GGtreRN62QBkqo?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+
 ***
 #### Aug 7th, 2023
 {:.no_toc}
@@ -34,20 +38,35 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/7xe1nXD9nGCUhn?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
+* H.B.Kim,  Review on "Inductive Representation Learning on Large Graphs", NIPS2017
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/LiR8dOGO1LSW7A?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+  
+* H.E.Lee,  Review on "PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks", KDD 2015
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/arTGeu5DCSYGIq?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+
+***
+#### Jul 31st, 2023
+{:.no_toc}
+* V.T.Hoang, Review on "Namkyeong Lee, et al. Relational Self-Supervised Learning on Graphs", CIKM 2022
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/ovqZFF7RxcnvXR?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+
+* J.H.Lee, Review on "Relational Self-Supervised Learning on Graphs", CIKM 2022
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/dWEDNyLgYF93Jb?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+
+* H.B.Kim,  Review on "metapath2vec: Scalable representation learning for heterogeneous networks", KDD 2017
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/4k3SBIK1vA8kb7?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+  
+* H.E.Lee,  Review on "Graph Star Net for Generalized Multi-Task Learning", arXiv e-prints 2019
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/86auZcAhuwGUca?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+
 ***
 #### Jul 24th, 2023
-{:.no_toc}
-
-* V.T.Hoang, Review on "Muhan Zhang, Pan Li: Nested Graph Neural Networks", NeurIPS 2021
-<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/IzDTNIy9S7g5Si?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
-style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
-
-* J.H.Lee, "Review on "Rumor Detection on Twitter with Claim-Guided Hierarchical Graph Attention Networks", EMNLP 2021
-<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/Fd3Jm5YKtijEp0?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
-style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
-
-***
-#### Jul 17th, 2023
 {:.no_toc}
 
 * V.T.Hoang, Review on "Nested Graph Neural Networks", NeurIPS 2021
@@ -56,6 +75,14 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 * J.H.Lee,  Review on "Rumor Dectection on Twitter with Claim-Guided Hierarchical Graph Attention Networks", EMNLP 2021
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/GY4BRn1ZinT8mk?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+
+* H.B.Kim,  Review on "metapath2vec: Scalable representation learning for heterogeneous networks", KDD 2017
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/sjXvwDhdT5T3d6?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+  
+* H.E.Lee,  Review on "Structural Deep Embedding for Hyper-Networks", AAAI 20218 
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/1aitDIvK1I13bs?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
 ***
@@ -67,6 +94,12 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 * J.H.Lee,  Review on "Relational Attention: Generalizing Transformers for Graph-Structured Tasks", ICLR 2023
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/nnSi8XyT35M4vz?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+
+* H.B.Kim,  Review on "Deep Gaussian Embedding of Graphs: Unsupervised Inductive Learning via Ranking", ICLR 2018
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/J1AqGLpXcTRuoU?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+
+* H.E.Lee,  Review on "Structural Deep Embedding for Hyper-Networks", AAAI 20218 
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/7zB3Po97a98A8P?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
 ***
 #### Jul 10th, 2023
@@ -81,6 +114,10 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 * J.H.Lee,  Review on "raph Neural Networks with convolutional ARMA filters", IEEE Transactions on Pattern Analysis and Machine Intelligence
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/11eR6MsUszdKie?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
+* H.B.Kim,  Review on "Sequential Recommendation with Graph Neural Networks", SIGIR 2021
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/416cuJjWh7GvLC?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+
+
 ***
 #### Jul 3rd, 2023
 {:.no_toc}
@@ -94,6 +131,10 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 * J.H.Lee,  Review on "Graph Pointer Neural Networks", AAAI 2022
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/q2uk4iivuqb4Jz?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
+
+* H.B.Kim,  Review on "subgraph2vec: Learning Distributed Representations of Rooted Sub-graphs from Large Graphs", 2016
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/J6vYnrongg3aMg?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+  
 ***
 #### Jun 26th, 2023
 {:.no_toc}
@@ -103,6 +144,10 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 * J.H.Lee,  Review on "CoRGi: Content-Rich Graph Neural Networks with Attention", KDD 2022
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/2pz56EWVoEeB99?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+
+
+* H.B.Kim,  Review on "Asymmetric transitivity preserving graph embedding", KDD 2016
+<p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/fWocHKNNZlZgV9?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 
 ***
 #### Jun 22nd, 2023
