@@ -9,7 +9,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
-#  - jekyll/tagging
+  - jekyll-seo-tag
   - jekyll-toc
   - jemoji
 
