@@ -3,6 +3,7 @@ layout: page
 title: "O-Joun Lee, Ph.D."
 permalink: /member/ojlee
 image: 191103.jpg
+description: Curriculum vitae of O-Joun Lee
 ---
 
 > Narratives structure our understanding of the world and ourselves. <br>
