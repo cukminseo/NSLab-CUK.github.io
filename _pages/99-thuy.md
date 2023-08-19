@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Thuy Hoang Van"
+title: "Van Thuy Hoang"
 permalink: /member/hoangvanthuy90
 image: 
+description: Curriculum vitae of Van Thuy Hoang
 ---
 
 <h5>Table of Contents</h5>
@@ -24,11 +25,16 @@ Education
 * Sep 2008 -- Dec 2013: B.Eng. in Information Technology, Le Quy Don Technical University, Hanoi, Vietnam
 ***
 
+Journal Publications
+============
+
+* **Van Thuy Hoang**, Hyeon-Ju Jeon, Eun-Soon You, Yoewon Yoon, Sungyeop Jung, and O-Joun Lee. "Graph Representation Learning and Its Applications: A Survey." Sensors 23, no. 8 (2023): 4168.
+
+***
 Conference Proceedings
 ============
-* **Hoang, Van Thuy**, Hyeon-Ju Jeon, Eun-Soon You, Yoewon Yoon, Sungyeop Jung, and O-Joun Lee. "Graph Representation Learning and Its Applications: A Survey." Sensors 23, no. 8 (2023): 4168.
 
-* Vu, Ly, **Hoang V. Thuy**, Quang Uy Nguyen, Tran N. Ngoc, Diep N. Nguyen, Dinh Thai Hoang, and Eryk Dutkiewicz. "Time series analysis for encrypted traffic classification: A deep learning approach." In Proceedings of the  18th International Symposium on Communications and Information Technologies (ISCIT), pp. 121-126. IEEE, 2018.
+* Vu, Ly, **Van Thuy Hoang**, Quang Uy Nguyen, Tran N. Ngoc, Diep N. Nguyen, Dinh Thai Hoang, and Eryk Dutkiewicz. "Time series analysis for encrypted traffic classification: A deep learning approach." In Proceedings of the  18th International Symposium on Communications and Information Technologies (ISCIT), pp. 121-126. IEEE, 2018.
 
 * **Van Thuy Hoang**, Phan Viet Anh, and Nguyen Xuan Hoai. "Automated large program repair based on big code." In Proceedings of the 9th International Symposium on Information and Communication Technology 2018 (ISICT 2018)
 
