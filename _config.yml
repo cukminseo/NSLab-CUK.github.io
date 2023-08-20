@@ -1,8 +1,6 @@
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nslab-cuk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-logo: /images/Logo_Wide.png
-
 # Build settings
 markdown: kramdown
 permalink: pretty
@@ -32,6 +30,9 @@ include:
 # Atom Feed
 author:
   name: NS Lab@CUK
+
+logo: /images/Logo_Wide.png
+email: nslab.ai.cuk@gmail.com
 
 feed:
   path: atom.xml
