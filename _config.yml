@@ -51,6 +51,5 @@ sass:
 
 analytics:
   provider: google
-  ...
   google:
     tracking_id: G-1MH93MRZ7X
