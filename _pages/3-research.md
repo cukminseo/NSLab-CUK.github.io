@@ -117,6 +117,11 @@ A non-technical introduction to the field of network science and graph mining ca
 </p>
 
 ***
+## Computational Social Sciences
+
+* TBA
+
+***
 # Medical Image and Signal Processing
 
 ***
