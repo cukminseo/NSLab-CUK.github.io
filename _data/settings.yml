@@ -1,9 +1,9 @@
 #-------------------------------
 # General Site Settings
-title: NS Lab@CUK
+title: Network Science Lab
 logo: Logo_Wide.png
 #LabLogo.png
-description: Network Science Lab
+description: Official website of the Network Science Lab at the Catholic University of Korea
 
 
 #-------------------------------
@@ -21,7 +21,7 @@ author:
 
 #-------------------------------
 # Contact links
-#twitter: https://twitter.com/ # Add your Twitter handle
+twitter: https://twitter.com/NS_CUK
 #facebook: https://facebook.com/ # Add your Facebook handle
 #dribbble: https://dribbble.com/ # Add your Dribbble handle
 instagram: https://www.instagram.com/ns_cuk/ # Add your Instagram handle
