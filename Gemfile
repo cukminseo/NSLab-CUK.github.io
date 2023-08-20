@@ -11,4 +11,5 @@ group :jekyll_plugins do
   gem 'jekyll-toc'
   gem "jemoji"
   gem 'jekyll-seo-tag'
+  gem 'jekyll-auto-image'
 end
