@@ -107,13 +107,13 @@ A non-technical introduction to the field of network science and graph mining ca
 * Eun-Soon You, Hyeon-Ju Jeon, O-Joun Lee: A Social Network of Characters Appeared in the French Novel Series "La Comédie humaine" and An Interaction Network of Novels in the Series. Figshare 08/2023. (Dataset) <br>[![DOI](http://img.shields.io/:DOI-10.6084/m9.figshare.23994078.v1-blue?style=flat-square)](https://doi.org/10.6084/m9.figshare.23994078.v1)
 
 <p align="center">
-  <iframe src="https://widgets.figshare.com/articles/23994078/embed?show_title=1" width="568" max-width="90%" height="351" allowfullscreen frameborder="0"></iframe>
+  <iframe src="https://widgets.figshare.com/articles/23994078/embed?show_title=1" width="568" height="351" frameborder="0" marginwidth="0" marginheight="0" style="max-width: 90%;" allowfullscreen></iframe>
 </p>
 
 * Eun-Soon You, Hyeon-Ju Jeon, O-Joun Lee: A Dynamic Social Network of Characters Appeared in the French Novel, "Les Liaisons Dangereuses". Figshare 08/2023. (Dataset) <br>[![DOI](http://img.shields.io/:DOI-10.6084/m9.figshare.23993748.v1-blue?style=flat-square)](https://doi.org/10.6084/m9.figshare.23993748.v1)
 
 <p align="center">
-  <iframe src="https://widgets.figshare.com/articles/23993748/embed?show_title=1" width="568" max-width="90%" height="351" allowfullscreen frameborder="0"></iframe>
+  <iframe src="https://widgets.figshare.com/articles/23993748/embed?show_title=1" width="568" height="351" frameborder="0" marginwidth="0" marginheight="0" style="max-width: 90%;" allowfullscreen></iframe>
 </p>
 
 ***
