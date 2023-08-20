@@ -14,6 +14,7 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.title }}{% endif %}</title>
   <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.data.settings.description }}{% endif %}'>
 
+  <link rel="icon" href="favicon.ico">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
@@ -23,8 +24,17 @@
   <link href="https://unpkg.com/ionicons@4.2.2/dist/css/ionicons.min.css" rel="stylesheet">
 
   <meta name="naver-site-verification" content="cdaed59602f2a77dec19c7bf1ff2d6dc8a703ca5" />
+
+  {% if page.image %}
+    <meta content="{{ site.url }}/images/{{ page.image }}" property="og:image">
+  {% else %}
+    <meta content="{{ site.url }}/images/Logo_Square.png" property="og:image">
+  {% endif %}
   
   {% seo %}
+
+  <meta name="creator" content="NS Lab@CUK">
+  <meta name="publisher" content="NS Lab@CUK">
   
   <style>
   {% capture include_to_scssify %}
