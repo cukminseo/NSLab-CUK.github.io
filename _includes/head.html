@@ -27,8 +27,10 @@
 
   {% if page.image %}
     <meta content="{{ site.url }}/images/{{ page.image }}" property="og:image">
+    <meta content="{{ site.url }}/images/{{ page.image }}" property="twitter:image">
   {% else %}
     <meta content="{{ site.url }}/images/Logo_Square.png" property="og:image">
+    <meta content="{{ site.url }}/images/Logo_Square.png" property="twitter:image">
   {% endif %}
   
   {% seo %}
