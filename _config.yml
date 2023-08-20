@@ -19,10 +19,6 @@ paginate_path: "/page/:num"
 
 futrue: true
 
-lang: 
-  - en_US
-  - ko_KR
-
 # Pages Path
 defaults:
   - scope:
@@ -51,5 +47,6 @@ sass:
 
 analytics:
   provider: google
+  ...
   google:
     tracking_id: G-1MH93MRZ7X
