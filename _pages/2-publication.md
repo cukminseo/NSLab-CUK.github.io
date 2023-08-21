@@ -175,7 +175,9 @@ toc_label: "Table of Contents"
 
 ***
 
-* Thanh Sang Nguyen, Jooho Lee, Van Thuy Hoang, O-Joun Lee: Connector 0.5: A unified framework for graph representation learning. arXiv 04/2023; arXiv:2304.13195. (Preprint)
+* Van Thuy Hoang, O-Joun Lee: Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity. arXiv preprint 08/2023; arXiv:2308.09517. (Preprint)
+
+* Thanh Sang Nguyen, Jooho Lee, Van Thuy Hoang, O-Joun Lee: Connector 0.5: A unified framework for graph representation learning. arXiv preprint 04/2023; arXiv:2304.13195. (Preprint)
 
 
 
