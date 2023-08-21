@@ -22,10 +22,8 @@ This page serves as a repository for open source projects run by members and col
 
 The following datasets are available via our official GitHub account. 
 
-<p align="center">
-<div class="github-card" data-github="NSLab-CUK" data-width="90%" data-height="" data-theme="default"></div>
+<div class="github-card" data-github="NSLab-CUK" data-width="90%" data-height="" data-theme="default" text-align="center"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
-</p>
 
 ***
 ## Graph Neural Networks and Graph Transformers
