@@ -47,7 +47,7 @@ A non-technical introduction to the field of network science and graph mining ca
 * Van Thuy Hoang, O-Joun Lee: Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity. arXiv preprint 08/2023; arXiv:2308.09517. (Preprint) <br>
 [![arXiv](https://img.shields.io/badge/arXiv-2308.09517-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2308.09517)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Unified-Graph-Transformer)
-[![PWC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-Connector%200%2E5-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/transitivity-preserving-graph-representation)
+[![PWC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-UGT-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/transitivity-preserving-graph-representation)
 
 * Van Thuy Hoang, Hyeon-Ju Jeon, Eun-Soon You, Yoewon Yoon, Sungyeop Jung, O-Joun Lee: Graph Representation Learning and its Applications: A Survey. Sensors 04/2023; 23(8): 4168. <br>
 [![DOI](http://img.shields.io/:DOI-10.3390/s23084168-blue?style=flat-square)](https://doi.org/10.3390/s23084168)
