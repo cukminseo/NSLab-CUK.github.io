@@ -139,7 +139,9 @@ A non-technical introduction to the field of network science and graph mining ca
 # Medical Image and Signal Processing
 
 ***
-## Single-cell Analysis by Combining High-Frequency Single-Beam Acoustic Tweezers and Deep Neural Networks
+## Cell Analysis with High-Frequency Ultrasond and Deep Learning
+
+### (Semi-) Automated Disease Diagnostics
 
 * Developing (semi-) automated diagnosis systems for various diseases 
   * Inflicting high-frequency ultrasonic wave on live cells and analyzing microscopic images/back-scattered signals using deep learning-empowered models
@@ -178,8 +180,7 @@ A non-technical introduction to the field of network science and graph mining ca
   <img width="700" src="/images/Samsung2023_poster_JL.webp">
 </p>
 
-***
-## Marine Environment Monitoring System
+### Marine Environment Monitoring System
 
 * Daehun Kim, Hyeon-Ju Jeon, Hye Yun Jeong, O-Joun Lee, Hae Gyun Lim: Automatic Monitoring System for Red Tide Detection using Ultrasonic Signals and Convolutional Neural Networks. [The 2023 Spring Conference of The Acoustical Society of Korea](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265), Jeju, Korea; 06/2023 ([Poster](https://drive.google.com/file/d/1TdYEOkzftD38bxeVG-hBnlu0px87z083/view?usp=sharing); in Korean)
 
