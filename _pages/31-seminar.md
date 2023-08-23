@@ -24,10 +24,6 @@ This page is an archive for papers reviewed by members of the Network Science La
 #### Aug 21st, 2023
 {:.no_toc}
 
-***
-#### Aug 21st, 2023
-{:.no_toc}
-
 <details markdown="1">
   <summary>V.T.Hoang, Review on "Augmentation-Free Self-Supervised Learning on Graphs", AAAI 2022</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/Zonu4ZNCx6GCr?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
