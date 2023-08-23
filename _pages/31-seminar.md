@@ -32,7 +32,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
   
 <details markdown="1">
   <summary>J.H.Lee, Review on "Learnable Structural Semantic Readout for Graph Classification", ICDM 2021</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/ySeqTbkGuvtXD4?hostedIn=slideshare&page=upload" width="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/pfYru8Ie84Jt9g?hostedIn=slideshare&page=upload" width="0" marginheight="0" scrolling="no"></iframe>width="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
