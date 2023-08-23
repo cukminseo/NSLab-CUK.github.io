@@ -24,6 +24,27 @@ This page is an archive for papers reviewed by members of the Network Science La
 #### Aug 21st, 2023
 {:.no_toc}
 
+***
+#### Aug 21st, 2023
+{:.no_toc}
+
+<details markdown="1">
+  <summary>V.T.Hoang, Review on "Augmentation-Free Self-Supervised Learning on Graphs", AAAI 2022</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/Zonu4ZNCx6GCr?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+  
+<details markdown="1">
+  <summary>J.H.Lee, Review on "Learnable Structural Semantic Readout for Graph Classification", ICDM 2021</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/ySeqTbkGuvtXD4?hostedIn=slideshare&page=upload" width="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.E.Lee,  Review on "Gated Graph Sequence Neural Networks", ICLR 2016 </summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/GGtreRN62QBkqo?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
 
 ***
 #### Aug 14th, 2023
