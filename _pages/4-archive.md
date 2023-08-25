@@ -27,6 +27,14 @@ description: Archive of events, memories and achievements of the Network Science
   * Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee, Hae Gyun Lim: Classification of Red Blood Cells for the Diagnosis of dysnatremia Based on Ultrasound and Convolutional Neural Networks. The 2023 IEEE International Ultrasonics Symposium (IEEE IUS 2023), Montreal, Canada; 09/2023 (Poster)
 
 ***
+##### Aug 22nd, 2023
+{:.no_toc}
+
+* NS Lab@CUK and the [Advanced Institute of Convergence Technology (AICT; 차세대융합기술연구원)](https://aict.snu.ac.kr/eng/) have successfully organized a joint seminar ([The 2023 CUK-AICT Joint Seminar on Artificial Intelligence; 2023년 가톨릭대학교-차세대융합기술연구원 공동 인공지능 세미나](https://nslab-cuk.github.io/2023/08/08/Seminar/)) focusing on various application areas of artificial intelligence.
+
+<p align="center"><img width="700" src="/images/230822.jpg"></p>
+
+***
 ##### Aug 6th, 2023 -- Aug 10th, 2023
 {:.no_toc}
 
