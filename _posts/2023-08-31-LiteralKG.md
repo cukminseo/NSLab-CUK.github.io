@@ -32,7 +32,7 @@ Over the past few years, Knowledge Graph (KG) embedding has been used to benefit
 
 ## Citing **LiteralKG**
 
-Please cite our [paper](https://arxiv.org/abs/2308.09517) if you find *UGT* useful in your work:
+Please cite our [paper](https://arxiv.org/abs/2308.09517) if you find *LiteralKG* useful in your work:
 ```
 @misc{hoang2023ugt,
       title={Companion Animal Disease Diagnostics based on Literal-aware Medical Knowledge Graph Representation Learning}, 
