@@ -124,6 +124,19 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	</tr>
 </table>
 
+###### [Um Jun-O](https://nslab-cuk.github.io/member/ujO) (Aug 2023 -- Present; **Lab Representative**)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/ujO.jpg"/></td>  
+		<td><ul>
+			<li>Aug 2023 -- Present: Ph.D. Course, Dept. of Artificial Intelligence, The Graduate School, The Catholic University of Korea, Bucheon, Korea</li>	
+			<li>Sep 2019 -- Aug 2023: Korean Language and Literature, Jeonju University, Korea
+			<li>Research Interest:  Natural Language Processing (NLP)</li>
+		</ul></td>
+	</tr>
+
+
 ***
 # Undergraduate Research Assistants
 ***
