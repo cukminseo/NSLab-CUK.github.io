@@ -214,11 +214,11 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	</tr>
 </table>
 
-###### [Min Seo Kim](https://nslab-cuk.github.io/member/skmin) (Aug 2023 -- Present)
+###### [Min Seo Kim](https://nslab-cuk.github.io/member/mskim) (Aug 2023 -- Present)
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/skmin.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/mskim.jpg"/></td>  
 		<td><ul>
 			<li>Mar 2019 -- Present: School of Information, Communications and Electronic Engineering, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: Recommendation Systems</li>
@@ -233,6 +233,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 
 <table border="0">  
 	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/hmlee.jpg"/></td>  
 		<td><ul>
 			<li>Mar 2021 -- Present: School of Information, Philosophy and Psychology, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: Story generation</li>
