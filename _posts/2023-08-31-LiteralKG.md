@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LiteralKG, a Knowledge Graph embedding model that could learn different types of Literal information and graph structure and fuse them into unified representations.
+title: LiteralKG, a Knowledge Graph Embedding Model for learning Literal information and entity relations
 date:   2023-08-31 00:00:00 +0900
 tags:   Release
 image:  Bib_Network.png
@@ -8,7 +8,7 @@ published: true
 description: The Network Science Lab at the Catholic University of Korea releases LiteralKG, a novel Literal-aware Medical Knowledge Graph Embedding Model specialising in fusing Literal information and entity relations into unified vector representations.
 ---
 
-We present [LiteralKG](https://github.com/NSLab-CUK/LiteralKG), a novel Literal-aware Medical Knowledge Graph Embedding Model, integrating both Literal information and entity relations into unified representations and developed by NS Lab, CUK based on pure PyTorch backend.
+We present [LiteralKG](https://github.com/NSLab-CUK/LiteralKG), a novel Literal-aware Medical Knowledge Graph Embedding Model that fuses different types of literal information and graph structure into unified representations. LiteralKG is developed by NS Lab, CUK, based on pure PyTorch backend.
 
 <p align="center">
   <img src="/images/LiteralKG.jpg" alt="LiteralKG Architecture" width="800">
