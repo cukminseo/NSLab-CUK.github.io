@@ -1,45 +1,42 @@
 ---
 layout: post
-title:  UGT, A Novel Graph Transformer Model for Unifying Local and Global Graph Structural Features
+title:  LiteralKG, A Literal-aware Medical Knowledge Graph Embedding Model for fusing Literal information and entity relations into unified vector representations.
 date:   2023-08-18 00:00:00 +0900
-image:  Bib_Network.png
+image:  LiteralKG_post.jpg
 tags:   Release
 published: true
-description: The Network Science Lab at the Catholic University of Korea releases UGT, a novel Graph Transformer model specialised in preserving both local and global graph structures.
+description: The Network Science Lab at the Catholic University of Korea releases LiteralKG, a novel Literal-aware Medical Knowledge Graph Embedding Model specialising in fusing Literal information and entity relations into unified vector representations.
 ---
 
-We present [UGT](https://github.com/NSLab-CUK/Unified-Graph-Transformer), a novel Graph Transformer model specialised in preserving both local and global graph structures and developed by NS Lab, CUK based on pure PyTorch backend.
+We present [LiteralKG](https://github.com/NSLab-CUK/LiteralKG), a novel Literal-aware Medical Knowledge Graph Embedding Model, integrating both Literal information and entity relations into unified representations and developed by NS Lab, CUK based on pure PyTorch backend.
 
 <p align="center">
-  <img src="/images/UGT.jpg" alt="Graph Transformer Architecture" width="800">
+  <img src="/images/LiteralKG.jpg" alt="LiteralKG Architecture" width="800">
   <br>
-  <b></b> The overall architecture of Unified Graph Transformer Networks.
+  <b></b> The overall architecture of LiteralKG.
 </p>
 
-Over the past few years, graph neural networks and graph transformers have been successfully used to analyze graph-structured data, mainly focusing on node classification and link prediction tasks. However, the existing studies mostly only consider local connectivity while ignoring long-range connectivity and the roles of nodes. We propose Unified Graph Transformer Networks (UGT) that effectively integrate local and global structural information into fixed-length vector representations. UGT learns local structure by identifying the local substructures and aggregating features of the k-hop neighborhoods of each node. We construct virtual edges, bridging distant nodes with structural similarity to capture the long-range dependencies. UGT learns unified representations through self-attention, encoding structural distance and p-step transition probability between node pairs. Furthermore, we propose a self-supervised learning task that effectively learns transition probability to fuse local and global structural features, which could then be transferred to other downstream tasks. Experimental results on real-world benchmark datasets over various downstream tasks showed that UGT significantly outperformed baselines that consist of state-of-the-art models. In addition, UGT reaches the third-order Weisfeiler-Lehman power to distinguish non-isomorphic graph pairs.
+Over the past few years, Knowledge Graph (KG) embedding has been used to benefit the diagnosis of animal diseases by analyzing electronic medical records (EMRs), such as notes and veterinary records. However, learning representations to capture entities and relations with literal information in KGs is challenging as the KGs show heterogeneous properties and various types of literal information. Meanwhile, the existing methods mostly aim to preserve graph structures surrounding target nodes without considering different types of literals, which could also carry significant information. We propose **LiteralKG**, a knowledge graph embedding model for efficiently diagnosing animal diseases, which could learn various types of literal information and graph structure and fuse them into unified representations. Specifically, we construct a knowledge graph that is built from EMRs along with literal information collected from various animal hospitals. We then fuse different types of entities and node feature information into unified vector representations through gate networks. Finally, we propose a self-supervised learning task to learn graph structure in pretext tasks and then towards various downstream tasks. Experimental results on link prediction tasks demonstrate that our model outperforms the baselines that consist of state-of-the-art models.
 
+## A short description of **LiteralKG**:
 
-## A short description of UGT:
+- We construct a medical knowledge graph that comprises 595,172 entities and 16 relation types from various EMRs.
+- **LiteralKG** could learn different types of literal information and graph structure and then fuse them into unified representations.
+- **LiteralKG**, a self-supervised learning framework for Knowledge Graph, that could learn the graph structure from pretext tasks to generate representations, and then the pre-trained model is used for downstream tasks to predict animal diseases.
+- The experimental results on the KG with different types of GNN aggregators and residual connection and identity mapping show the superiority of **LiteralKG** over baselines.
 
-- UGT could learn both local and global structural information and fuse them into unified representations.
-- UGT capture the long-range dependencies between distant nodes as long as they are structurally similar. To do that, UGT constructs virtual edges, bridging the distant nodes with structural similarity. 
-- UGT captures local structure through structural identity in addressing local non-isomorphic substructures and finding similar ones.
-- UGT, a self-supervised learning framework for graphs, that bridges the conceptual gap between local and global structural features by preserving transition probabilities between nodes in multi-scales.
-- Experiments on fifteen publicly available datasets over various downstream tasks demonstrate the superiority of UGT over SOTA baselines.
-- UGT reaches the third-order Weisfeiler-Lehman (3d-WL) power to distinguish non-isomorphic graph pairs.
-
-## The UGT is available at:
-* [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Unified-Graph-Transformer)
+## The **LiteralKG** is available at:
+* [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/LiteralKG)
 * [![arXiv](https://img.shields.io/badge/arXiv-2308.09517-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2308.09517)
-* [![PwC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-UGT-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/transitivity-preserving-graph-representation)
 
-## Citing UGT
+
+## Citing **LiteralKG**
 
 Please cite our [paper](https://arxiv.org/abs/2308.09517) if you find *UGT* useful in your work:
 ```
 @misc{hoang2023ugt,
-      title={Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity}, 
-      author={Van Thuy Hoang and O-Joun Lee},
+      title={Companion Animal Disease Diagnostics based on Literal-aware Medical Knowledge Graph Representation Learning}, 
+      author={Van Thuy Hoang, Sang Thanh Nguyen, Sangmyeong Lee, Jooho Lee, Luong Vuong Nguyen, and O-Joun Lee},
       year={2023},
       eprint={2308.09517},
       archivePrefix={arXiv},
@@ -51,7 +48,7 @@ Please cite our [paper](https://arxiv.org/abs/2308.09517) if you find *UGT* usef
 
 ## Contributors
 
-<a href="https://github.com/NSLab-CUK/Unified-Graph-Transformer/graphs/contributors">
+<a href="https://github.com/NSLab-CUK/LiteralKG/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=NSLab-CUK/Unified-Graph-Transformer" />
 </a>
 
