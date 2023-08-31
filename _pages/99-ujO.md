@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Um Jun-O"
-permalink: /member/sypark
+permalink: /member/ujO
 image: 
 ---
 
