@@ -135,7 +135,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 			<li>Research Interest:  Natural Language Processing (NLP)</li>
 		</ul></td>
 	</tr>
-
+</table>
 
 ***
 # Undergraduate Research Assistants
