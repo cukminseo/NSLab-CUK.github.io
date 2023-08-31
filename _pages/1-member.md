@@ -233,7 +233,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/hmlee.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/hmkim.jpg"/></td>  
 		<td><ul>
 			<li>Mar 2021 -- Present: School of Information, Philosophy and Psychology, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: Story generation</li>
