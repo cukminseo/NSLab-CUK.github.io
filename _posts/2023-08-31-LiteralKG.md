@@ -3,6 +3,7 @@ layout: post
 title: LiteralKG, a knowledge graph embedding model that could learn different types of Literal information and graph structure and fuse them into unified representations.
 date:   2023-08-18 00:00:00 +0900
 tags:   Release
+image:  Bib_Network.png
 published: true
 description: The Network Science Lab at the Catholic University of Korea releases LiteralKG, a novel Literal-aware Medical Knowledge Graph Embedding Model specialising in fusing Literal information and entity relations into unified vector representations.
 ---
