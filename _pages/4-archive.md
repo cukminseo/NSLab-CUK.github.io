@@ -252,7 +252,7 @@ description: Archive of events, memories and achievements of the Network Science
   * [Program Book](https://drive.google.com/file/d/1RYbhMluqNwhuJqFwnwn0CHvQ4I4QB2aH/view?usp=sharing)
   * [Photos](https://photos.app.goo.gl/hbksdgFimLMEBFLU8)
 
-<p align="center"><img width="700" src="/images/Colloquium2022.jpg"></p>
+<p align="center"><img width="700" src="/images/Colloquium2022.webp"></p>
 
 <p align="center"><img width="700" src="/images/Colloquium2022_Group.jpg"></p>
 
