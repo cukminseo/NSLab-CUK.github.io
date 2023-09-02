@@ -102,7 +102,7 @@ A non-technical introduction to the field of network science and graph mining ca
 ### Solar Irradiance Forecasting
 
 <p align="center">
-  <img align="center" width="700" src="/images/SolarStations_Small.png">
+  <img align="center" width="700" src="/images/SolarStations_Small.jpg">
   <em>ASOS stations on Korean peninsula and their correlations.</em>
 </p>
 
