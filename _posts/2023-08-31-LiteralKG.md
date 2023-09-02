@@ -1,14 +1,14 @@
 ---
 layout: post
-title: LiteralKG, a Knowledge Graph Embedding Model for learning Literal information and entity relations
+title: LiteralKG, A Novel GNN Model for Learning Literal-aware Representations of Medical Knowledge Graphs
 date:   2023-08-31 00:00:00 +0900
 tags:   Release
 image:  Bib_Network.png
 published: true
-description: The Network Science Lab at the Catholic University of Korea releases LiteralKG, a novel Literal-aware Medical Knowledge Graph Embedding Model specialising in fusing Literal information and entity relations into unified vector representations.
+description: The Network Science Lab at the Catholic University of Korea releases LiteralKG, a novel GNN model for learning literal-aware representations of medical knowledge graphs to integrate literal information and graph structural features into unified vector representations.
 ---
 
-We present [LiteralKG](https://github.com/NSLab-CUK/LiteralKG), a novel Literal-aware Medical Knowledge Graph Embedding Model that fuses different types of literal information and graph structure into unified representations. LiteralKG is developed by NS Lab, CUK, based on pure PyTorch backend.
+We present [LiteralKG](https://github.com/NSLab-CUK/LiteralKG), a novel GNN model for learning literal-aware representations of medical knowledge graphs, which can integrate different types of literal information and graph structural features into unified vector representations. LiteralKG is developed by NS Lab, CUK, based on pure PyTorch backend.
 
 <p align="center">
   <img src="/images/LiteralKG.jpg" alt="LiteralKG Architecture" width="800">
@@ -30,7 +30,7 @@ Over the past few years, Knowledge Graph (KG) embedding has been used to benefit
 * [![arXiv](https://img.shields.io/badge/arXiv-2308.09517-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2308.09517)
 
 
-## Citing **LiteralKG**
+## Citing **LiteralKG**:
 
 Please cite our [paper](https://arxiv.org/abs/2308.09517) if you find *LiteralKG* useful in your work:
 ```
@@ -46,10 +46,10 @@ Please cite our [paper](https://arxiv.org/abs/2308.09517) if you find *LiteralKG
 
 :page_facing_up::woman_technologist::bookmark_tabs::label::black_nib:	
 
-## Contributors
+## Contributors: 
 
 <a href="https://github.com/NSLab-CUK/LiteralKG/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=NSLab-CUK/Unified-Graph-Transformer" />
+  <img src="https://contrib.rocks/image?repo=NSLab-CUK/LiteralKG" />
 </a>
 
 ***
