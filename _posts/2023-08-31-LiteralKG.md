@@ -30,7 +30,7 @@ Over the past few years, Knowledge Graph (KG) embedding has been used to benefit
 * [![arXiv](https://img.shields.io/badge/arXiv-2308.09517-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2308.09517)
 
 
-## Citing **LiteralKG**:
+## Cite **LiteralKG** as:
 
 Please cite our [paper](https://arxiv.org/abs/2308.09517) if you find *LiteralKG* useful in your work:
 ```
