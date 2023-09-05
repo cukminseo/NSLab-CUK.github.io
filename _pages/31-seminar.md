@@ -26,25 +26,25 @@ This page is an archive for papers reviewed by members of the Network Science La
 
 <details markdown="1">
   <summary>V.T.Hoang, Review on "GOAT: A Global Transformer on Large-scale Graphs", PMLR 2023</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/nhzEpN21t0t5hw?hostedIn=slideshare&page=upload" width="0" marginheight="0" scrolling="no"></iframe>width="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/nhzEpN21t0t5hw?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
   
 <details markdown="1">
   <summary>J.H.Lee, Review on "Graph Propagation Transformer for Graph Representation Learning", IJCAI 2023</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/KU4rDO5zbKSags?hostedIn=slideshare&page=upload" width="0" marginheight="0" scrolling="no"></iframe>width="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/KU4rDO5zbKSags?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
     
 <details markdown="1">
   <summary>H.B.Kim,  Review on "Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks", KDD 20219 </summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/e0jTfgMYhfmB9t?hostedIn=slideshare&page=upload" width="0" marginheight="0" scrolling="no"></iframe>width="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/e0jTfgMYhfmB9t?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
   <summary>H.E.Lee,  Review on "Weisfeiler and Leman Go Neural: Higher-Order Graph Neural Networks", AAAI 2019</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/nzLO2H9YuViDaH?hostedIn=slideshare&page=upload" width="0" marginheight="0" scrolling="no"></iframe>width="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/nzLO2H9YuViDaH?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
   
@@ -54,19 +54,19 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 <details markdown="1">
   <summary>V.T.Hoang, Review on "GRPE: Relative Positional Encoding for Graph Transformer", ICLR 2022</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/HnDD19MaSkDJVd?hostedIn=slideshare&page=upload" width="0" marginheight="0" scrolling="no"></iframe>width="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/HnDD19MaSkDJVd?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>H.B.Kim,  Review on "FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling", ICLR 2016</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/iXTQMN32u6SGbP?hostedIn=slideshare&page=upload" width="0" marginheight="0" scrolling="no"></iframe>width="0" marginheight="0" scrolling="no"
+  <summary>H.B.Kim,  Review on "FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling", ICLR 2016 </summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/iXTQMN32u6SGbP?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
   <summary>H.E.Lee,  Review on "Gated Graph Sequence Neural Networks", ICLR 2016 </summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/GXuLFoW7eP1wlN?hostedIn=slideshare&page=upload" width="0" marginheight="0" scrolling="no"></iframe>width="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/GXuLFoW7eP1wlN?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
@@ -82,7 +82,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
   
 <details markdown="1">
   <summary>J.H.Lee, Review on "Learnable Structural Semantic Readout for Graph Classification", ICDM 2021</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/pfYru8Ie84Jt9g?hostedIn=slideshare&page=upload" width="0" marginheight="0" scrolling="no"></iframe>width="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/pfYru8Ie84Jt9g?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
