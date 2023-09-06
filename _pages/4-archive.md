@@ -33,6 +33,16 @@ description: Archive of events, memories and achievements of the Network Science
 <p align="center"><img width="700" src="/images/230901.jpg"></p>
 
 ***
+##### Aug 29th, 2023 -- Dec 5th, 2023
+{:.no_toc}
+
+* NS Lab@CUK organizes [the 2023 Fall CUK Artificial Intelligence Seminar Series (2023년 가을 가톨릭대학교 인공지능 세미나)](https://nslab-cuk.github.io/2023/08/06/Seminar/) with the Department of AI. This seminar series consists of 13 invited talks given by experts from both the corporate world and research institutions and is scheduled to take place over a period of 15 weeks, from August 29th, 2023, to December 5th, 2023. 
+
+<p align="center"><img width="700" src="/images/230906.jpg"></p>
+
+<p align="center"><img width="700" src="/images/2023-2-Seminar-Poster.webp"></p>
+
+***
 ##### Aug 22nd, 2023
 {:.no_toc}
 
