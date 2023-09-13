@@ -27,7 +27,8 @@ Over the past few years, Knowledge Graph (KG) embedding has been used to benefit
 
 ## The **LiteralKG** is available at:
 * [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/LiteralKG)
-* [![arXiv](https://img.shields.io/badge/arXiv-2308.09517-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2309.03219)
+* [![arXiv](https://img.shields.io/badge/arXiv-2309.03219-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2309.03219)
+* [![PWC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-LiteralKG-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/companion-animal-disease-diagnostics-based-on)
 
 
 ## Cite "**LiteralKG**" as:
