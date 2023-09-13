@@ -83,7 +83,11 @@ A non-technical introduction to the field of network science and graph mining ca
 
 ### Medical Knowledge Graph Embedding for Disease Diagnosis
 
-* [![Demo](https://img.shields.io/badge/-System%20Demo-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://nslab.catholic.ac.kr/)
+* Van Thuy Hoang, Sang Thanh Nguyen, Sangmyeong Lee, Jooho Lee, Luong Vuong Nguyen, O-Joun Lee: Companion Animal Disease Diagnostics based on Literal-aware Medical Knowledge Graph Representation Learning. arXiv preprint 09/2023; arXiv:2309.03219. (Preprint) <br>
+[![arXiv](https://img.shields.io/badge/arXiv-2309.03219-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2309.03219)
+[![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/LiteralKG)
+[![PWC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-LiteralKG-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/companion-animal-disease-diagnostics-based-on)
+[![Demo](https://img.shields.io/badge/-System%20Demo-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://nslab.catholic.ac.kr/)
 
 ### Medical Knowledge Graph Embedding for Drug Effect Prediction
 
