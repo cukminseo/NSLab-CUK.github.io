@@ -25,7 +25,7 @@ This page is an archive for papers reviewed by members of the Network Science La
 {:.no_toc}
 
 <details markdown="1">
-  <summary>V.T.Hoang, Review on "GOAT: A Global Transformer on Large-scale Graphs", PMLR 2023</summary>
+  <summary>V.T.Hoang, Review on "GOAT: A Global Transformer on Large-scale Graphs", ICML 2023</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/nhzEpN21t0t5hw?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -206,7 +206,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>H.E.Lee, Review on "Structural Deep Embedding for Hyper-Networks", AAAI 20218</summary>
+  <summary>H.E.Lee, Review on "Structural Deep Embedding for Hyper-Networks", AAAI 2018</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/7zB3Po97a98A8P?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
@@ -239,7 +239,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 
 <details markdown="1">
-  <summary>V.T.Hoang, Review on "Relphormer: Relational Graph Transformer for Knowledge Graph Representations", 2022</summary>
+  <summary>V.T.Hoang, Review on "Relphormer: Relational Graph Transformer for Knowledge Graph Representations", arXiv preprint, arXiv:2205.10852, 2022</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/rQ5qqgxAyGQiae?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
