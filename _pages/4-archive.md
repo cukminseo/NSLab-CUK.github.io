@@ -40,6 +40,8 @@ description: Archive of events, memories and achievements of the Network Science
 
 <p align="center"><img width="700" src="/images/230906.jpg"></p>
 
+<p align="center"><img width="700" src="/images/230912.jpg"></p>
+
 <p align="center"><img width="700" src="/images/2023-2-Seminar-Poster.webp"></p>
 
 ***
