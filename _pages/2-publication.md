@@ -247,6 +247,8 @@ toc_label: "Table of Contents"
 
 ***
 
+* O-Joun Lee: Knowledge Graph Reasoning and its Applications. [Telecommunications Technology Association](https://www.tta.or.kr/eng/index.do), Seongnam, Korea, 09/2023
+
 * O-Joun Lee: Semiconductor Design with Graph Neural Networks. [The 2023 Summer Annual Conference of the Institute of Electronics and Information Engineers](https://conf.theieie.org/2023s/pages/guest_lecture.vm), Jeju, Korea, 06/2023
 
 * O-Joun Lee: Spatio-Temporal Forecasting Models for Renewable Energy. [The 1st International Conference on Intelligence of Things (ICIT 2022)](https://icit2022.humg.edu.vn/), Hanoi, Vietnam, 08/2022
