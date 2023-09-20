@@ -31,7 +31,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>J.H.Kim, Review on "Shift-Robust Node Classification via Graph Adversarial Clustering", Neurips 2022</summary>
+  <summary>J.H.Lee, Review on "Shift-Robust Node Classification via Graph Adversarial Clustering", Neurips 2022</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/JOeo61ue2hCUyQ?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
