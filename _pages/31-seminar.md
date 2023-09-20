@@ -1,4 +1,4 @@
----
+![image](https://github.com/NSLab-CUK/NSLab-CUK.github.io/assets/100113405/96ea07b1-9117-4436-9e78-5f554d6629a4)---
 layout: page
 title: NS-CUK Weekly Seminar
 permalink: /seminar/
@@ -19,6 +19,46 @@ This page is an archive for papers reviewed by members of the Network Science La
 
 ***
 ### Summer 2023
+
+***
+### Sep 11th, 2023
+{:.no_toc}
+
+<details markdown="1">
+  <summary>V.T.Hoang, Review on "EDGEFORMERS: GRAPH-EMPOWERED TRANSFORMERS FOR REPRESENTATION LEARNING ON TEXTUAL EDGE NETWORKS", ICLR 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/2Wi0FVgc74FDDg?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>J.H.Kim, Review on "Shift-Robust Node Classification via Graph Adversarial Clustering", Neurips 2022</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/JOeo61ue2hCUyQ?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.B.Kim, Review on "DeeperGCN: ALL You Need to Train Deeper GCN", arXiv e-prints 2019</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/mAz2xksLDL3NIM?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.E.Lee, Review on "Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks", arXiv e-prints 2019</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/hcMRgDxpDXBVGm?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>J.W.Jeong, Review on "K-NN K-Nearest Neighbors Algorithm"</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/DIjlM3SREXRKad?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>M.S.Kim, Review on "AlexNet"</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/zcVs85JoslwDOc?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
 
 ***
 #### Sep 4th, 2023
