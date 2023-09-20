@@ -21,7 +21,7 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### Summer 2023
 
 ***
-### Sep 18th, 2023
+#### Sep 18th, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -55,7 +55,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-### Sep 11th, 2023
+#### Sep 11th, 2023
 {:.no_toc}
 
 <details markdown="1">
