@@ -21,6 +21,40 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### Summer 2023
 
 ***
+### Sep 18th, 2023
+{:.no_toc}
+
+<details markdown="1">
+  <summary>V.T.Hoang, Review on "LEARNING FAIR GRAPH REPRESENTATIONS VIA AUTOMATED DATA AUGMENTATIONS", ICLR 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/qROUJj3JBacePo?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>J.H.Lee, Review on "SPECFORMER: SPECTRAL GRAPH NEURAL NETWORKS MEET TRANSFORMERS", ICLR 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/BJSdKx9p5ijupu?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.B.Kim, Review on "Graph Attention Networks", ICLR 2018</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/7660lg2UA38pG7?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>J.W.Jeong, Review on "K-Means Clustering Algorithm"</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/osZHsr6cmKENR?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>M.S.Kim, Review on "AlexNet"</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/Lmb3lBRvAOvZ25?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 ### Sep 11th, 2023
 {:.no_toc}
 
@@ -55,7 +89,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>M.S.Kim, Review on "AlexNet"</summary>
+  <summary>M.S.Kim, Review on "AlexNet", Advances in neural information processing systems, 2012</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/zcVs85JoslwDOc?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
