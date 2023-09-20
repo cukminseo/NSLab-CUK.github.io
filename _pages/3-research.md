@@ -125,26 +125,14 @@ A non-technical introduction to the field of network science and graph mining ca
 * Eun-Soon You, Hyeon-Ju Jeon, O-Joun Lee: A Social Network of Characters Appeared in the French Novel Series "La Comédie humaine" and An Interaction Network of Novels in the Series. Figshare 08/2023. (Dataset) <br>
 [![DOI](http://img.shields.io/:DOI-10.6084/m9.figshare.23994078.v1-blue?style=flat-square)](https://doi.org/10.6084/m9.figshare.23994078.v1)
 
-<p align="center">
-  <iframe src="https://widgets.figshare.com/articles/23994078/embed?show_title=1" width="568" height="351" frameborder="0" marginwidth="0" marginheight="0" style="max-width: 100%;" allowfullscreen></iframe>
-</p>
-
 * Eun-Soon You, Hyeon-Ju Jeon, O-Joun Lee: A Dynamic Social Network of Characters Appeared in the French Novel, "Les Liaisons Dangereuses". Figshare 08/2023. (Dataset) <br>
 [![DOI](http://img.shields.io/:DOI-10.6084/m9.figshare.23993748.v1-blue?style=flat-square)](https://doi.org/10.6084/m9.figshare.23993748.v1)
-
-<p align="center">
-  <iframe src="https://widgets.figshare.com/articles/23993748/embed?show_title=1" width="568" height="351" frameborder="0" marginwidth="0" marginheight="0" style="max-width: 100%;" allowfullscreen></iframe>
-</p>
 
 ***
 ## Computational Social Sciences
 
 * Jooho Lee, Yoewon Yoon, O-Joun Lee: Korean News Corpus for Changes in Child Abuse before and after COVID-19 Outbreak. Figshare 08/2023. (Dataset) <br>
 [![DOI](http://img.shields.io/:DOI-10.6084/m9.figshare.24025491.v1-blue?style=flat-square)](https://doi.org/10.6084/m9.figshare.24025491.v1)
-
-<p align="center">
-  <iframe src="https://widgets.figshare.com/articles/24025491/embed?show_title=1" width="568" height="351" frameborder="0" marginwidth="0" marginheight="0" style="max-width: 100%;" allowfullscreen></iframe>
-</p>
 
 ***
 # Medical Image and Signal Processing
@@ -162,6 +150,8 @@ A non-technical introduction to the field of network science and graph mining ca
   <img width="700" src="/images/Fig4.JPG">
   <em>Inflicting high-frequency ultrasonic wave on invasive/non-invasive breast cancer cells.</em>
 </p>
+
+* Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee†, Hae Gyun Lim†: Diagnosis of diabetes mellitus using high frequency ultrasound and convolutional neural network. Ultrasonics 09/2022. (†: Co-correspondence) (To Appear)
 
 * Hyeon-Ju Jeon, Hae Gyun Lim, K. Kirk Shung, O-Joun Lee†, Min Gon Kim†: Automated cell-type classification combining dilated convolutional neural networks with label-free acoustic sensing. Scientific Reports 11/2022; 12: 19873. (†: Co-correspondence) <br>[![DOI](http://img.shields.io/:DOI-10.1038/s41598--022--22075--6-blue?style=flat-square)](https://doi.org/10.1038/s41598-022-22075-6)
 
