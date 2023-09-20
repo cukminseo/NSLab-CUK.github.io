@@ -44,13 +44,13 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 <details markdown="1">
   <summary>J.W.Jeong, Review on "K-Means Clustering Algorithm"</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/osZHsr6cmKENR?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/osZHsr6cmKENR?  hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>M.S.Kim, Review on "AlexNet"</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/Lmb3lBRvAOvZ25?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <summary>M.S.Kim, Review on "VGG"</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/Lmb3lBRvAOvZ25?startSlide=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
