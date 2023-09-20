@@ -1,4 +1,4 @@
-![image](https://github.com/NSLab-CUK/NSLab-CUK.github.io/assets/100113405/96ea07b1-9117-4436-9e78-5f554d6629a4)---
+---
 layout: page
 title: NS-CUK Weekly Seminar
 permalink: /seminar/
@@ -9,6 +9,10 @@ toc_sticky: true
 toc_label: "Table of Contents"
 ---
 
+<!-- ![image](https://github.com/NSLab-CUK/NSLab-CUK.github.io/assets/100113405/96ea07b1-9117-4436-9e78-5f554d6629a4) -->
+
+
+
 This page is an archive for papers reviewed by members of the Network Science Lab, along with corresponding presentation materials, as part of the NS-CUK Weekly Seminar series. Launched in Fall 2022, this seminar series is intended to be a platform for the members of the Network Science Lab at the Catholic University of Korea to exchange insights and understanding of state-of-the-art AI methodologies and models for graph mining.
 
 ***
@@ -18,9 +22,10 @@ This page is an archive for papers reviewed by members of the Network Science La
 {:toc}
 
 ***
-### Summer 2023
+### Fall 2023
 
 ***
+
 #### Sep 18th, 2023
 {:.no_toc}
 
@@ -123,6 +128,12 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
   
 ***
+
+***
+### Summer 2023
+
+***
+
 #### Aug 28th, 2023
 {:.no_toc}
 
