@@ -19,6 +19,14 @@ description: Archive of events, memories and achievements of the Network Science
 <p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" style="width : 120px; margin : 10px"></a></p>
 
 ***
+##### Sep 22nd, 2023
+{:.no_toc}
+
+* We started participating in a commissioned research project on "A study on the application and use of generative AI to support the process of the prosecution," funded by [Supreme Prosecutors' Office of the Republic of Korea](https://www.spo.go.kr/site/eng/main.do) (Oct 2023 -- Dec 2023, 80 Mil KRW), by cooperating with Prof. [Youjin Shin](https://adslab0.github.io/), Prof. [Kang-Min Kim](https://kangmin89.com/), and their teams.
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="http://www.orderqueen.co.kr/"><img align="center" src="/images/Prosecution_Logo.png" style="width : 120px; margin : 10px"></a></p>
+
+***
 ##### Sep 5th, 2023
 {:.no_toc}
 
@@ -157,6 +165,12 @@ description: Archive of events, memories and achievements of the Network Science
 <p align="center"><img width="700" src="/images/230627.jpg"></p>
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://cukai.catholic.ac.kr/cukai/index.html"><img align="center" src="/images/AI_Logo.png" style="width : 100px; margin : 15px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a></p>
+
+***
+##### Jun 12th, 2023
+{:.no_toc}
+
+<p align="center"><img width="700" src="/images/230612.jpg"></p>
 
 ***
 ##### Jun 1st, 2023
