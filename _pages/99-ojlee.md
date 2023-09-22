@@ -267,6 +267,7 @@ Principal Investigator
 Co-Principal Investigator
 ------------
 
+* Commissioned Research Project, 80 Mil KRW, Supreme Prosecutors' Office, 2023
 * Commissioned Research Project, 90 Mil KRW, KICT, 2023
 * Industry-Academic Cooperation Project, 30 Mil KRW, Order Queen Co., Ltd., 2022
 * Industry-Academic Cooperation Project, 150 Mil KRW, IntoCNS Co., Ltd., 2022
