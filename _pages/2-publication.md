@@ -85,7 +85,7 @@ toc_label: "Table of Contents"
 
 * Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: Blood Glucose Classification Using high-Frequency Ultrasound and Artificial Intelligence. The 2023 IEEE International Ultrasonics Symposium (IEEE IUS 2023), Montreal, Canada; 09/2023 ([Poster](https://drive.google.com/file/d/1GUoRZhbhRHc8hNTWGhlYDD_Re6mNVPwt/view?usp=sharing))
 
-* Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee, Hae Gyun Lim: Classification of Red Blood Cells for the Diagnosis of dysnatremia Based on Ultrasound and Convolutional Neural Networks. The 2023 IEEE International Ultrasonics Symposium (IEEE IUS 2023), Montreal, Canada; 09/2023 (Poster)
+* Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee, Hae Gyun Lim: Classification of Red Blood Cells for the Diagnosis of dysnatremia Based on Ultrasound and Convolutional Neural Networks. The 2023 IEEE International Ultrasonics Symposium (IEEE IUS 2023), Montreal, Canada; 09/2023 ([Poster](https://drive.google.com/file/d/1SlepM15zrz8L5jP0Z96vSluohlZS8Fgr/view?usp=sharing))
 
 * Akshat Gaurav, Varsha Arya, Kwok Tai Chui, Brij B. Gupta, Chang Choi, O-Joun Lee: Long Short-Term Memory Network (LSTM) based Stock Price Prediction. The 2023 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2023), Gdańsk, Poland; 08/2023
 
