@@ -25,7 +25,40 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### Fall 2023
 
 ***
+#### Sep 25th, 2023
+{:.no_toc}
 
+<details markdown="1">
+  <summary>V.T.Hoang, Review on "AUTOMATED DATA AUGMENTATIONS FOR GRAPH CLASSIFICATION", ICLR 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/j743pGPEvBESW3?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>J.H.Lee, Review on "Graph Transformer with Graph Pooling for Node Classification", IJCAI 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/I5FS06Nwq33I3N?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.B.Kim, Review on "Sparse Graph Attention Networks", IEEE Transactions on Knowledge and Data Engineering</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/q6jxjJUKXPAMNK?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>J.W.Jeong, Review on "Linear Regression"</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/nMKPJ5xmj7C1OR?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>M.S.Kim, Review on "GoogLeNet"</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/7VTQjtNaZdbXU9?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### Sep 18th, 2023
 {:.no_toc}
 
