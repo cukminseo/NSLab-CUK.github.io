@@ -25,6 +25,16 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### Fall 2023
 
 ***
+### Oct 9th
+{:.no_toc}
+
+<details markdown="1">
+  <summary>V.T.Hoang, Review on "Graph Neural Prompting with Large Language Models", Computation and Language (cs.CL)</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/2QoCXGOOHDWpp2?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 ### Oct 2nd, 2023
 {:.no_toc}
 
