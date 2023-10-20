@@ -25,7 +25,7 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### Fall 2023
 
 ***
-### Oct 9th
+### Oct 20th
 {:.no_toc}
 <details markdown="1">
   <summary>V.T.Hoang, Review on "Deep Graph Contrastive Representation Learning", Machine Learning (cs.LG)</summary>
