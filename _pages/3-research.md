@@ -83,7 +83,8 @@ A non-technical introduction to the field of network science and graph mining ca
 
 ### Medical Knowledge Graph Embedding for Disease Diagnosis
 
-* Van Thuy Hoang, Sang Thanh Nguyen, Sangmyeong Lee, Jooho Lee, Luong Vuong Nguyen, O-Joun Lee: Companion Animal Disease Diagnostics based on Literal-aware Medical Knowledge Graph Representation Learning. arXiv preprint 09/2023; arXiv:2309.03219. (Preprint) <br>
+* Van Thuy Hoang, Sang Thanh Nguyen, Sangmyeong Lee, Jooho Lee, Luong Vuong Nguyen, O-Joun Lee: Companion Animal Disease Diagnostics based on Literal-aware Medical Knowledge Graph Representation Learning. IEEE Access 10/2023; 11: 114238-114249. <br>
+[![DOI](http://img.shields.io/:DOI-10.1109/ACCESS.2023.3324046-blue?style=flat-square)](https://doi.org/10.1109/ACCESS.2023.3324046)
 [![arXiv](https://img.shields.io/badge/arXiv-2309.03219-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2309.03219)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/LiteralKG)
 [![PWC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-LiteralKG-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/companion-animal-disease-diagnostics-based-on)
@@ -151,7 +152,7 @@ A non-technical introduction to the field of network science and graph mining ca
   <em>Inflicting high-frequency ultrasonic wave on invasive/non-invasive breast cancer cells.</em>
 </p>
 
-* Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee†, Hae Gyun Lim†: Diagnosis of diabetes mellitus using high frequency ultrasound and convolutional neural network. Ultrasonics 09/2022. (†: Co-correspondence) (To Appear)
+* Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee†, Hae Gyun Lim†: Diagnosis of diabetes mellitus using high frequency ultrasound and convolutional neural network. Ultrasonics 01/2024; 136: 107167. (†: Co-correspondence) <br>[![DOI](http://img.shields.io/:DOI-10.1016/j.ultras.2023.107167-blue?style=flat-square)](https://doi.org/10.1016/j.ultras.2023.107167)
 
 * Hyeon-Ju Jeon, Hae Gyun Lim, K. Kirk Shung, O-Joun Lee†, Min Gon Kim†: Automated cell-type classification combining dilated convolutional neural networks with label-free acoustic sensing. Scientific Reports 11/2022; 12: 19873. (†: Co-correspondence) <br>[![DOI](http://img.shields.io/:DOI-10.1038/s41598--022--22075--6-blue?style=flat-square)](https://doi.org/10.1038/s41598-022-22075-6)
 
