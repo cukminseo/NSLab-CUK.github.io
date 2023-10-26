@@ -124,7 +124,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	</tr>
 </table>
 
-###### [WU YANJUN](https://nslab-cuk.github.io/member/WYJ) (Aug 2023 -- Present)
+###### [Yanjun Wu](https://nslab-cuk.github.io/member/WYJ) (Aug 2023 -- Present)
 
 <table border="0">  
 	<tr valign="top">
