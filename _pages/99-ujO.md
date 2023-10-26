@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "WU YANJUN"
+title: "Yanjun Wu"
 permalink: /member/WYJ
 image: 
 ---
