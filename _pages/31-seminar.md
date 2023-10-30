@@ -25,6 +25,26 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### Fall 2023
 
 ***
+### Oct 22nd
+{:.no_toc}
+<details markdown="1">
+  <summary>V.T.Hoang, Review on "Exploring attention mechanism for graph similarity learning", Knowledge-Based Systems 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/cM2jRulZB6Cc4n?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+
+<details markdown="1">
+  <summary>H.B.Kim, Review on "A Generalization of Transformer Networks to Graphs", AAAI 2021</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/NkusZtYcIs2PO2?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>M.S.Kim, Review on "ResNet"</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/IkOmD5ESnkmFWE?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 ### Oct 21st
 {:.no_toc}
 <details markdown="1">
