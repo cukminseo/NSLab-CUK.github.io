@@ -31,6 +31,7 @@ This page is an archive for papers reviewed by members of the Network Science La
   <summary>V.T.Hoang, Review on "Exploring attention mechanism for graph similarity learning", Knowledge-Based Systems 2023</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/cM2jRulZB6Cc4n?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
 
 <details markdown="1">
   <summary>H.B.Kim, Review on "A Generalization of Transformer Networks to Graphs", AAAI 2021</summary>
