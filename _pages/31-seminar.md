@@ -25,6 +25,21 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### Fall 2023
 
 ***
+### Nov 6th
+{:.no_toc}
+<details markdown="1">
+  <summary>H.B.Kim, Review on "Do Transformers Really Perform Badly for Graph Representation?", Advances in Neural Information Processing Systems 34 2021</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/Fw9zkDrZ1UvqIi?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Y.J.Wu, Review on "GAN: Generative Adversarial Networks"</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/uHkK8DBuvDvqWz?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 ### Oct 22nd
 {:.no_toc}
 <details markdown="1">
@@ -41,7 +56,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 <details markdown="1">
   <summary>M.S.Kim, Review on "ResNet"</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/IkOmD5ESnkmFWE?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/3eTkcfoIzNhRRj?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
