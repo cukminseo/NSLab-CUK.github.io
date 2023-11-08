@@ -76,6 +76,7 @@ toc_label: "Table of Contents"
 * O-Joun Lee, Jai E. Jung: Sequence Clustering-based Automated Rule Generation for Adaptive Complex Event Processing. Future Generation Computer Systems 01/2017; 66: 100–109., DOI:10.1016/j.future.2016.02.011
 
 * O-oun Lee, Min-sung Hong, Jason J. Jung, Juhyun Shin, Pankoo Kim: Adaptive Collaborative Filtering Based on Scalable Clustering for Big Recommender Systems. Acta Polytechnica Hungarica 02/2016; 13(2): 179-194., DOI:10.12700/APH.13.2.2016.2.10
+<span class="__dimensions_badge_embed__" data-doi="10.1001/jama.2016.9797" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 
 
