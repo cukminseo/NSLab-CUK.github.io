@@ -28,13 +28,13 @@ This page is an archive for papers reviewed by members of the Network Science La
 #### Nov 6th
 {:.no_toc}
 <details markdown="1">
-  <summary>H.B.Kim, Review on "Do Transformers Really Perform Badly for Graph Representation?", Advances in Neural Information Processing Systems 34 2021</summary>
+  <summary>H.B.Kim, Review on "Do Transformers Really Perform Badly for Graph Representation?", NeurIPS 2021</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/Fw9zkDrZ1UvqIi?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>Y.J.Wu, Review on "GAN: Generative Adversarial Networks"</summary>
+  <summary>Y.J.Wu, Review on "Generative Adversarial Networks", NeurIPS 2014</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/uHkK8DBuvDvqWz?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -43,7 +43,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 #### Oct 22nd
 {:.no_toc}
 <details markdown="1">
-  <summary>V.T.Hoang, Review on "Exploring attention mechanism for graph similarity learning", Knowledge-Based Systems 2023</summary>
+  <summary>V.T.Hoang, Review on "Exploring attention mechanism for graph similarity learning", Knowledge-Based Systems, 2023</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/cM2jRulZB6Cc4n?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -55,7 +55,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>M.S.Kim, Review on "ResNet"</summary>
+  <summary>M.S.Kim, Review on "Deep Residual Learning for Image Recognition", CVPR 2016</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/3eTkcfoIzNhRRj?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -75,23 +75,17 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
-<details markdown="1">
-  <summary>J.W.Jeong, Review on "Logistic Regression"</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/uuCDz0svjmywrp?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
-style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
-</details>
-
 ***
 #### Oct 20th
 {:.no_toc}
 <details markdown="1">
-  <summary>V.T.Hoang, Review on "Deep Graph Contrastive Representation Learning", Machine Learning (cs.LG)</summary>
+  <summary>V.T.Hoang, Review on "Deep Graph Contrastive Representation Learning", arXiv preprint, arXiv:2006.04131, 2020</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/Ajwww4BziD1aWO?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>Y.J.Wu, Review on "EfficientNet"</summary>
+  <summary>Y.J.Wu, Review on "Efficientnet: Rethinking model scaling for convolutional neural networks", ICML 2019</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/rI4308tGHir7S9?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -101,7 +95,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 
 <details markdown="1">
-  <summary>V.T.Hoang, Review on "Graph Neural Prompting with Large Language Models", Computation and Language (cs.CL)</summary>
+  <summary>V.T.Hoang, Review on "Graph Neural Prompting with Large Language Models", arXiv preprint, arXiv:2309.15427, 2023</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/2QoCXGOOHDWpp2?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -121,7 +115,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 
 <details markdown="1">
-  <summary>V.T.Hoang, Review on "AUTOMATED DATA AUGMENTATIONS FOR GRAPH CLASSIFICATION", ICLR 2023</summary>
+  <summary>V.T.Hoang, Review on "Automated data augmentations for graph classification", ICLR 2023</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/j743pGPEvBESW3?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -133,19 +127,13 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>H.B.Kim, Review on "Sparse Graph Attention Networks", IEEE Transactions on Knowledge and Data Engineering</summary>
+  <summary>H.B.Kim, Review on "Sparse Graph Attention Networks", IEEE Transactions on Knowledge and Data Engineering, 2021</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/q6jxjJUKXPAMNK?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>J.W.Jeong, Review on "Linear Regression"</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/nMKPJ5xmj7C1OR?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
-style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
-</details>
-
-<details markdown="1">
-  <summary>M.S.Kim, Review on "GoogLeNet"</summary>
+  <summary>M.S.Kim, Review on "Going Deeper With Convolutions", CVPR 2015</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/7VTQjtNaZdbXU9?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -155,13 +143,13 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 
 <details markdown="1">
-  <summary>V.T.Hoang, Review on "LEARNING FAIR GRAPH REPRESENTATIONS VIA AUTOMATED DATA AUGMENTATIONS", ICLR 2023</summary>
+  <summary>V.T.Hoang, Review on "Learning fair graph representations via automated data augmentations", ICLR 2023</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/qROUJj3JBacePo?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>J.H.Lee, Review on "SPECFORMER: SPECTRAL GRAPH NEURAL NETWORKS MEET TRANSFORMERS", ICLR 2023</summary>
+  <summary>J.H.Lee, Review on "Specformer: Spectral graph neural networks meet transformers", ICLR 2023</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/BJSdKx9p5ijupu?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -173,13 +161,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>J.W.Jeong, Review on "K-Means Clustering Algorithm"</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/osZHsr6cmKENR?  hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
-style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
-</details>
-
-<details markdown="1">
-  <summary>M.S.Kim, Review on "VGG"</summary>
+  <summary>M.S.Kim, Review on "Very Deep Convolutional Networks for Large-Scale Image Recognition", ICLR 2015</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/Lmb3lBRvAOvZ25?startSlide=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -189,37 +171,31 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 
 <details markdown="1">
-  <summary>V.T.Hoang, Review on "EDGEFORMERS: GRAPH-EMPOWERED TRANSFORMERS FOR REPRESENTATION LEARNING ON TEXTUAL EDGE NETWORKS", ICLR 2023</summary>
+  <summary>V.T.Hoang, Review on "Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks", ICLR 2023</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/2Wi0FVgc74FDDg?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>J.H.Lee, Review on "Shift-Robust Node Classification via Graph Adversarial Clustering", Neurips 2022</summary>
+  <summary>J.H.Lee, Review on "Shift-Robust Node Classification via Graph Adversarial Clustering", NeurIPS 2022</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/JOeo61ue2hCUyQ?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>H.B.Kim, Review on "DeeperGCN: ALL You Need to Train Deeper GCN", arXiv e-prints 2019</summary>
+  <summary>H.B.Kim, Review on "DeeperGCN: ALL You Need to Train Deeper GCN", arXiv preprint, arXiv:2006.07739, 2020</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/mAz2xksLDL3NIM?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>H.E.Lee, Review on "Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks", arXiv e-prints 2019</summary>
+  <summary>H.E.Lee, Review on "Weisfeiler and Leman Go Neural: Higher-Order Graph Neural Networks", AAAI 2019</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/hcMRgDxpDXBVGm?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>J.W.Jeong, Review on "K-NN K-Nearest Neighbors Algorithm"</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/DIjlM3SREXRKad?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
-style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
-</details>
-
-<details markdown="1">
-  <summary>M.S.Kim, Review on "AlexNet", Advances in neural information processing systems, 2012</summary>
+  <summary>M.S.Kim, Review on "ImageNet Classification with Deep Convolutional Neural Networks", NeurIPS 2012</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/zcVs85JoslwDOc?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -251,8 +227,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/nzLO2H9YuViDaH?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
-  
-***
+
 
 ***
 ### Summer 2023
@@ -329,7 +304,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>H.B.Kim,  Review on "Inductive Representation Learning on Large Graphs", NIPS 2017</summary>
+  <summary>H.B.Kim,  Review on "Inductive Representation Learning on Large Graphs", NeurIPS 2017</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/LiR8dOGO1LSW7A?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -703,7 +678,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>S.T.Nguyen, Review on "Multi-modal Trajectory Prediction for Autonomous Driving with Semantic Map and Dynamic Graph Attention Network", NIPS 2020</summary>
+  <summary>S.T.Nguyen, Review on "Multi-modal Trajectory Prediction for Autonomous Driving with Semantic Map and Dynamic Graph Attention Network", NeurIPS 2020</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/27htZdwgkuYF3r?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 </details>
 
