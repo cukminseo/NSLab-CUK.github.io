@@ -25,7 +25,7 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### Fall 2023
 
 ***
-### Nov 6th
+#### Nov 6th
 {:.no_toc}
 <details markdown="1">
   <summary>H.B.Kim, Review on "Do Transformers Really Perform Badly for Graph Representation?", Advances in Neural Information Processing Systems 34 2021</summary>
@@ -40,7 +40,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-### Oct 22nd
+#### Oct 22nd
 {:.no_toc}
 <details markdown="1">
   <summary>V.T.Hoang, Review on "Exploring attention mechanism for graph similarity learning", Knowledge-Based Systems 2023</summary>
@@ -61,7 +61,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-### Oct 21st
+#### Oct 21st
 {:.no_toc}
 <details markdown="1">
   <summary>V.T.Hoang, Review on "Conditional Graph Information Bottleneck for Molecular Relational Learning", ICML 2023</summary>
@@ -82,7 +82,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-### Oct 20th
+#### Oct 20th
 {:.no_toc}
 <details markdown="1">
   <summary>V.T.Hoang, Review on "Deep Graph Contrastive Representation Learning", Machine Learning (cs.LG)</summary>
@@ -97,7 +97,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-### Oct 9th
+#### Oct 9th
 {:.no_toc}
 
 <details markdown="1">
@@ -107,7 +107,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-### Oct 2nd, 2023
+#### Oct 2nd, 2023
 {:.no_toc}
 
 <details markdown="1">
