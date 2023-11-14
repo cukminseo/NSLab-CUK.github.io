@@ -25,6 +25,21 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### Fall 2023
 
 ***
+### Nov 13th
+{:.no_toc}
+<details markdown="1">
+  <summary>V.T.Hoang, Review on "RETHINKING THE EXPRESSIVE POWER OF GNNS VIA GRAPH BICONNECTIVITY", ICLR 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/qo3cHcM7Z6e2bI?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.B.Kim, Review on "LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation", ACM SIGIR 2020</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/Fw9zkDrZ1UvqIi?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### Nov 6th
 {:.no_toc}
 <details markdown="1">
