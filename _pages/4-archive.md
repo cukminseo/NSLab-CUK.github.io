@@ -19,6 +19,18 @@ description: Archive of events, memories and achievements of the Network Science
 <p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" style="width : 120px; margin : 10px"></a></p>
 
 ***
+##### Nov 3rd, 2023
+{:.no_toc}
+
+* The research collaboration between NS@CUK and BU@PKNU on acoustic signal analysis with deep learning has been presented as two posters at [ACK 2023](https://www.manuscriptlink.com/society/kips/conference/ack2023).
+  * Daehun Kim, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: Development of an Automatic Monitoring System for Ultrasound Signals Using Artificial Intelligence and Convolutional Neural Networks. [The 2023 Annual Conference of Korea Information Processing Society](https://www.manuscriptlink.com/society/kips/conference/ack2023), Busan, Korea; 11/2023 ([Poster](https://drive.google.com/file/d/1UmF5wgWtroScELO2_vaKRavFpiiDnnWx/view?usp=sharing); in Korean)
+  * So Yeon Moon, Hyeon-Ju Jeon, Yeongho Sung, Min-Seo Kim, Daehun Kim, Jaeyeop Choi, Junghwan Oh, O-Joun Lee, Hae Gyun Lim: Dual-mode diagnosis system for water quality and corrosion in pipe using convolutional neural networks (CNN) and ultrasound. [The 2023 Annual Conference of Korea Information Processing Society](https://www.manuscriptlink.com/society/kips/conference/ack2023), Busan, Korea; 11/2023 ([Poster](https://drive.google.com/file/d/1mLOJuRBatRkGGWKFN6u3U6bz-WMg9nWL/view?usp=sharing); in Korean)
+
+<p align="center"><img width="700" src="/images/ACK2023_poster_DK.webp"></p>
+
+<p align="center"><img width="700" src="/images/ACK2023_poster_SM.webp"></p>
+
+***
 ##### Sep 26th, 2023
 {:.no_toc}
 
