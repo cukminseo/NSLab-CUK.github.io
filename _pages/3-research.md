@@ -192,6 +192,12 @@ A non-technical introduction to the field of network science and graph mining ca
 
 ### Marine Environment Monitoring System
 
+* Daehun Kim, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: Development of an Automatic Monitoring System for Ultrasound Signals Using Artificial Intelligence and Convolutional Neural Networks. [The 2023 Annual Conference of Korea Information Processing Society](https://www.manuscriptlink.com/society/kips/conference/ack2023), Busan, Korea; 11/2023 ([Poster](https://drive.google.com/file/d/1UmF5wgWtroScELO2_vaKRavFpiiDnnWx/view?usp=sharing); in Korean)
+
+<p align="center">
+  <img width="700" src="/images/ACK2023_poster_DK.webp">
+</p>
+
 * Daehun Kim, Hyeon-Ju Jeon, Hye Yun Jeong, O-Joun Lee, Hae Gyun Lim: Automatic Monitoring System for Red Tide Detection using Ultrasonic Signals and Convolutional Neural Networks. [The 2023 Spring Conference of The Acoustical Society of Korea](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265), Jeju, Korea; 06/2023 ([Poster](https://drive.google.com/file/d/1TdYEOkzftD38bxeVG-hBnlu0px87z083/view?usp=sharing); in Korean)
 
 <p align="center">
@@ -217,6 +223,15 @@ A non-technical introduction to the field of network science and graph mining ca
 
 <p align="center">
   <img width="700" src="/images/AWAD2023_Poster.webp">
+</p>
+
+***
+## Water Distribution Pipe Corrosion Assessment
+
+* So Yeon Moon, Hyeon-Ju Jeon, Yeongho Sung, Min-Seo Kim, Daehun Kim, Jaeyeop Choi, Junghwan Oh, O-Joun Lee, Hae Gyun Lim: Dual-mode diagnosis system for water quality and corrosion in pipe using convolutional neural networks (CNN) and ultrasound. [The 2023 Annual Conference of Korea Information Processing Society](https://www.manuscriptlink.com/society/kips/conference/ack2023), Busan, Korea; 11/2023 ([Poster](https://drive.google.com/file/d/1mLOJuRBatRkGGWKFN6u3U6bz-WMg9nWL/view?usp=sharing); in Korean)
+
+<p align="center">
+  <img width="700" src="/images/ACK2023_poster_SM.webp">
 </p>
 
 ***
