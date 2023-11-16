@@ -44,6 +44,14 @@ If you are interested in joining our team, we encourage you to contact us. Pleas
 
 [![E-mail](https://img.shields.io/badge/Director-ojlee@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:ojlee@catholic.ac.kr)
 
+Recommended skills for the applicants are as follows;
+
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=FFFFFF)](https://pytorch.org/) 
+[![PyG](https://img.shields.io/badge/PyG-3C2179?style=flat-square&logo=PyG&logoColor=FFFFFF)](https://pytorch-geometric.readthedocs.io/en/latest/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=FFFFFF)](https://pandas.pydata.org/) 
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=FFFFFF)](https://numpy.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF)](https://www.python.org/)
+
 ***
 ### Addresses
 
