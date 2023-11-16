@@ -51,6 +51,7 @@ Recommended skills for the applicants are as follows;
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=FFFFFF)](https://pandas.pydata.org/) 
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=FFFFFF)](https://numpy.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF)](https://www.python.org/)
+[![neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=FFFFFF)](https://neo4j.com/)
 
 ***
 ### Addresses
