@@ -209,7 +209,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 		<td><ul>
 			<li>Mar 2022 -- Present: Dept. of Mathematices, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: Recommendation Systems</li>
-			<li><a href="https://github.com/kim-hobeom"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
+			<li><a href="https://github.com/Beomll"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 			<li><a href="https://velog.io/@khb6494"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a></li>
 		</ul></td>
 	</tr>
