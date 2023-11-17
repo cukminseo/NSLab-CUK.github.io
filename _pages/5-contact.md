@@ -96,6 +96,7 @@ The Network Science Lab operates under The Department of Artificial Intelligence
 * [![Website](https://img.shields.io/badge/-The%20CUK%20Journal-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](http://www.cukjournal.com/)
 * [![Website](https://img.shields.io/badge/-The%20CUK%20Portal-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://uportal.catholic.ac.kr/)
 * [![Website](https://img.shields.io/badge/-The%20CUK%20Cyber%20Campus-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://e-cyber.catholic.ac.kr/)
+* [![Website](https://img.shields.io/badge/-AIM%20(Student%20Academic%20Society)-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://cuk-aim.github.io/)
 
 ***
 
