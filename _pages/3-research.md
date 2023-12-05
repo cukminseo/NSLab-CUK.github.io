@@ -129,6 +129,9 @@ A non-technical introduction to the field of network science and graph mining ca
 * Eun-Soon You, Hyeon-Ju Jeon, O-Joun Lee: A Dynamic Social Network of Characters Appeared in the French Novel, "Les Liaisons Dangereuses". Figshare 08/2023. (Dataset) <br>
 [![DOI](http://img.shields.io/:DOI-10.6084/m9.figshare.23993748.v1-blue?style=flat-square)](https://doi.org/10.6084/m9.figshare.23993748.v1)
 
+* Eun-Soon You, "Albert Camus Digital Literary Museum". <br>
+[![Demo](https://img.shields.io/badge/-System%20Demo-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://albertcamus.storymate.net/)
+
 ***
 ## Computational Social Sciences
 
