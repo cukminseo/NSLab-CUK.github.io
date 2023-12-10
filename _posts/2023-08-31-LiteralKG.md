@@ -27,6 +27,7 @@ Over the past few years, Knowledge Graph (KG) embedding has been used to benefit
 
 ## The **LiteralKG** is available at:
 * [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/LiteralKG)
+* [![DOI](http://img.shields.io/:DOI-10.1109/ACCESS.2023.3324046-blue?style=flat-square)](https://doi.org/10.1109/ACCESS.2023.3324046)
 * [![arXiv](https://img.shields.io/badge/arXiv-2309.03219-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2309.03219)
 * [![PWC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-LiteralKG-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/companion-animal-disease-diagnostics-based-on)
 
@@ -35,13 +36,16 @@ Over the past few years, Knowledge Graph (KG) embedding has been used to benefit
 
 Please cite our [paper](https://arxiv.org/abs/2309.03219) if you find *LiteralKG* useful in your work:
 ```
-@misc{hoang2023companion,
-      title={Companion Animal Disease Diagnostics based on Literal-aware Medical Knowledge Graph Representation Learning}, 
-      author={Van Thuy Hoang and Sang Thanh Nguyen and Sangmyeong Lee and Jooho Lee and Luong Vuong Nguyen and O-Joun Lee},
-      year={2023},
-      eprint={2309.03219},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI}
+@Article{Hoang2023,
+  author  = {Van Thuy Hoang and Thanh Sang Nguyen and Sangmyeong Lee and Jooho Lee and Luong Vuong Nguyen and O-Joun Lee},
+  title   = {Companion Animal Disease Diagnostics Based on Literal-Aware Medical Knowledge Graph Representation Learning},
+  journal = {IEEE Access},
+  year    = {2023},
+  volume  = {11},
+  pages   = {114238--114249},
+  month   = oct,
+  issn    = {2169-3536},
+  doi     = {10.1109/ACCESS.2023.3324046},
 }
 ```
 
