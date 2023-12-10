@@ -34,7 +34,7 @@ Over the past few years, Knowledge Graph (KG) embedding has been used to benefit
 
 ## Cite "**LiteralKG**" as:
 
-Please cite our [paper](https://arxiv.org/abs/2309.03219) if you find *LiteralKG* useful in your work:
+Please cite our [paper](https://ieeexplore.ieee.org/abstract/document/10283810) if you find *LiteralKG* useful in your work:
 ```
 @Article{Hoang2023,
   author  = {Van Thuy Hoang and Thanh Sang Nguyen and Sangmyeong Lee and Jooho Lee and Luong Vuong Nguyen and O-Joun Lee},
