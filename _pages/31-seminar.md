@@ -25,7 +25,55 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### Fall 2023
 
 ***
-### Nov 13th
+#### Dec 4th
+{:.no_toc}
+<details markdown="1">
+  <summary>V.T.Hoang, Review on "MMKG: Multi-Modal Knowledge Graphs", ESWC 2019</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/EgB2aeQuYNvYof?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
+#### Nov 27th
+{:.no_toc}
+<details markdown="1">
+  <summary>V.T.Hoang, Review on "Uncovering the Structural Fairness in Graph Contrastive Learning", NeurIPS 23</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/6RFJpY4piy0sCx?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+{:.no_toc}
+<details markdown="1">
+  <summary>H.B.Kim, Review on "Graph Neural Networks for Social Recommendation", The world wide web conference 2019</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/wEfLKK2lF5yVH9?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+{:.no_toc}
+<details markdown="1">
+  <summary>Y.J.Wu, Review on "LoRA: Low-Rank Adaptation of Large Language Models"</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/cjRVUDJp3N1D77?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
+#### Nov 20th
+{:.no_toc}
+<details markdown="1">
+  <summary>V.T.Hoang, Review on "Imbalanced node classification with Graph Neural Networks: A unified approach leveraging homophily and label information", Applied Soft Computing</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/6Dhgqpq6xvgwfv?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+{:.no_toc}
+<details markdown="1">
+  <summary>H.B.Kim, Review on "Graph convolutional neural networks for web-scale recommender systems", ACM SIGKDD 2018</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/r9DAWNkAB7kaQ8?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
+#### Nov 13th
 {:.no_toc}
 <details markdown="1">
   <summary>V.T.Hoang, Review on "RETHINKING THE EXPRESSIVE POWER OF GNNS VIA GRAPH BICONNECTIVITY", ICLR 2023</summary>
