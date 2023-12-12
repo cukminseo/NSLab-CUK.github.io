@@ -19,6 +19,14 @@ description: Archive of events, memories and achievements of the Network Science
 <p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" style="width : 120px; margin : 10px"></a></p>
 
 ***
+##### Dec 11th, 2023
+{:.no_toc}
+
+* We started participating in a Scale-up TIPS project on "Development of Underground Burial Analysis Technology and System using Ground Penetrating Radar and Artificial Intelligence," funded by [Ministry of SMEs and Startups (MSS)](https://www.mss.go.kr/site/eng/main.do) (Jan 2024 -- Dec 2026, 1,140 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/), Prof. [Youjin Shin](https://adslab0.github.io/), and their teams.
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.movements.kr/"><img align="center" src="/images/Movements_Logo.png" style="width : 330px; margin : 10px"></a><a href="https://www.mss.go.kr/site/eng/main.do"><img align="center" src="/images/MSS_Logo.jpg" style="width : 120px; margin : 10px"></a></p>
+
+***
 ##### Nov 28th, 2023
 {:.no_toc}
 
