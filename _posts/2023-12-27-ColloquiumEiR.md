@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Van Thuy Hoang presented at CUK AI Colloquium 2023 and received EiR Award
-date:   2023-01-27 19:00:00 +0900
+date:   2023-12-27 19:00:00 +0900
 image:  231227.jpg
 tags:   Presentation
 published: true
