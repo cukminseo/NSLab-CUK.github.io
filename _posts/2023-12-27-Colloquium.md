@@ -5,7 +5,7 @@ date:   2023-12-27 18:00:00 +0900
 image:  CUK.jpg
 tags:   Seminar
 published: true
-description: The Department of Artificial Intelligence at the Catholic University of Korea successfully organized the 2nd CUK Annual Colloquium on Artificial Intelligence. This year, 8 graduate students and 3 undergraduate student teams presented their annual research outcomes.
+description: The Department of Artificial Intelligence at the Catholic University of Korea successfully hosted the 2nd Annual CUK Colloquium on Artificial Intelligence. In this event, 8 graduate and 3 undergraduate student teams presented their research achievements for the year.
 ---
 
 > The 2nd CUK Annual Colloquium on Artificial Intelligence
@@ -80,13 +80,13 @@ techniques.
 
 #### Jae-Woo Park and Seong-Ho Ahn, The Catholic University of Korea, Rep. of Korea
 * Topic: Motor Imagery-based Multi-Modal BCI Framework for Third-Arm Control with EEG and Eye-tracking in a Virtual Reality Environment
-* Abstract: TBA
+* Abstract: We explored the development of a brain-computer interface (BCI) framework integrating EEG and eye-tracking for controlling a virtual third arm, showcasing potential applications in immersive virtual reality settings.
 
 <p align="center"><img src="/images/Colloquium_2023_Ahn.webp" style="width : 90%; max-width: 90%"></p>
 
 #### Sanguk Hwang, The Catholic University of Korea, Rep. of Korea
 * Topic: Fit Highly Oscillatory Data with ODEs based on Neural
-* Abstract: TBA
+* Abstract: I studied the application of neural ordinary differential equations (ODEs) in modeling highly oscillatory data, demonstrating their efficacy in complex data analysis scenarios.
 
 #### Namrah Zaman, The Catholic University of Korea, Rep. of Korea
 * Topic: PETIS - Intent Classification and Slot Filling for Pet Care Services
@@ -104,7 +104,7 @@ resource for advancing pet care technology.
 
 #### Yanjun Wu, The Catholic University of Korea, Rep. of Korea
 * Topic: Researching HAM10000 Classification and Dependency Structures
-* Abstract: TBA
+* Abstract: I investigated the classification and analysis of the HAM10000 dataset, focusing on identifying dependency structures in skin lesion images, contributing to advancements in medical image analysis.
 
 ### Keynote Session 3
 
@@ -117,13 +117,12 @@ resource for advancing pet care technology.
 Exellence in Research (EiR) Awards
 ------------
 
-The CUK Annual Colloquium on Artificial Intelligence is a annual semiar series that present research outcomes of the year in the Department of Artificial Intelligence at the Catholic University of Korea. And, the Department of Artificial Intelligence awards Exellence in Research (EiR) Awards to students who showed good research performance during the year both qualitatively and quantitatively. This year, the following students received EiR awards. 
-
-*	Exellence in Research (EiR) Awards 
-  * Van Thuy Hoang (Ph.D. Course)
-  * Min-Ji Kim (Master Course)
-*	Exellence in Undergraduate Research (EiR) Awards 
-  * Ray Kim and Yerim Huh (Undergraduate Course)
+The CUK Annual Colloquium on Artificial Intelligence acknowledges the exceptional research achievements within the Department of Artificial Intelligence at the Catholic University of Korea. The department awards the Excellence in Research (EiR) Awards to students demonstrating outstanding research performance both qualitatively and quantitatively. This year's recipients are:
+*   Excellence in Research (EiR) Awards
+    *   Van Thuy Hoang (Ph.D. Course)
+    *   Min-Ji Kim (Master's Course)
+*   Excellence in Undergraduate Research (EiR) Awards
+    *   Ray Kim and Yerim Huh (Undergraduate Course)
 
 <p align="center"><img src="/images/231227.jpg" style="width : 90%; max-width: 90%"></p>
 
