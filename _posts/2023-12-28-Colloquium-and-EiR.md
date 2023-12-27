@@ -8,7 +8,7 @@ published: true
 description: Members of the Network Science Lab at the Catholic University of Korea presented at the 2nd CUK Annual Colloquium on Artificial Intelligence (CUK AI Colloquium 2023) and received the Exellence in Research (EiR) Award.
 ---
 
-Our team member, [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90), presented research outcomes for this year at [the 2nd CUK Annual Colloquium on Artificial Intelligence (CUK AI Colloquium 2023)](https://nslab-cuk.github.io/2023/12/27/Colloquium/). We also would like to extend our congratulations to [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) for winning the Exellence in Research (EiR) Award. This recognition showcases his dedication and expertise in his research progress and future plans.
+Our team member, [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90), presented research outcomes for this year at [the 2nd CUK Annual Colloquium on Artificial Intelligence (CUK AI Colloquium 2023)](https://nslab-cuk.github.io/2023/12/27/Colloquium/). Also, we would like to extend our congratulations to [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) for winning the Exellence in Research (EiR) Award. This recognition showcases his dedication and expertise in his research progress and future plans.
 
 #### [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90)
 * Topic: Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity
