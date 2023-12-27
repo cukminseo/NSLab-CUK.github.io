@@ -5,7 +5,7 @@ date:   2023-01-27 18:00:00 +0900
 image:  Colloquium2022_Group.jpg
 tags:   Presentation
 published: true
-description: Members of the Network Science Lab at the Catholic University of Korea presented two papers at the 1st CUK Annual Colloquium on Artificial Intelligence (CUK AI Colloquium 2022). Also, Sang Thanh Nguyen received the Exellence in Research (EiR) Award.
+description: Members of the Network Science Lab at the Catholic University of Korea presented at the 1st CUK Annual Colloquium on Artificial Intelligence (CUK AI Colloquium 2022). Also, Sang Thanh Nguyen received the Exellence in Research (EiR) Award.
 ---
 
 Our team members presented two papers at [the 1st CUK Annual Colloquium on Artificial Intelligence (CUK AI Colloquium 2022)](https://sites.google.com/view/cukai-colloquium-2022/home). 
