@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Van Thuy Hoang and Sang Thanh Nguyen presented papers at CUK AI Colloquium 2022 and received EiR Award
+title:  Van Thuy Hoang and Sang Thanh Nguyen presented at CUK AI Colloquium 2022 and received EiR Award
 date:   2023-01-27 18:00:00 +0900
 image:  Colloquium2022_Group.jpg
 tags:   Presentation
