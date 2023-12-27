@@ -32,6 +32,8 @@ Programme in Detail
 * Topic: Mitigating Hallucination in Multimodal Language Model via Reinforcement Learning
 * Abstract: 이미지와 텍스트를 함께처리할 수 있는 Multimodal Language Model이 가진 Hallucination 문제를 완화하기 위한 강화학습 프레임워크를 소개한다.
 
+<p align="center"><img src="/images/231227_BR.jpg" style="width : 90%; max-width: 90%"></p>
+
 ### Student Session 1
 
 #### Hyun-Sik Won, The Catholic University of Korea, Rep. of Korea
@@ -75,6 +77,8 @@ techniques.
 #### Dr. Kyung-Rae Kim, Samsung Research, Rep. of Korea
 * Topic: Audio-Visual Source Separation and Source Localization
 * Abstract: To achieve natural and effective human-robot interaction (HRI), robots must utilize various senses to communicate with humans. From this point of view, the robot audition sense has become increasingly important in recent years, and many studies on robot audition sense focus on sound source separation and localization. This seminar will discuss localizing and tracking specific sound sources with audio-visual information.
+
+<p align="center"><img src="/images/231227_KR.jpg" style="width : 90%; max-width: 90%"></p>
 
 ### Student Session 2
 
