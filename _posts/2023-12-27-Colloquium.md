@@ -5,7 +5,7 @@ date:   2023-12-27 18:00:00 +0900
 image:  CUK.jpg
 tags:   Seminar
 published: true
-description: The Department of Artificial Intelligence at the Catholic University of Korea successfully organized the 2nd CUK Annual Colloquium on Artificial Intelligence.
+description: The Department of Artificial Intelligence at the Catholic University of Korea successfully organized the 2nd CUK Annual Colloquium on Artificial Intelligence. This year, 8 graduate students and 3 undergraduate student teams presented their annual research outcomes.
 ---
 
 > The 2nd CUK Annual Colloquium on Artificial Intelligence
@@ -118,11 +118,14 @@ Exellence in Research (EiR) Awards
 ------------
 
 The CUK Annual Colloquium on Artificial Intelligence is a annual semiar series that present research outcomes of the year in the Department of Artificial Intelligence at the Catholic University of Korea. And, the Department of Artificial Intelligence awards Exellence in Research (EiR) Awards to students who showed good research performance during the year both qualitatively and quantitatively. This year, the following students received EiR awards. 
+
 *	Exellence in Research (EiR) Awards 
   * Van Thuy Hoang (Ph.D. Course)
   * Min-Ji Kim (Master Course)
 *	Exellence in Undergraduate Research (EiR) Awards 
   * Ray Kim and Yerim Huh (Undergraduate Course)
+
+<p align="center"><img src="/images/231227.jpg" style="width : 90%; max-width: 90%"></p>
 
 ***
 
