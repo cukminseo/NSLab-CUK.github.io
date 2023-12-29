@@ -62,7 +62,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 # Researchers
 ***
 
-###### [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) (Sep 2022 -- Present)
+###### [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) (Sep 2022 -- Present; **Lab Representative**)
 
 <table border="0">  
 	<tr valign="top">
@@ -78,7 +78,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	</tr>
 </table>
 
-###### Min-Woo Choi (Mar 2023 -- Present; **Lab Representative**)
+###### Min-Woo Choi (Mar 2023 -- Present; On leaving)
 
 <table border="0">  
 	<tr valign="top">
@@ -108,7 +108,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	</tr>
 </table>
 
-###### [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen) (Sep 2022 -- Present)
+###### [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen) (Sep 2022 -- Present; On leaving)
 
 <table border="0">  
 	<tr valign="top">
@@ -156,7 +156,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 		</ul></td>
 	</tr>
 </table>
--->
+
 
 ###### [Jooho Lee](https://nslab-cuk.github.io/member/jhlee) (Nov 2021 -- Present)
 
@@ -172,7 +172,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	</tr>
 </table>
 
-<!-- 
+
 ###### [Hyebin Ahn](https://nslab-cuk.github.io/member/hbahn) (Dec 2021 -- Present)
 
 <table border="0">  
@@ -200,7 +200,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 		</ul></td>
 	</tr>
 </table>
--->
+
 
 ###### [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim) (Oct 2022 -- Present)
 
@@ -228,6 +228,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 		</ul></td>
 	</tr>
 </table>
+-->
 
 ###### [Min Seo Kim](https://nslab-cuk.github.io/member/mskim) (Aug 2023 -- Present)
 
