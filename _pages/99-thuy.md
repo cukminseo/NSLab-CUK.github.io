@@ -38,7 +38,7 @@ Journal Publications
 Conference Proceedings
 ============
 
-* **Van Thuy Hoang**, O-Joun Lee: Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity. The 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024.
+* **Van Thuy Hoang** and O-Joun Lee: Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity. The 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024.
 
 * Vu, Ly, **Van Thuy Hoang**, Quang Uy Nguyen, Tran N. Ngoc, Diep N. Nguyen, Dinh Thai Hoang, and Eryk Dutkiewicz. "Time series analysis for encrypted traffic classification: A deep learning approach." In Proceedings of the  18th International Symposium on Communications and Information Technologies (ISCIT), pp. 121-126. IEEE, 2018.
 
