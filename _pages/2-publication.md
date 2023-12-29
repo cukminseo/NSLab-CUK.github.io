@@ -244,7 +244,9 @@ toc_label: "Table of Contents"
 
 ***
 
-* Young Man Kwon, Seok Jeong, O-Joun Lee, [Joo-Ho Lee](https://nslab-cuk.github.io/member/jhlee), [Ji-Yoon Song](https://nslab-cuk.github.io/member/jysong): SYSTEM FOR PROVIDING CONTEXT AWARENESS BASED CROSS-DOMAIN RECOMMENDATION SERVICE FOR RETAIL KIOSK. Ref. No: KR 1020220087796, 07/2022
+* O-Joun Lee, Van Thuy Hoang, Ho Beom Kim, Jinho Seo, Seung Charlie Kim, Nox Kim: System and Method for Predicting Availability based on Knowledge Graph. Ref. No: KR 1020230171167, 11/2022
+
+* Young Man Kwon, Seok Jeong, O-Joun Lee, [Joo-Ho Lee](https://nslab-cuk.github.io/member/jhlee), [Ji-Yoon Song](https://nslab-cuk.github.io/member/jysong): System for Providing Context Awareness based Cross-Domain Recommendation Service for Retail Kiosk. Ref. No: KR 1020220087796, 07/2022
 
 * Jason J. Jung, O-Joun Lee: Method and apparatus for content analysis including story. Ref. No: KR 1020180058510, 05/2018
 
