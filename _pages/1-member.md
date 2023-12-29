@@ -104,7 +104,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 			<li>Mar 2024 -- Present: Ph.D. Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Sep 2020 -- Feb 2023: M.Eng. in AI Convergence, Chonnam National University, Gwangju, Korea</li>
 			<li>Sep 2015 -- Aug 2020: B.Eng. in Information Systems, University of Information Technology, Ho Chi Minh City, Vietnam</li>
-			<li>Research Interest: Graph Learning</li>
+			<li>Research Interest: Graph Representation Learning</li>
 			<li><a href="mailto:thanhdo19730@catholic.ac.kr"><img src="https://img.shields.io/badge/-thanhdo19730@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
 			<li><a href="https://github.com/BachThanh"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 		</ul></td>
@@ -121,7 +121,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 			<li>Mar 2021 -- Feb 2023: M.Eng. in Electrical, Electronics and Computer Engineering, University of Ulsan, Ulsan, Korea</li>
 			<li>Oct 2013 -- Sep 2017: B.S. in Science in Mathematics and Computer Science, University of Science, Vietnam National University, Ho Chi Minh City, Vietnam</li>
 			<li>Research Interest: Graph Representation Learning</li>
-			<li><a href="mailto:xxx@catholic.ac.kr"><img src="https://img.shields.io/badge/-xxx@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
+			<li><a href="mailto:tranquanghuy@catholic.ac.kr"><img src="https://img.shields.io/badge/-tranquanghuy@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
 			<li><a href="https://github.com/HasukiHT"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 		</ul></td>
 	</tr>
