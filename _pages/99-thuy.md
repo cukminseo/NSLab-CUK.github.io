@@ -28,6 +28,8 @@ Education
 Journal Publications
 ============
 
+* **Van Thuy Hoang**, T. S. Nguyen, S. Lee, J. Lee, L. V. Nguyen, and O. -J. Lee, "Companion Animal Disease Diagnostics Based on Literal-Aware Medical Knowledge Graph Representation Learning," in IEEE Access, vol. 11, pp. 114238-114249, 2023, doi: 10.1109/ACCESS.2023.3324046.
+  
 * **Van Thuy Hoang**, Hyeon-Ju Jeon, Eun-Soon You, Yoewon Yoon, Sungyeop Jung, and O-Joun Lee. "Graph Representation Learning and Its Applications: A Survey." Sensors 23, no. 8 (2023): 4168.
 
 ***
@@ -35,10 +37,6 @@ Conference Proceedings
 ============
 
 * **Van Thuy Hoang**, O-Joun Lee: Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity. The 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024.
-
-
-* **Van Thuy Hoang**, T. S. Nguyen, S. Lee, J. Lee, L. V. Nguyen, and O. -J. Lee, "Companion Animal Disease Diagnostics Based on Literal-Aware Medical Knowledge Graph Representation Learning," in IEEE Access, vol. 11, pp. 114238-114249, 2023, doi: 10.1109/ACCESS.2023.3324046.
-
 
 * Vu, Ly, **Van Thuy Hoang**, Quang Uy Nguyen, Tran N. Ngoc, Diep N. Nguyen, Dinh Thai Hoang, and Eryk Dutkiewicz. "Time series analysis for encrypted traffic classification: A deep learning approach." In Proceedings of the  18th International Symposium on Communications and Information Technologies (ISCIT), pp. 121-126. IEEE, 2018.
 
