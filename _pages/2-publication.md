@@ -57,7 +57,9 @@ toc_label: "Table of Contents"
 [![Link](https://img.shields.io/badge/JCR%20Top%2010%25-0C2E86?style=flat-square)](https://www.sciencedirect.com/journal/artificial-intelligence)
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.artint.2020.103235" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-* Nam Bui Khac Hoai, Sungrae Cho, Jason J. Jung, Joongheon Kim, O-Joun Lee, Woongsoo Na: A novel network virtualization based on data analytics in connected environment. Journal of Ambient Intelligence and Humanized Computing 01/2020; 11: 75–86., DOI:10.1007/s12652-018-1083-x <span class="__dimensions_badge_embed__" data-doi="10.1007/s12652-018-1083-x" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+* Nam Bui Khac Hoai, Sungrae Cho, Jason J. Jung, Joongheon Kim, O-Joun Lee, Woongsoo Na: A novel network virtualization based on data analytics in connected environment. Journal of Ambient Intelligence and Humanized Computing 01/2020; 11: 75–86., DOI:10.1007/s12652-018-1083-x
+[![Link](https://img.shields.io/badge/JCR%20Top%2010%25-0C2E86?style=flat-square)](https://link.springer.com/journal/12652)
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s12652-018-1083-x" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * Hyeon-Ju Jeon, O-Joun Lee, Jason. J. Jung: Is Performance of Scholars Correlated to Their Research Collaboration Patterns?. Frontiers in Big Data 11/2019; 2(39)., DOI:10.3389/fdata.2019.00039
 [![Link](https://img.shields.io/badge/CIKMw%20'19-0C2E86?style=flat-square)](https://dl.acm.org/doi/10.1145/3357384.3358806)
