@@ -278,7 +278,13 @@ toc_label: "Table of Contents"
 
 ***
 
-* Jun 2022: [Best Paper Award](https://drive.google.com/file/d/1vMnVNUzf29TECy6coVAU-oL2PftihMt3/view?usp=sharing), The 2022 Conference of Korea Institute of Smart Media (KISM), Daejeon, Korea
+* Dec 2023: Van Thuy Hoang, "Excellence in Research Award", The 2nd CUK Annual Colloquium on Artificial Intelligence (CUK AI Colloquium 2023), Bucheon, Korea
+
+<p align="center"><img width="700" src="/images/EiR2023_Hoang.webp" margin="10px"></p>
+
+* Dec 2022: Sang Thanh Nguyen, "Excellence in Research Award", The 1st CUK Annual Colloquium on Artificial Intelligence (CUK AI Colloquium 2022), Seoul, Korea
+
+* Jun 2022: Jiyoon Song, Se Eun Cho, Jooho Lee, Yeongmin Kim, Hyebin Ahn, O-Joun Lee, "[Best Paper Award](https://drive.google.com/file/d/1vMnVNUzf29TECy6coVAU-oL2PftihMt3/view?usp=sharing)", The 2022 Conference of Korea Institute of Smart Media (KISM), Daejeon, Korea
 
 <p align="center"><img width="700" src="/images/BP1.jpg" margin="10px"></p>
 
