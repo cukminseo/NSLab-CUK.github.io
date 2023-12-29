@@ -19,6 +19,20 @@ description: Archive of events, memories and achievements of the Network Science
 <p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" style="width : 120px; margin : 10px"></a></p>
 
 ***
+##### Dec 27th, 2023
+{:.no_toc}
+
+* We successfully organized [the 2nd CUK Annual Colloquium on Artificial Intelligence (CUK AI Colloquium 2023)](https://nslab-cuk.github.io/2023/12/27/Colloquium/) at Bucheon, Korea, by collaborating with other labs in the Department of Artificial Intelligence, the Catholic University of Korea.
+
+<p align="center"><img width="700" src="/images/231227_BR.jpg"></p>
+
+<p align="center"><img width="700" src="/images/231227_KR.jpg"></p>
+
+<p align="center"><img width="700" src="/images/231227.jpg"></p>
+
+<p align="center"><a href="https://cukai.catholic.ac.kr/cukai/index.html"><img align="center" src="/images/AI_Logo.png" style="width : 100px; margin : 15px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a></p>
+
+***
 ##### Dec 11th, 2023
 {:.no_toc}
 
