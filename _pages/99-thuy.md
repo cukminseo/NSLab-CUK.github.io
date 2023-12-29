@@ -23,6 +23,7 @@ Education
 * Sep 2022 -- Present: Ph.D. Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
 * Jan 2017 -- Dec 2018: M.Eng. in Information System, Le Quy Don Technical University, Hanoi, Vietnam.
 * Sep 2008 -- Dec 2013: B.Eng. in Information Technology, Le Quy Don Technical University, Hanoi, Vietnam
+
 ***
 
 Journal Publications
@@ -33,6 +34,7 @@ Journal Publications
 * **Van Thuy Hoang**, Hyeon-Ju Jeon, Eun-Soon You, Yoewon Yoon, Sungyeop Jung, and O-Joun Lee. "Graph Representation Learning and Its Applications: A Survey." Sensors 23, no. 8 (2023): 4168.
 
 ***
+
 Conference Proceedings
 ============
 
