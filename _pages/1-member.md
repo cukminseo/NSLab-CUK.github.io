@@ -111,6 +111,22 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	</tr>
 </table>
 
+###### [Huy Quang Tran](https://nslab-cuk.github.io/member/huy) (Mar 2024 -- Present)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Huy.jpg"/></td>  
+		<td><ul>
+			<li>Mar 2024 -- Present: Ph.D. Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
+			<li>Mar 2021 -- Feb 2023: M.Eng. in Electrical, Electronics and Computer Engineering, University of Ulsan, Ulsan, Korea</li>
+			<li>Oct 2013 -- Sep 2017: B.S. in Science in Mathematics and Computer Science, University of Science, Vietnam National University, Ho Chi Minh City, Vietnam</li>
+			<li>Research Interest: Graph Representation Learning</li>
+			<li><a href="mailto:xxx@catholic.ac.kr"><img src="https://img.shields.io/badge/-xxx@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
+			<li><a href="https://github.com/HasukiHT"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
+		</ul></td>
+	</tr>
+</table>
+
 #### Master's Course
 
 ###### [Phuc Vinh Bui](https://nslab-cuk.github.io/member/phucbui) (Sep 2022 -- Present; On leaving)
