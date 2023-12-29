@@ -29,7 +29,7 @@ Education
 Journal Publications
 ============
 
-* **Van Thuy Hoang**, T. S. Nguyen, S. Lee, J. Lee, L. V. Nguyen, and O. -J. Lee, "Companion Animal Disease Diagnostics Based on Literal-Aware Medical Knowledge Graph Representation Learning," in IEEE Access, vol. 11, pp. 114238-114249, 2023, doi: 10.1109/ACCESS.2023.3324046.
+* **V.T Hoang**, T. S. Nguyen, S. Lee, J. Lee, L. V. Nguyen, and O. -J. Lee, "Companion Animal Disease Diagnostics Based on Literal-Aware Medical Knowledge Graph Representation Learning," in IEEE Access, vol. 11, pp. 114238-114249, 2023, doi: 10.1109/ACCESS.2023.3324046.
   
 * **Van Thuy Hoang**, Hyeon-Ju Jeon, Eun-Soon You, Yoewon Yoon, Sungyeop Jung, and O-Joun Lee. "Graph Representation Learning and Its Applications: A Survey." Sensors 23, no. 8 (2023): 4168.
 
