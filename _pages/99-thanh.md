@@ -31,6 +31,7 @@ Awards & Grants
 ============
 * Best Paper in Smart Media International Conference 2022 in Saipan, USA, 19-22, October 2022.
 
+***
 Workshop Publications
 ============
 * **Tien-Bach-Thanh Do**, Dang-Linh Trinh, Minh-Trieu Tran, Soo-Hyung Kim, Hyung-Jeong Yang, Guee-Sang Lee. "Deep Learning Based Ensemble Approach for 3D MRI Brain Tumor Segmentation." International MICCAI Brainlesion Workshop, p.210-221, 2022 - Springer, Cham.
