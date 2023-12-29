@@ -46,5 +46,5 @@ Conference Proceedings
 ***
 
 Projects
-Brain Tumor Segmentation and Survival Days Prediction. 
 ============
+Brain Tumor Segmentation and Survival Days Prediction. 
