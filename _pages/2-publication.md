@@ -25,6 +25,7 @@ toc_label: "Table of Contents"
 <div class='altmetric-embed' data-doi='10.1016/j.ultras.2023.107167'></div>
 
 * Van Thuy Hoang, Sang Thanh Nguyen, Sangmyeong Lee, Jooho Lee, Luong Vuong Nguyen, O-Joun Lee: Companion Animal Disease Diagnostics based on Literal-aware Medical Knowledge Graph Representation Learning. IEEE Access 10/2023; 11: 114238-114249. DOI:10.1109/ACCESS.2023.3324046 <span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2023.3324046" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<div class='altmetric-embed' data-doi='10.1109/ACCESS.2023.3324046'></div>
 
 * Van Thuy Hoang, Hyeon-Ju Jeon, Eun-Soon You, Yoewon Yoon, Sungyeop Jung, O-Joun Lee: Graph Representation Learning and its Applications: A Survey. Sensors 04/2023; 23(8): 4168. DOI:10.3390/s23084168 <span class="__dimensions_badge_embed__" data-doi="10.3390/s23084168" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
