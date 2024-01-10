@@ -304,7 +304,6 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
          <li>Mar 2020 -- Present: School of Information, Department of Mathematics, The Catholic University of Korea, Bucheon, Korea</li>      
          <li>Research Interest: voice recognition</li>
          <li><a href="mailto:zeus0208b@catholic.ac.kr"><img src="https://img.shields.io/badge/-zeus0208b@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
-	 <li><a href="https://github.com/orangemush7777"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
       </ul></td>
    </tr>
 </table>
@@ -318,6 +317,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 			<li>Mar 2023 -- Present: School of Information, Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: Vulnerability Analysis</li>
 			<li><a href="mailto:kkinho04@catholic.ac.kr"><img src="https://img.shields.io/badge/-kkinho04@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
+			<li><a href="https://github.com/orangemush7777"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 		</ul></td>
 	</tr>
 </table>
