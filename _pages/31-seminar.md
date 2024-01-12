@@ -35,7 +35,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 {:.no_toc}
 <details markdown="1">
-  <summary>D.T.B.Thanh, Review on "GraRep: Learning Graph Representations with Global Structural Information", ACM 2015</summary>
+  <summary>T.B.T. Do, Review on "GraRep: Learning Graph Representations with Global Structural Information", ACM 2015</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/JiOLnhM3BzeFUv?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -58,7 +58,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 {:.no_toc}
 <details markdown="1">
-  <summary>D.T.B.Thanh, Review on "LINE: Large-scale Information Network Embedding", WWW 2015</summary>
+  <summary>T.B.T. Do, Review on "LINE: Large-scale Information Network Embedding", WWW 2015</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/anN97719CtemKC?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -77,7 +77,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 {:.no_toc}
 <details markdown="1">
-  <summary>D.T.B.Thanh, Review on "node2vec: Scalable Feature Learning for Networks", ACM SIGKDD 2016</summary>
+  <summary>T.B.T. Do, Review on "node2vec: Scalable Feature Learning for Networks", ACM SIGKDD 2016</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/xYiIHUIaBr307C?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -100,7 +100,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 {:.no_toc}
 <details markdown="1">
-  <summary>D.T.B.Thanh, Review on "DeepWalk: Online Learning of Social Representations", ACM SIG-KDD 2014 </summary>
+  <summary>T.B.T. Do, Review on "DeepWalk: Online Learning of Social Representations", ACM SIG-KDD 2014 </summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/y81gPVybUrD7Qz?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
