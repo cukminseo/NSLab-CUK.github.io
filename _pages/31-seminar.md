@@ -22,7 +22,102 @@ This page is an archive for papers reviewed by members of the Network Science La
 {:toc}
 
 ***
-### Fall 2023
+### Winter 2024
+
+***
+#### Jan 8th
+{:.no_toc}
+<details markdown="1">
+  <summary>V.T.Hoang, Review on "COARFORMER: TRANSFORMER FOR LARGE GRAPH VIA GRAPH COARSENING", PMLR 23</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/3VWV5WzShcz9Cv?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+{:.no_toc}
+<details markdown="1">
+  <summary>D.T.B.Thanh, Review on "GraRep: Learning Graph Representations with Global Structural Information", ACM 2015</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/JiOLnhM3BzeFUv?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+{:.no_toc}
+<details markdown="1">
+  <summary>M.S.Kim, Review on "Neural machine translation by jointly learning to align and translate", NIPS 2014</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/vVoycDkbSu3BX6?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
+#### Jan 2nd
+{:.no_toc}
+<details markdown="1">
+  <summary>V.T.Hoang, Review on "Graph Inductive Biases in Transformers without Message Passing", PMLR 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/Bma6DO913SXev1?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+{:.no_toc}
+<details markdown="1">
+  <summary>D.T.B.Thanh, Review on "LINE: Large-scale Information Network Embedding", WWW 2015</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/anN97719CtemKC?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
+### Winter 2023
+
+***
+#### Dec 26th
+{:.no_toc}
+<details markdown="1">
+  <summary>V.T.Hoang, Review on "DEFORMABLE GRAPH TRANSFORMER"</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/DaA07I2oa53s1d?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+{:.no_toc}
+<details markdown="1">
+  <summary>D.T.B.Thanh, Review on "node2vec: Scalable Feature Learning for Networks", ACM SIGKDD 2016</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/xYiIHUIaBr307C?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+{:.no_toc}
+<details markdown="1">
+  <summary>M.S.Kim, Review on "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks", ICML 2019</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/etkpZuvn76aET1?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
+#### Dec 18th
+{:.no_toc}
+<details markdown="1">
+  <summary>V.T.Hoang, Review on "Towards Deep Attention in Graph Neural Networks: Problems and Remedies", PMLR 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/9F4h9eBJcS1rD8?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+{:.no_toc}
+<details markdown="1">
+  <summary>D.T.B.Thanh, Review on "DeepWalk: Online Learning of Social Representations", ACM SIG-KDD 2014 </summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/y81gPVybUrD7Qz?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+{:.no_toc}
+<details markdown="1">
+  <summary>D.T.B.Thanh, Review on "DeepWalk: Online Learning of Social Representations", ACM SIG-KDD 2014</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/y81gPVybUrD7Qz?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+{:.no_toc}
+<details markdown="1">
+  <summary>H.B.Kim, Review on "Knowledge Graph Convolutional Networks for Recommender Systems", The world wide web conference 2019</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/rLKQnlAqSEUy3l?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
 
 ***
 #### Dec 4th
@@ -32,6 +127,9 @@ This page is an archive for papers reviewed by members of the Network Science La
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/EgB2aeQuYNvYof?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
+
+***
+### Fall 2023
 
 ***
 #### Nov 27th
