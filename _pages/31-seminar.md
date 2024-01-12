@@ -107,13 +107,6 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 {:.no_toc}
 <details markdown="1">
-  <summary>D.T.B.Thanh, Review on "DeepWalk: Online Learning of Social Representations", ACM SIG-KDD 2014</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/y81gPVybUrD7Qz?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
-style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
-</details>
-
-{:.no_toc}
-<details markdown="1">
   <summary>H.B.Kim, Review on "Knowledge Graph Convolutional Networks for Recommender Systems", The world wide web conference 2019</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/rLKQnlAqSEUy3l?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
