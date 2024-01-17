@@ -33,6 +33,22 @@ description: Archive of events, memories and achievements of the Network Science
 <p align="center"><a href="https://cukai.catholic.ac.kr/cukai/index.html"><img align="center" src="/images/AI_Logo.png" style="width : 100px; margin : 15px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a></p>
 
 ***
+##### Dec 18th, 2023 -- Dec 29th, 2023
+{:.no_toc}
+
+* NS Lab@CUK organizes [the 1st NS-CUK Winter School on Digital Humanities](https://nslab-cuk.github.io/2023/11/22/WS/). This program consists of 9 lectures presented by Dr. Eun-Soon You (유은순 박사), and is scheduled to take place over a period of two weeks, from December 18th, 2023, to December 29th, 2023.
+
+<p align="center"><img width="700" src="/images/240111_1.jpg"></p>
+
+***
+##### Dec 18th, 2023 -- Dec 29th, 2023
+{:.no_toc}
+
+* NS Lab@CUK organizes [the 2nd NS-CUK Winter School on Ethics of AI and Robots](https://nslab-cuk.github.io/2023/11/21/WS/). This program consists of 9 lectures presented by Dr. Eun-Soon You (유은순 박사), and is scheduled to take place over a period of two weeks, from December 18th, 2023, to December 29th, 2023.
+
+<p align="center"><img width="700" src="/images/240111_2.jpg"></p>
+
+***
 ##### Dec 11th, 2023
 {:.no_toc}
 
