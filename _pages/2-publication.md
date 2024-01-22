@@ -19,6 +19,8 @@ toc_label: "Table of Contents"
 
 ***
 
+* Hyun-Cheol Park, Yun-Sang Joo, O-Joun Lee, Chang Choi, Moon Hyung Choi, Changhan Yoon: Automated classification of liver fibrosis stages using ultrasound imaging. BMC Medical Imaging 01/2024. (To Appear)
+
 * Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee†, Hae Gyun Lim†: Diagnosis of diabetes mellitus using high frequency ultrasound and convolutional neural network. Ultrasonics 01/2024; 136: 107167. (†: Co-correspondence) DOI:10.1016/j.ultras.2023.107167
 [![Link](https://img.shields.io/badge/JCR%20Top%2015%25-0C2E86?style=flat-square)](https://www.sciencedirect.com/journal/ultrasonics)
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.ultras.2023.107167" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
