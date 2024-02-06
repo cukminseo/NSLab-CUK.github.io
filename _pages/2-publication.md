@@ -19,6 +19,8 @@ toc_label: "Table of Contents"
 
 ***
 
+* Nam-Gyu Jung, Van Thuy Hoang, O-Joun Lee†, Chang Choi†: Kiosk Recommend System based on Self-Supervised Representation Learning of User Behaviors in Offline Retail. IEEE Internet of Things Journal 02/2024. (†: Co-correspondence; To Appear) [![Link](https://img.shields.io/badge/JCR%20Top%203%25-0C2E86?style=flat-square)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907)
+
 * Hyun-Cheol Park, Yun-Sang Joo, O-Joun Lee, Chang Choi, Moon Hyung Choi, Changhan Yoon: Automated classification of liver fibrosis stages using ultrasound imaging. BMC Medical Imaging 01/2024. (To Appear)
 
 * Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee†, Hae Gyun Lim†: Diagnosis of diabetes mellitus using high frequency ultrasound and convolutional neural network. Ultrasonics 01/2024; 136: 107167. (†: Co-correspondence) DOI:10.1016/j.ultras.2023.107167
