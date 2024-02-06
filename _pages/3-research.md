@@ -107,7 +107,7 @@ A non-technical introduction to the field of network science and graph mining ca
 
 ### Cross-domain Recommender System for Retail Kiosk
 
-* [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Kiosk-RecSys)
+* Nam-Gyu Jung, Van Thuy Hoang, O-Joun Lee†, Chang Choi†: Kiosk Recommend System based on Self-Supervised Representation Learning of User Behaviors in Offline Retail. IEEE Internet of Things Journal 02/2024. (†: Co-correspondence; To Appear) <br> [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Kiosk-RecSys)
 
 ***
 ## Spatio-Temporal Graph Neural Networks
