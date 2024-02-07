@@ -167,6 +167,8 @@ A non-technical introduction to the field of network science and graph mining ca
   <em>Inflicting high-frequency ultrasonic wave on invasive/non-invasive breast cancer cells.</em>
 </p>
 
+* Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee†, Hae Gyun Lim†: Quantification of dysnatremia using single-beam acoustic microbeam and convolutional neural networks. IEEE Sensors Journal 02/2024. (†: Co-correspondence; To Appear)
+
 * Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee†, Hae Gyun Lim†: Diagnosis of diabetes mellitus using high frequency ultrasound and convolutional neural network. Ultrasonics 01/2024; 136: 107167. (†: Co-correspondence) <br>[![DOI](http://img.shields.io/:DOI-10.1016/j.ultras.2023.107167-blue?style=flat-square)](https://doi.org/10.1016/j.ultras.2023.107167)
 
 * Hyeon-Ju Jeon, Hae Gyun Lim, K. Kirk Shung, O-Joun Lee†, Min Gon Kim†: Automated cell-type classification combining dilated convolutional neural networks with label-free acoustic sensing. Scientific Reports 11/2022; 12: 19873. (†: Co-correspondence) <br>[![DOI](http://img.shields.io/:DOI-10.1038/s41598--022--22075--6-blue?style=flat-square)](https://doi.org/10.1038/s41598-022-22075-6)
