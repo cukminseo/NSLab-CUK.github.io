@@ -29,6 +29,8 @@ toc_label: "Table of Contents"
 [![Link](https://img.shields.io/badge/JCR%20Top%2015%25-0C2E86?style=flat-square)](https://www.sciencedirect.com/journal/ultrasonics)
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.ultras.2023.107167" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
+* Eun-Soon You, Sun-Jung Ryu: New reading literature in the digital age : Construction of Albert Camus’ digital literature house. Humanities Contents 12/2023; (71): 107-135. (In Korean), DOI:10.18658/humancon.2023.12.107
+
 * Van Thuy Hoang, Sang Thanh Nguyen, Sangmyeong Lee, Jooho Lee, Luong Vuong Nguyen, O-Joun Lee: Companion Animal Disease Diagnostics based on Literal-aware Medical Knowledge Graph Representation Learning. IEEE Access 10/2023; 11: 114238-114249. DOI:10.1109/ACCESS.2023.3324046
 <span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2023.3324046" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
