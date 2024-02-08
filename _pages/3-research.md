@@ -135,7 +135,8 @@ A non-technical introduction to the field of network science and graph mining ca
 ***
 ## Digital Literature
 
-* Eun-Soon You, Sun-Jung Ryu: New reading literature in the digital age : Construction of Albert Camus’ digital literature house. Humanities Contents 12/2023; (71): 107-135. DOI:10.18658/humancon.2023.12.107
+* Eun-Soon You, Sun-Jung Ryu: New reading literature in the digital age : Construction of Albert Camus’ digital literature house. Humanities Contents 12/2023; (71): 107-135. <br>
+[![DOI](http://img.shields.io/:DOI-10.18658/humancon.2023.12.107-blue?style=flat-square)](https://doi.org/10.18658/humancon.2023.12.107)
 
 * Eun-Soon You, Hyeon-Ju Jeon, O-Joun Lee: A Social Network of Characters Appeared in the French Novel Series "La Comédie humaine" and An Interaction Network of Novels in the Series. Figshare 08/2023. (Dataset) <br>
 [![DOI](http://img.shields.io/:DOI-10.6084/m9.figshare.23994078.v1-blue?style=flat-square)](https://doi.org/10.6084/m9.figshare.23994078.v1)
