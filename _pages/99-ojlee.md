@@ -58,9 +58,9 @@ Awards & Grants
 
 Journal Publications
 ============
-* Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee†, Hae Gyun Lim†: Quantification of dysnatremia using single-beam acoustic microbeam and convolutional neural networks. IEEE Sensors Journal 02/2024. (†: Co-correspondence; To Appear)
+* Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee†, Hae Gyun Lim†: Quantification of dysnatremia using single-beam acoustic microbeam and convolutional neural networks. IEEE Sensors Journal 02/2024. (†: Co-correspondence; To Appear) DOI:10.1109/JSEN.2024.3364682
 
-* Nam-Gyu Jung, Van Thuy Hoang, O-Joun Lee†, Chang Choi†: Kiosk Recommend System based on Self-Supervised Representation Learning of User Behaviors in Offline Retail. IEEE Internet of Things Journal 02/2024. (†: Co-correspondence; To Appear)
+* Nam-Gyu Jung, Van Thuy Hoang, O-Joun Lee†, Chang Choi†: Kiosk Recommend System based on Self-Supervised Representation Learning of User Behaviors in Offline Retail. IEEE Internet of Things Journal 02/2024. (†: Co-correspondence; To Appear) DOI:10.1109/JIOT.2024.3365144
 
 * Hyun-Cheol Park, Yun-Sang Joo, O-Joun Lee, Chang Choi, Moon Hyung Choi, Changhan Yoon: Automated classification of liver fibrosis stages using ultrasound imaging. BMC Medical Imaging 01/2024. (To Appear)
 
