@@ -231,7 +231,7 @@ A non-technical introduction to the field of network science and graph mining ca
   <img width="700" src="/images/liver.png">
 </p>
 
-* Hyun-Cheol Park, Yun-Sang Joo, O-Joun Lee, Chang Choi, Moon Hyung Choi, Changhan Yoon: Automated classification of liver fibrosis stages using ultrasound imaging. BMC Medical Imaging 01/2024. (To Appear)
+* Hyun-Cheol Park, YunSang Joo, O-Joun Lee, Kunkyu Lee, Tai-Kyong Song, Chang Choi, Moon Hyung Choi, Changhan Yoon: Automated classification of liver fibrosis stages using ultrasound imaging. BMC Medical Imaging 02/2024; 24: 36. <br>[![DOI](http://img.shields.io/:DOI-10.1186/s12880-024-01209-4-blue?style=flat-square)](https://doi.org/10.1186/s12880-024-01209-4)
 
 * Yunsang Joo, Hyun-Cheol Park, O-Joun Lee, Changhan Yoon, Moon Hyung Choi, Chang Choi: Classification of Liver Fibrosis from Heterogeneous Ultrasound Image. IEEE Access 01/2023; 11: 9920-9930. <br>[![DOI](http://img.shields.io/:DOI-10.1109/ACCESS.2023.3240216-blue?style=flat-square)](https://doi.org/10.1109/ACCESS.2023.3240216)
 
