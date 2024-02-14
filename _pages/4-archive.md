@@ -40,6 +40,8 @@ description: Archive of events, memories and achievements of the Network Science
 
 <p align="center"><img width="700" src="/images/240111_1.jpg"></p>
 
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://cukai.catholic.ac.kr/cukai/index.html"><img align="center" src="/images/AI_Logo.png" style="width : 100px; margin : 15px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a></p>
+
 ***
 ##### Dec 18th, 2023 -- Dec 29th, 2023
 {:.no_toc}
@@ -47,6 +49,8 @@ description: Archive of events, memories and achievements of the Network Science
 * NS Lab@CUK organizes [the 2nd NS-CUK Winter School on Ethics of AI and Robots](https://nslab-cuk.github.io/2023/11/21/WS/). This program consists of 9 lectures presented by Dr. Eun-Soon You (유은순 박사), and is scheduled to take place over a period of two weeks, from December 18th, 2023, to December 29th, 2023.
 
 <p align="center"><img width="700" src="/images/240111_2.jpg"></p>
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://cukai.catholic.ac.kr/cukai/index.html"><img align="center" src="/images/AI_Logo.png" style="width : 100px; margin : 15px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a></p>
 
 ***
 ##### Dec 18th, 2023
@@ -60,7 +64,7 @@ description: Archive of events, memories and achievements of the Network Science
 ##### Dec 11th, 2023
 {:.no_toc}
 
-* We started participating in a Scale-up TIPS project on "Development of Underground Burial Analysis Technology and System using Ground Penetrating Radar and Artificial Intelligence," funded by [Ministry of SMEs and Startups (MSS)](https://www.mss.go.kr/site/eng/main.do) (Jan 2024 -- Dec 2026, 1,140 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/), Prof. [Youjin Shin](https://adslab0.github.io/), Prof. [Keunsoo Ko](https://imlab-cuk.github.io/), and their teams.
+* We started participating in a Scale-up TIPS project on "Development of Underground Burial Analysis Technology and System using Ground Penetrating Radar and Artificial Intelligence," led by [Movements Inc.](https://www.movements.kr/) and funded by [Ministry of SMEs and Startups (MSS)](https://www.mss.go.kr/site/eng/main.do) (Jan 2024 -- Dec 2026, 1,140 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/), Prof. [Youjin Shin](https://adslab0.github.io/), Prof. [Keunsoo Ko](https://imlab-cuk.github.io/), and their teams.
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.movements.kr/"><img align="center" src="/images/Movements_Logo.png" style="width : 330px; margin : 10px"></a><a href="https://www.mss.go.kr/site/eng/main.do"><img align="center" src="/images/MSS_Logo.jpg" style="width : 120px; margin : 10px"></a></p>
 
