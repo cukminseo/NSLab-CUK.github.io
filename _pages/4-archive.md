@@ -49,6 +49,14 @@ description: Archive of events, memories and achievements of the Network Science
 <p align="center"><img width="700" src="/images/240111_2.jpg"></p>
 
 ***
+##### Dec 18th, 2023
+{:.no_toc}
+
+* We started participating in an industry-academic cooperation project on “Development of AI-powered Algorithms to Build Smart Cart System,” funded by [Pixel Inc.](http://www.pixel-global.com/) (Jan 2024 -- Dec 2026, 150 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/), Prof. [Youjin Shin](https://adslab0.github.io/), Prof. [Keunsoo Ko](https://imlab-cuk.github.io/), and their teams.
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="http://www.pixel-global.com/"><img align="center" src="/images/Pixel_Logo.png" style="width : 140px; margin : 10px"></a></p>
+
+***
 ##### Dec 11th, 2023
 {:.no_toc}
 
