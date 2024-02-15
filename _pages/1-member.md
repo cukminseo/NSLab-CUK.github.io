@@ -381,7 +381,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 
 * [Hyeon-Ju Jeon](https://higd963.github.io/), [Korea Institute of Atmospheric Prediction System](https://www.kiaps.org/front/main.do), Seoul, Korea <br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub)](https://github.com/higd963)
 * Prof. [Chang Choi](https://sites.google.com/site/phdchangchoi/), Gachon University, Seongnam, Korea
-* Prof. Hoon Ko, Chungbuk National University, Cheongju, Korea
+* Prof. Hoon Ko, Sunmoon University, Asan, Korea
 * Prof. [Hae Gyun Lim](https://sites.google.com/view/lim-lab/home), Pukyong National University, Busan, Korea 
 * Dr. [Sungyeop Jung](https://sites.google.com/view/sungyeopjung), Advanced Institute of Convergence Technology, Suwon, Korea
 * Dr. [Luong Vuong Nguyen](https://luongvuongnguyen.github.io/), Da Nang University of Economics, Da Nang, Vietnam
