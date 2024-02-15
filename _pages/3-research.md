@@ -132,7 +132,12 @@ A non-technical introduction to the field of network science and graph mining ca
 
 ### Atmospheric State Estimation
 
-* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Explainable Graph Neural Networks for Observation Impact Analysis in Atmospheric State Estimation. The Explainable Machine Learning for Sciences Workshop (XAI4Sci) held in conjunction with the 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024.
+* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Explainable Graph Neural Networks for Observation Impact Analysis in Atmospheric State Estimation. The Explainable Machine Learning for Sciences Workshop (XAI4Sci) held in conjunction with the 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024. <br>
+[![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1M3CRNVjsjQJMn5q1laPEk3BSPPjaJhUr/view?usp=sharing)
+
+<p align="center">
+  <img width="700" src="/images/AAAIw2024_Poster_HJ.webp">
+</p>
 
 ***
 # Digital Humanities and Social Sciences
