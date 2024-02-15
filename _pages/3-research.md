@@ -57,6 +57,10 @@ A non-technical introduction to the field of network science and graph mining ca
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Unified-Graph-Transformer)
 [![PWC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-UGT-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/transitivity-preserving-graph-representation)
 
+<p align="center">
+  <img width="700" src="/images/AAAI2024_poster_Thuy.webp">
+</p>
+
 * Van Thuy Hoang, Hyeon-Ju Jeon, Eun-Soon You, Yoewon Yoon, Sungyeop Jung, O-Joun Lee: Graph Representation Learning and its Applications: A Survey. Sensors 04/2023; 23(8): 4168. <br>
 [![DOI](http://img.shields.io/:DOI-10.3390/s23084168-blue?style=flat-square)](https://doi.org/10.3390/s23084168)
 [![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](http://ct.moreover.com/?a=50722602882&p=1gw&v=1&x=cSHc4cljmIjt1lrdFa24BQ)
