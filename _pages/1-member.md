@@ -15,7 +15,7 @@ description: Members, alumni and collaborators of the Network Science Lab at the
 
 <img align="left" src="/images/ojlee4.JPG" style="width : 180px; height : 240px; margin : 10px">
 
-O-Joun Lee has been an assistant professor at the Catholic University of Korea, Rep. of Korea, since September 2021. He received his Ph.D. degree in Computer Science and Engineering from Chung-Ang University in 2019. He also received B.Eng. degree in Software Science from Dankook University in 2015. Also, he was a full-time researcher at Pohang University of Science and Technology, Rep. of Korea, from September 2019 to August 2021. His research topics are networked data analysis based on unsupervised/self-supervised representation learning and graph neural networks. He has applied the networked data analysis models and methods to various unstructured data, such as social media, bibliographic data, medical knowledge base, traffic flow data, etc.
+O-Joun Lee has been an assistant professor at the Catholic University of Korea, Rep. of Korea since September 2021. He received Ph.D. degree in Computer Science and Engineering from Chung-Ang University in 2019. He also received B.Eng. degree in Software Science from Dankook University in 2015. He was a full-time researcher at Pohang University of Science and Technology, Rep. of Korea from September 2019 to August 2021. His research interests include graph mining, graph representation learning, and graph neural networks. He has applied graph mining models and methods to various unstructured data, such as social media, bibliographic data, medical knowledge bases, traffic flow data, molecular structures, etc.
 
 <!--
 * Jan 2023 -- Present: [한국스마트미디어학회](https://kism.jams.or.kr/co/main/jmMain.kci) 상임이사
