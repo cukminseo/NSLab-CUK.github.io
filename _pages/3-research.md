@@ -57,6 +57,8 @@ A non-technical introduction to the field of network science and graph mining ca
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Unified-Graph-Transformer)
 [![PWC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-UGT-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/transitivity-preserving-graph-representation)
 [![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1uLluSX5RJ2_9xYkOm5Q3VCQmOM9gTGCp/view?usp=sharing)
+[![Drive](https://img.shields.io/badge/Drive-Slides-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1coABVZSKQGzzW9wtz3n6e8b4if4VtWA0/view?usp=sharing)
+[![YouTube](https://img.shields.io/badge/YouTube-Presentation-red?style=flat-square&logo=YouTube)](https://youtu.be/pq-lzrBDqBY)
 
 <p align="center">
   <img width="700" src="/images/AAAI2024_poster_Thuy.webp">
