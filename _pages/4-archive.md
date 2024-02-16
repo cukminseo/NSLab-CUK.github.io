@@ -104,7 +104,8 @@ description: Archive of events, memories and achievements of the Network Science
 ##### Sep 22nd, 2023
 {:.no_toc}
 
-* We started participating in a commissioned research project on "A study on the application and use of generative AI to support the process of the prosecution," funded by [Supreme Prosecutors' Office of the Republic of Korea](https://www.spo.go.kr/site/eng/main.do) (Oct 2023 -- Dec 2023, 80 Mil KRW), by cooperating with Prof. [Youjin Shin](https://adslab0.github.io/), Prof. [Kang-Min Kim](https://kangmin89.com/), and their teams.
+* We started participating in a commissioned research project on "A study on the application and use of generative AI to support the process of the prosecution," funded by [Supreme Prosecutors' Office of the Republic of Korea](https://www.spo.go.kr/site/eng/main.do) (Oct 2023 -- Dec 2023, 80 Mil KRW), by cooperating with Prof. [Youjin Shin](https://adslab0.github.io/), Prof. [Kang-Min Kim](https://kangmin89.com/), and their teams. <br>
+[![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.sedaily.com/NewsView/2D5DCAWDPN)
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="http://www.orderqueen.co.kr/"><img align="center" src="/images/Prosecution_Logo.png" style="width : 120px; margin : 10px"></a></p>
 
@@ -270,7 +271,8 @@ description: Archive of events, memories and achievements of the Network Science
 <p align="center"><img width="700" src="/images/ASK2023_poster_DK.webp"></p>
 <br>
 
-* We started participating in a commissioned research project on "Analysis of Redundancies and Conflicts in Construction Standards," funded by [Korea Institute of Civil Engineering and Building Technology (KICT)](https://www.kict.re.kr/eng/) (Jun 2023 -- Nov 2023, 90 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/), Prof. [Youjin Shin](https://adslab0.github.io/), and their teams.
+* We started participating in a commissioned research project on "Analysis of Redundancies and Conflicts in Construction Standards," funded by [Korea Institute of Civil Engineering and Building Technology (KICT)](https://www.kict.re.kr/eng/) (Jun 2023 -- Nov 2023, 90 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/), Prof. [Youjin Shin](https://adslab0.github.io/), and their teams. <br>
+[![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.yna.co.kr/view/AKR20230822132800003?input=1195m)
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="http://www.orderqueen.co.kr/"><img align="center" src="/images/KICT_Logo.png" style="width : 150px; margin : 10px"></a></p>
 
