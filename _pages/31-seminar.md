@@ -1,4 +1,4 @@
-![image](https://github.com/NSLab-CUK/NSLab-CUK.github.io/assets/100113405/44814d88-3bf6-4976-8edf-9087c046009f)![image](https://github.com/NSLab-CUK/NSLab-CUK.github.io/assets/100113405/bb440ba3-7f86-4ae0-89ca-db968bc68bc9)---
+![image](https://github.com/NSLab-CUK/NSLab-CUK.github.io/assets/100113405/9169ed09-028a-42c4-a8f9-5b3771ad82ed)![image](https://github.com/NSLab-CUK/NSLab-CUK.github.io/assets/100113405/44814d88-3bf6-4976-8edf-9087c046009f)![image](https://github.com/NSLab-CUK/NSLab-CUK.github.io/assets/100113405/bb440ba3-7f86-4ae0-89ca-db968bc68bc9)---
 layout: page
 title: NS-CUK Weekly Seminar
 permalink: /seminar/
@@ -28,7 +28,7 @@ This page is an archive for papers reviewed by members of the Network Science La
 #### Jan 20th
 {:.no_toc}
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "GraRep: Learning Graph Representations with Global Structural Information", IEEE Transactions on Knowledge and Data Engineering 2021</summary>
+  <summary>T.B.T. Do, Review on "Sparse Graph Attention Networks", IEEE Transactions on Knowledge and Data Engineering 2021</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/qPdDA0ldBr8TqA?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
