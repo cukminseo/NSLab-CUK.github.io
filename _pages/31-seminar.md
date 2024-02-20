@@ -25,47 +25,39 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### Winter 2024
 
 ***
-#### Jan 20th
+#### Feb 20th
 {:.no_toc}
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "Sparse Graph Attention Networks", IEEE Transactions on Knowledge and Data Engineering 2021</summary>
+  <summary>T.B.T. Do, Review on "Sparse Graph Attention Networks", IEEE Transactions on Knowledge and Data Engineering, 2021</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/qPdDA0ldBr8TqA?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
+***
+#### Jan 22nd
 {:.no_toc}
-<details markdown="1">
-  <summary>M.S.Kim, Review on "RNN, LSTM code run"</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/qZc9Zjxa0BdKKP?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
-style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
-</details>
 
+***
+#### Jan 15th
 {:.no_toc}
-<details markdown="1">
-  <summary>J.H.Seo, Review on "Vector and Matrix operations"</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/GpcRCl2rrccs81?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
-style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
-</details>
 
 ***
 #### Jan 8th
 {:.no_toc}
 <details markdown="1">
-  <summary>V.T.Hoang, Review on "COARFORMER: TRANSFORMER FOR LARGE GRAPH VIA GRAPH COARSENING", PMLR 23</summary>
+  <summary>V.T.Hoang, Review on "Coarformer: Transformer for large graph via graph coarsening", ICLR 2022</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/3VWV5WzShcz9Cv?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
-{:.no_toc}
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "GraRep: Learning Graph Representations with Global Structural Information", ACM 2015</summary>
+  <summary>T.B.T. Do, Review on "GraRep: Learning Graph Representations with Global Structural Information", CIKM 2015</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/JiOLnhM3BzeFUv?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
-{:.no_toc}
 <details markdown="1">
-  <summary>M.S.Kim, Review on "Neural machine translation by jointly learning to align and translate", NIPS 2014</summary>
+  <summary>M.S.Kim, Review on "Neural machine translation by jointly learning to align and translate", NeurIPS 2014</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/vVoycDkbSu3BX6?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -74,7 +66,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 #### Jan 2nd
 {:.no_toc}
 <details markdown="1">
-  <summary>V.T.Hoang, Review on "Graph Inductive Biases in Transformers without Message Passing", PMLR 2023</summary>
+  <summary>V.T.Hoang, Review on "Graph Inductive Biases in Transformers without Message Passing", ICML 2023</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/Bma6DO913SXev1?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -93,7 +85,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 #### Dec 26th
 {:.no_toc}
 <details markdown="1">
-  <summary>V.T.Hoang, Review on "DEFORMABLE GRAPH TRANSFORMER"</summary>
+  <summary>V.T.Hoang, Review on "Deformable Graph Transformer"</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/DaA07I2oa53s1d?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
