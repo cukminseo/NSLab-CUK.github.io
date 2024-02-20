@@ -1,4 +1,4 @@
-![image](https://github.com/NSLab-CUK/NSLab-CUK.github.io/assets/100113405/9169ed09-028a-42c4-a8f9-5b3771ad82ed)![image](https://github.com/NSLab-CUK/NSLab-CUK.github.io/assets/100113405/44814d88-3bf6-4976-8edf-9087c046009f)![image](https://github.com/NSLab-CUK/NSLab-CUK.github.io/assets/100113405/bb440ba3-7f86-4ae0-89ca-db968bc68bc9)---
+---
 layout: page
 title: NS-CUK Weekly Seminar
 permalink: /seminar/
