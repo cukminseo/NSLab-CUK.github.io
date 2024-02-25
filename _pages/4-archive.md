@@ -11,12 +11,25 @@ description: Archive of events, memories and achievements of the Network Science
 {:toc}
 
 ***
-### 2023
+### 2024
 
 ***
-* Computing4Human 2023 will be held again in Hanoi, Vietnam, by collaborating with [International School, Vietnam National University](https://vnuis.edu.vn/en/).
+##### Feb 20th, 2024 -- Feb 27th, 2024
+{:.no_toc}
 
-<p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" style="width : 120px; margin : 10px"></a></p>
+* We have participated in [AAAI 2024](https://aaai.org/aaai-conference/), Vancouver, Canada. Our team's steady stream of research on graph learning has been published as two papers.
+  * Van Thuy Hoang, O-Joun Lee: Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity. The 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024.
+  * Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Explainable Graph Neural Networks for Observation Impact Analysis in Atmospheric State Estimation. The Explainable Machine Learning for Sciences Workshop (XAI4Sci) held in conjunction with the 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024.
+
+<p align="center"><img width="700" src="/images/240222_1.jpg"></p>
+
+<p align="center"><img width="700" src="/images/240222_2.jpg"></p>
+
+<p align="center"><img width="700" src="/images/AAAI2024.jpg"></p>
+
+***
+### 2023
+
 
 ***
 ##### Dec 27th, 2023
