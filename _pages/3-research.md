@@ -136,6 +136,7 @@ A non-technical introduction to the field of network science and graph mining ca
 
 * Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: CloudNine: Analyzing Meteorological Observation Impact on Weather Prediction Using Explainable Graph Neural Networks. arXiv preprint 02/2024; arXiv:2402.14861. (Preprint) <br>
 [![arXiv](https://img.shields.io/badge/arXiv-2402.14861-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2402.14861)
+[![Drive](https://img.shields.io/badge/Drive-Slides-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1gyXXVqs9Fg3m9joqmUTtwW6GX3uQkBOU/view?usp=sharing)
 [![YouTube](https://img.shields.io/badge/YouTube-Demo%20Video-red?style=flat-square&logo=YouTube)](https://youtu.be/vqhk6fCCGR0)
 
 * Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Explainable Graph Neural Networks for Observation Impact Analysis in Atmospheric State Estimation. The Explainable Machine Learning for Sciences Workshop (XAI4Sci) held in conjunction with the 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024. <br>
