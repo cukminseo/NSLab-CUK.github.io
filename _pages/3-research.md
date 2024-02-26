@@ -134,7 +134,7 @@ A non-technical introduction to the field of network science and graph mining ca
 
 ### Atmospheric State Estimation
 
-* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: CloudNine: Analyzing Meteorological Observation Impact on Weather Prediction Using Explainable Graph Neural Networks. arXiv preprint 01/2024; arXiv:2402.14861. (Preprint) <br>
+* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: CloudNine: Analyzing Meteorological Observation Impact on Weather Prediction Using Explainable Graph Neural Networks. arXiv preprint 02/2024; arXiv:2402.14861. (Preprint) <br>
 [![arXiv](https://img.shields.io/badge/arXiv-2402.14861-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2402.14861)
 [![YouTube](https://img.shields.io/badge/YouTube-Demo%20Video-red?style=flat-square&logo=YouTube)](https://youtu.be/vqhk6fCCGR0)
 
