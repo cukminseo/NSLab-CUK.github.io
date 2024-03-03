@@ -328,3 +328,55 @@ toc_label: "Table of Contents"
   <img width="700" data-action="zoom" src="/images/Talk-VNUIS.jpg" alt="absolute">
 </p>
 
+
+
+***
+
+# Posters
+
+***
+
+<p align="center">
+  <img width="700" src="/images/AAAI2024_poster_Thuy.webp">
+</p>
+
+<p align="center">
+  <img width="700" src="/images/AAAIw2024_Poster_HJ.webp">
+</p>
+
+<p align="center">
+  <img width="700" src="/images/IUS2023_Poster_JL.webp">
+</p>
+
+<p align="center">
+  <img width="700" src="/images/IUS2023_poster_JN.webp">
+</p>
+
+<p align="center">
+  <img width="700" src="/images/ASK2023_poster_JL.webp">
+</p>
+
+<p align="center">
+  <img width="700" src="/images/ASK2023_poster_JN.webp">
+</p>
+
+<p align="center">
+  <img width="700" src="/images/Samsung2023_poster_JL.webp">
+</p>
+
+<p align="center">
+  <img width="700" src="/images/ACK2023_poster_DK.webp">
+</p>
+
+<p align="center">
+  <img width="700" src="/images/ASK2023_poster_DK.webp">
+</p>
+
+<p align="center">
+  <img width="700" src="/images/AWAD2023_Poster.webp">
+</p>
+
+<p align="center">
+  <img width="700" src="/images/ACK2023_poster_SM.webp">
+</p>
+
