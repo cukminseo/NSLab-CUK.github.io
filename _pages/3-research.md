@@ -13,25 +13,6 @@ toc_label: "Table of Contents"
 
 ***
 
-If you are interested in our research topics and objectives, you may find it beneficial to explore the content of our regular seminars through the links provided below.<br>
-[![Link](https://img.shields.io/badge/NS@CUK-Weekly%20Seminar-0C2E86?style=flat-square)](https://nslab-cuk.github.io/seminar/)
-[![Link](https://img.shields.io/badge/AI@CUK-Joint%20Journal%20Club-0C2E86?style=flat-square)](https://nslab-cuk.github.io/joint-journal-club/)
-
-Open datasets and open source implementations created by members and collaborators of the Network Science Lab are available via the following links.<br>
-[![Link](https://img.shields.io/badge/NS@CUK-Open%20Datasets-0C2E86?style=flat-square)](https://nslab-cuk.github.io/open-datasets/)
-[![Link](https://img.shields.io/badge/NS@CUK-Open%20Source%20Projects-0C2E86?style=flat-square)](https://nslab-cuk.github.io/open-source-projects/)
-
-A non-technical introduction to the field of network science and graph mining can be found in the following readings. (비전공자를 위한 네트워크 과학과 그래프 마이닝 분야 소개는 다음 읽을거리들을 참조하세요.)<br>
-[![repo](https://custom-icon-badges.demolab.com/badge/%231%20in%20Kor-0C2E86.svg?style=flat-square&logo=repo&logoColor=FFFFFF)](https://www.soopsci.com/Story/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=15617972&t=board)
-[![repo](https://custom-icon-badges.demolab.com/badge/%232%20in%20Kor-0C2E86.svg?style=flat-square&logo=repo&logoColor=FFFFFF)](https://www.soopsci.com/Story/?idx=15893043&bmode=view)
-[![repo](https://custom-icon-badges.demolab.com/badge/%233%20in%20Eng-0C2E86.svg?style=flat-square&logo=repo&logoColor=FFFFFF)](https://cphss.wustl.edu/methodsandstrategies/social-network-analysis/network-analysis-101/)
-[![repo](https://custom-icon-badges.demolab.com/badge/%234%20in%20Kor-0C2E86.svg?style=flat-square&logo=repo&logoColor=FFFFFF)](https://www.sciencetimes.co.kr/news/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B3%BC%ED%95%99-6%EB%8B%A8%EA%B3%84%EB%A7%8C-%EA%B1%B0%EC%B9%98%EB%A9%B4-%EB%AA%A8%EB%91%90-%EC%95%88%EB%8B%A4/)
-[![repo](https://custom-icon-badges.demolab.com/badge/%235%20in%20Eng-0C2E86.svg?style=flat-square&logo=repo&logoColor=FFFFFF)](https://visiblenetworklabs.com/network-science-101/)
-[![repo](https://custom-icon-badges.demolab.com/badge/%236%20in%20Kor-0C2E86.svg?style=flat-square&logo=repo&logoColor=FFFFFF)](https://drive.google.com/file/d/1I-Yyhsjm5V8Dq5J53OX3ii9pMHaZ4s0t/view?usp=drivesdk)
-[![repo](https://custom-icon-badges.demolab.com/badge/%236%20in%20Eng-0C2E86.svg?style=flat-square&logo=repo&logoColor=FFFFFF)](https://sites.google.com/a/binghamton.edu/netscied/teaching-learning/network-concepts)
-
-***
-
 <h5>Table of Contents</h5>
 * TOC
 {:toc}
@@ -59,11 +40,7 @@ A non-technical introduction to the field of network science and graph mining ca
 [![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1uLluSX5RJ2_9xYkOm5Q3VCQmOM9gTGCp/view?usp=sharing)
 [![Drive](https://img.shields.io/badge/Drive-Slides-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1coABVZSKQGzzW9wtz3n6e8b4if4VtWA0/view?usp=sharing)
 [![YouTube](https://img.shields.io/badge/YouTube-Presentation-red?style=flat-square&logo=YouTube)](https://youtu.be/pq-lzrBDqBY)
-[![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.newsis.com/view/?id=NISX20240227_0002640784&cID=14001&pID=14000#)
-
-<p align="center">
-  <img width="700" src="/images/AAAI2024_poster_Thuy.webp">
-</p>
+[![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.newsis.com/view/?id=NISX20240227_0002640784&cID=14001&pID=14000#) 
 
 * Van Thuy Hoang, Hyeon-Ju Jeon, Eun-Soon You, Yoewon Yoon, Sungyeop Jung, O-Joun Lee: Graph Representation Learning and its Applications: A Survey. Sensors 04/2023; 23(8): 4168. <br>
 [![DOI](http://img.shields.io/:DOI-10.3390/s23084168-blue?style=flat-square)](https://doi.org/10.3390/s23084168)
@@ -144,10 +121,6 @@ A non-technical introduction to the field of network science and graph mining ca
 [![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1M3CRNVjsjQJMn5q1laPEk3BSPPjaJhUr/view?usp=sharing)
 [![Drive](https://img.shields.io/badge/Drive-Slides-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/13-Z4fC7e1nGaVGg9fYbsX2z1lte0zLnE/view?usp=sharing)
 
-<p align="center">
-  <img width="700" src="/images/AAAIw2024_Poster_HJ.webp">
-</p>
-
 ***
 # Digital Humanities and Social Sciences
 
@@ -174,11 +147,14 @@ A non-technical introduction to the field of network science and graph mining ca
 
 ***
 # Medical Image and Signal Processing
+{:.no_toc}
 
 ***
 ## Cell Analysis with High-Frequency Ultrasond and Deep Learning
+{:.no_toc}
 
 ### (Semi-) Automated Disease Diagnostics
+{:.no_toc}
 
 * Developing (semi-) automated diagnosis systems for various diseases 
   * Inflicting high-frequency ultrasonic wave on live cells and analyzing microscopic images/back-scattered signals using deep learning-empowered models
@@ -202,56 +178,30 @@ A non-technical introduction to the field of network science and graph mining ca
 * Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: Blood Glucose Classification Using high-Frequency Ultrasound and Artificial Intelligence. The 2023 IEEE International Ultrasonics Symposium (IEEE IUS 2023), Montreal, Canada; 09/2023 <br>
 [![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1GUoRZhbhRHc8hNTWGhlYDD_Re6mNVPwt/view?usp=sharing)
 
-<p align="center">
-  <img width="700" src="/images/IUS2023_Poster_JL.webp">
-</p>
-
 * Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee, Hae Gyun Lim: Classification of Red Blood Cells for the Diagnosis of dysnatremia Based on Ultrasound and Convolutional Neural Networks. The 2023 IEEE International Ultrasonics Symposium (IEEE IUS 2023), Montreal, Canada; 09/2023 <br>
 [![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1SlepM15zrz8L5jP0Z96vSluohlZS8Fgr/view?usp=sharing)
-
-<p align="center">
-  <img width="700" src="/images/IUS2023_poster_JN.webp">
-</p>
 
 * Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: A Potential Tool of Non-Invasive Diabetes Diagnosis using High-Frequency Ultrasound and Convolutional Neural Networks. [The 2023 Spring Conference of The Acoustical Society of Korea](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265), Jeju, Korea; 06/2023 (in Korean) <br>
 [![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1wcnm1kmlVxVGWQKs0Lpw1jLnvbo3RR1I/view?usp=sharing)
 
-<p align="center">
-  <img width="700" src="/images/ASK2023_poster_JL.webp">
-</p>
-
 * Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee, Hae Gyun Lim: Automated Dysnatremia Measurement using Ultrasound Signals and Convolutional Neural Networks. [The 2023 Spring Conference of The Acoustical Society of Korea](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265), Jeju, Korea; 06/2023 (in Korean) <br>
 [![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1pb3myPMBzHBZCg1shM38BCV7fSXJL496/view?usp=sharing)
-
-<p align="center">
-  <img width="700" src="/images/ASK2023_poster_JN.webp">
-</p>
 
 * Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: High-frequency ultrasound and convolutional neural network: A Potential tool for diagnosis of diabetes mellitus. [Samsung Global Technology Symposium](https://www.samsung-gts.technology/), Seoul, Korea; 04/2023 (in Korean) <br>
 [![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/10VUYGe9Y3unTdUDHQ5FP0LmF15_GLR1i/view?usp=sharing)
 
-<p align="center">
-  <img width="700" src="/images/Samsung2023_poster_JL.webp">
-</p>
-
 ### Marine Environment Monitoring System
+{:.no_toc}
 
 * Daehun Kim, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: Development of an Automatic Monitoring System for Ultrasound Signals Using Artificial Intelligence and Convolutional Neural Networks. [The 2023 Annual Conference of Korea Information Processing Society](https://www.manuscriptlink.com/society/kips/conference/ack2023), Busan, Korea; 11/2023 (in Korean) <br>
 [![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1UmF5wgWtroScELO2_vaKRavFpiiDnnWx/view?usp=sharing)
 
-<p align="center">
-  <img width="700" src="/images/ACK2023_poster_DK.webp">
-</p>
-
 * Daehun Kim, Hyeon-Ju Jeon, Hye Yun Jeong, O-Joun Lee, Hae Gyun Lim: Automatic Monitoring System for Red Tide Detection using Ultrasonic Signals and Convolutional Neural Networks. [The 2023 Spring Conference of The Acoustical Society of Korea](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265), Jeju, Korea; 06/2023 (in Korean) <br>
 [![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1TdYEOkzftD38bxeVG-hBnlu0px87z083/view?usp=sharing)
 
-<p align="center">
-  <img width="700" src="/images/ASK2023_poster_DK.webp">
-</p>
-
 ***
 ## Diagnosis and Staging of Liver Fibrosis
+{:.no_toc}
 
 <p align="center">
   <img width="700" src="/images/liver.png">
@@ -263,40 +213,43 @@ A non-technical introduction to the field of network science and graph mining ca
 
 ***
 # Miscellaneous
+{:.no_toc}
 
 ***
 ## Semiconductor Design and Simulation
+{:.no_toc}
 
 * Minsun Cho, O-Joun Lee, Sungyeop Jung: An Artificial Neural Network-based Compact Model for Organic Field-Effect Transistors with the Gaussian Disorder Model. [The 2023 Asia-Pacific Workshop on Advanced Semiconductor Devices (AWAD 2023)](https://www.ieice.org/es/sdm/jpn/awad2023/index.html), Yokohama, Japan; 07/2023 <br>
 [![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1fv7gLmXkhWWx31pbOmwLEgO80h_gE0hT/view?usp=sharing)
 
-<p align="center">
-  <img width="700" src="/images/AWAD2023_Poster.webp">
-</p>
-
 ***
 ## Water Distribution Pipe Corrosion Assessment
+{:.no_toc}
 
 * So Yeon Moon, Hyeon-Ju Jeon, Yeongho Sung, Min-Seo Kim, Daehun Kim, Jaeyeop Choi, Junghwan Oh, O-Joun Lee, Hae Gyun Lim: Dual-mode diagnosis system for water quality and corrosion in pipe using convolutional neural networks (CNN) and ultrasound. [The 2023 Annual Conference of Korea Information Processing Society](https://www.manuscriptlink.com/society/kips/conference/ack2023), Busan, Korea; 11/2023 (in Korean) <br>
 [![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1mLOJuRBatRkGGWKFN6u3U6bz-WMg9nWL/view?usp=sharing)
 
-<p align="center">
-  <img width="700" src="/images/ACK2023_poster_SM.webp">
-</p>
-
-***
-## Lightweight Age and Gender Classifier and Face Tracker
-
-<iframe width="1065" height="826" src="https://www.youtube.com/embed/n0gDwgyqzZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br>
-
-* [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Lightweight-Age-Gender-Classifier) [![YouTube](https://img.shields.io/badge/YouTube-Demo%20Video-red?style=flat-square&logo=YouTube)](https://youtu.be/n0gDwgyqzZY)
-* A hybrid age and gender classification framework wrapping **state-of-the-art** models: [`VGG-Face`](https://sefiks.com/2018/08/06/deep-face-recognition-with-keras/), [`Google FaceNet`](https://sefiks.com/2018/09/03/face-recognition-with-facenet-in-keras/), [`OpenFace`](https://sefiks.com/2019/07/21/face-recognition-with-openface-in-keras/), [`Facebook DeepFace`](https://sefiks.com/2020/02/17/face-recognition-with-facebook-deepface-in-keras/), [`DeepID`](https://sefiks.com/2020/06/16/face-recognition-with-deepid-in-keras/), [`ArcFace`](https://sefiks.com/2020/12/14/deep-face-recognition-with-arcface-in-keras-and-python/), etc. 
-
 ***
 # Regular Seminars
 
-* [![Link](https://img.shields.io/badge/NS@CUK-Weekly%20Seminar-0C2E86?style=flat-square)](https://nslab-cuk.github.io/seminar/)
-* [![Link](https://img.shields.io/badge/AI@CUK-Joint%20Journal%20Club-0C2E86?style=flat-square)](https://nslab-cuk.github.io/joint-journal-club/)
+* If you are interested in our research topics and objectives, you may find it beneficial to explore the content of our regular seminars through the links provided below.<br>
+[![Link](https://img.shields.io/badge/NS@CUK-Weekly%20Seminar-0C2E86?style=flat-square)](https://nslab-cuk.github.io/seminar/)
+[![Link](https://img.shields.io/badge/AI@CUK-Joint%20Journal%20Club-0C2E86?style=flat-square)](https://nslab-cuk.github.io/joint-journal-club/)
+
+* A non-technical introduction to the field of network science and graph mining can be found in the following readings. (비전공자를 위한 네트워크 과학과 그래프 마이닝 분야 소개는 다음 읽을거리들을 참조하세요.)<br>
+[![repo](https://custom-icon-badges.demolab.com/badge/%231%20in%20Kor-0C2E86.svg?style=flat-square&logo=repo&logoColor=FFFFFF)](https://www.soopsci.com/Story/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=15617972&t=board)
+[![repo](https://custom-icon-badges.demolab.com/badge/%232%20in%20Kor-0C2E86.svg?style=flat-square&logo=repo&logoColor=FFFFFF)](https://www.soopsci.com/Story/?idx=15893043&bmode=view)
+[![repo](https://custom-icon-badges.demolab.com/badge/%233%20in%20Eng-0C2E86.svg?style=flat-square&logo=repo&logoColor=FFFFFF)](https://cphss.wustl.edu/methodsandstrategies/social-network-analysis/network-analysis-101/)
+[![repo](https://custom-icon-badges.demolab.com/badge/%234%20in%20Kor-0C2E86.svg?style=flat-square&logo=repo&logoColor=FFFFFF)](https://www.sciencetimes.co.kr/news/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B3%BC%ED%95%99-6%EB%8B%A8%EA%B3%84%EB%A7%8C-%EA%B1%B0%EC%B9%98%EB%A9%B4-%EB%AA%A8%EB%91%90-%EC%95%88%EB%8B%A4/)
+[![repo](https://custom-icon-badges.demolab.com/badge/%235%20in%20Eng-0C2E86.svg?style=flat-square&logo=repo&logoColor=FFFFFF)](https://visiblenetworklabs.com/network-science-101/)
+[![repo](https://custom-icon-badges.demolab.com/badge/%236%20in%20Kor-0C2E86.svg?style=flat-square&logo=repo&logoColor=FFFFFF)](https://drive.google.com/file/d/1I-Yyhsjm5V8Dq5J53OX3ii9pMHaZ4s0t/view?usp=drivesdk)
+[![repo](https://custom-icon-badges.demolab.com/badge/%236%20in%20Eng-0C2E86.svg?style=flat-square&logo=repo&logoColor=FFFFFF)](https://sites.google.com/a/binghamton.edu/netscied/teaching-learning/network-concepts)
+
+***
+# Open Source Projects
+
+* Open datasets and open source implementations created by members and collaborators of the Network Science Lab are available via the following links.<br>
+[![Link](https://img.shields.io/badge/NS@CUK-Open%20Datasets-0C2E86?style=flat-square)](https://nslab-cuk.github.io/open-datasets/)
+[![Link](https://img.shields.io/badge/NS@CUK-Open%20Source%20Projects-0C2E86?style=flat-square)](https://nslab-cuk.github.io/open-source-projects/)
+
 
