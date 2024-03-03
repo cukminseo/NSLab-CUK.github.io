@@ -339,44 +339,66 @@ toc_label: "Table of Contents"
 <p align="center">
   <img width="700" src="/images/AAAI2024_poster_Thuy.webp">
 </p>
-
+ 
+<br>
+ 
 <p align="center">
   <img width="700" src="/images/AAAIw2024_Poster_HJ.webp">
 </p>
-
+ 
+<br>
+ 
 <p align="center">
   <img width="700" src="/images/IUS2023_Poster_JL.webp">
 </p>
-
+ 
+<br>
+ 
 <p align="center">
   <img width="700" src="/images/IUS2023_poster_JN.webp">
 </p>
-
+ 
+<br>
+ 
 <p align="center">
   <img width="700" src="/images/ASK2023_poster_JL.webp">
 </p>
-
+ 
+<br>
+ 
 <p align="center">
   <img width="700" src="/images/ASK2023_poster_JN.webp">
 </p>
-
+ 
+<br>
+ 
 <p align="center">
   <img width="700" src="/images/Samsung2023_poster_JL.webp">
 </p>
-
+ 
+<br>
+ 
 <p align="center">
   <img width="700" src="/images/ACK2023_poster_DK.webp">
 </p>
-
+ 
+<br>
+ 
 <p align="center">
   <img width="700" src="/images/ASK2023_poster_DK.webp">
 </p>
-
+ 
+<br>
+ 
 <p align="center">
   <img width="700" src="/images/AWAD2023_Poster.webp">
 </p>
-
+ 
+<br>
+ 
 <p align="center">
   <img width="700" src="/images/ACK2023_poster_SM.webp">
 </p>
-
+ 
+<br>
+ 
