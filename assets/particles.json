@@ -8,10 +8,10 @@
       }
     },
     "color": {
-      "value": ["#dc052d"]
+      "value": ["#988b8b"]
     },
     "shape": {
-      "type": "polygon",
+      "type": "circle",
       "stroke": {
         "width": 0,
         "color": "#000000"
@@ -41,8 +41,12 @@
       }
     },
     "line_linked": {
-      "enable": false
-    },
+        "enable": true,
+        "distance": 100,
+        "color": '#988b8b',
+        "opacity": 1,
+        "width": 1
+      },
     "move": {
       "enable": true,
       "speed": 1,
