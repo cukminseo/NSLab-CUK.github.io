@@ -12,12 +12,14 @@
   
   <div id="particles-js">
   {% include header.html %}
-  </div>
+  
 
   <!-- begin content -->
   <main class="content" aria-label="Content">
     {{ content }}
   </main>
+  </div>
+  
   <!-- end content -->
 
   <div class="top ion ion-ios-arrow-up" title="Top"></div>
@@ -27,8 +29,7 @@
   {% include footer.html %}
 
   {% include javascripts.html %}
-</body>
 
-<script type="text/javascript" src="{{ base.url | prepend: site.url }}/assets/particles.js"></script>
+</body>
   
 </html>
