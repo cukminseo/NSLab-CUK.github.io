@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tien-Bach-Thanh Do"
-permalink: /member/thanhdo19730
+permalink: /member/osfa19730
 image: 
 description: Curriculum vitae of Tien-Bach-Thanh Do
 ---
