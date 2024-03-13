@@ -23,7 +23,7 @@ Education
 ============
 * Mar 2024 -- Present: Ph.D. Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
 * Sep 2020 -- Feb 2023: M.Eng. in AI Convergence, Chonnam National University, Gwangju, Korea.
-* Sep 2015 -- Aug 2020: B.Eng. in Information Systems, University of Information Technology, Ho Chi Minh City, Vietnam
+* Sep 2015 -- Jun 2020: B.Eng. in Information Systems, University of Information Technology, Ho Chi Minh City, Vietnam
 
 ***
 
