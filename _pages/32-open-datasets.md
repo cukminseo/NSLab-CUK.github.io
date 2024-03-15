@@ -46,7 +46,17 @@ The following datasets are part of the **"[Open Datasets for Digital Humanities 
 ***
 ## Computational Social Sciences
 
-* TBA
+### Korean News Corpus for Changes in Child Abuse before and after COVID-19 Outbreak
+
+* **Description:** During the COVID-19 pandemic, the issue of child abuse surged to the forefront of societal concerns in Korea. The public became increasingly attentive to child welfare issues, and every major Korean newspaper covered instances of child abuse, delving into the details of each case and the backgrounds of both victims and perpetrators. To trace the origin of this heightened awareness, we analyzed Korean news articles from the period before and after the pandemic's onset. We sourced articles from July 2017 to June 2022 (spanning two and a half years before and after the outbreak) using six search terms: "child abuse," "child neglect," "corporal punishment," "emotional abuse," "physical abuse," and "sexual abuse" on Naver News, a leading Korean news portal. Our methodology involved Part-Of-Speech (POS) tagging and stop-word removal to assess keyword frequency. Our objective was to determine if the COVID-19 pandemic was a direct catalyst for the uptick in child abuse reports or if the issue had been previously underreported. Additionally, we built dynamic semantic networks from the articles to chart monthly shifts in the narratives around child abuse in Korea and the society's evolving response to it. The gathered news data was archived in Pickle files, categorized by various dictionary keys such as publication date and time, publisher, title, URL, and article content.
+* **Cite as:** Jooho Lee, Yoewon Yoon, O-Joun Lee: Korean News Corpus for Changes in Child Abuse before and after COVID-19 Outbreak. Figshare 08/2023. (Dataset) <br>
+[![DOI](http://img.shields.io/:DOI-10.6084/m9.figshare.24025491.v1-blue?style=flat-square)](https://doi.org/10.6084/m9.figshare.24025491.v1)
+
+<p align="center">
+  <iframe src="https://widgets.figshare.com/articles/24025491/embed?show_title=1" width="568" height="351" frameborder="0" marginwidth="0" marginheight="0" style="max-width: 100%;" allowfullscreen></iframe>
+</p>
+
+
 
 
 

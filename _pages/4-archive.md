@@ -11,20 +11,160 @@ description: Archive of events, memories and achievements of the Network Science
 {:toc}
 
 ***
-### 2023
+### 2024
 
 ***
-* Computing4Human 2023 will be held again in Hanoi, Vietnam, by collaborating with [International School, Vietnam National University](https://vnuis.edu.vn/en/).
+##### Mar 4th, 2024
+{:.no_toc}
 
-<p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" style="width : 120px; margin : 10px"></a></p>
+<p align="center"><img width="700" src="/images/240304.jpg"></p>
+
+***
+##### Feb 20th, 2024 -- Feb 27th, 2024
+{:.no_toc}
+
+* We have participated in [AAAI 2024](https://aaai.org/aaai-conference/), Vancouver, Canada. Our team's steady stream of research on graph learning has been published as two papers.
+  * Van Thuy Hoang, O-Joun Lee: Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity. The 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024.
+  * Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Explainable Graph Neural Networks for Observation Impact Analysis in Atmospheric State Estimation. The Explainable Machine Learning for Sciences Workshop (XAI4Sci) held in conjunction with the 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024.
+
+<p align="center"><img width="700" src="/images/AAAI2024_poster_Thuy.webp"></p>
+
+<p align="center"><img width="700" src="/images/AAAIw2024_Poster_HJ.webp"></p>
+
+<p align="center"><img width="700" src="/images/AAAI2024.jpg"></p>
+
+***
+### 2023
+
+
+***
+##### Dec 27th, 2023
+{:.no_toc}
+
+* We successfully organized [the 2nd CUK Annual Colloquium on Artificial Intelligence (CUK AI Colloquium 2023)](https://nslab-cuk.github.io/2023/12/27/Colloquium/) at Bucheon, Korea, by collaborating with other labs in the Department of Artificial Intelligence, the Catholic University of Korea.
+
+<p align="center"><img width="700" src="/images/231227_BR.jpg"></p>
+
+<p align="center"><img width="700" src="/images/231227_KR.jpg"></p>
+
+<p align="center"><img width="700" src="/images/231227.jpg"></p>
+
+<p align="center"><a href="https://cukai.catholic.ac.kr/cukai/index.html"><img align="center" src="/images/AI_Logo.png" style="width : 100px; margin : 15px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a></p>
+
+***
+##### Dec 18th, 2023 -- Dec 29th, 2023
+{:.no_toc}
+
+* NS Lab@CUK organizes [the 1st NS-CUK Winter School on Digital Humanities](https://nslab-cuk.github.io/2023/11/22/WS/). This program consists of 9 lectures presented by Dr. Eun-Soon You (유은순 박사), and is scheduled to take place over a period of two weeks, from December 18th, 2023, to December 29th, 2023.
+
+<p align="center"><img width="700" src="/images/240111_1.jpg"></p>
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://cukai.catholic.ac.kr/cukai/index.html"><img align="center" src="/images/AI_Logo.png" style="width : 100px; margin : 15px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a></p>
+
+***
+##### Dec 18th, 2023 -- Dec 29th, 2023
+{:.no_toc}
+
+* NS Lab@CUK organizes [the 2nd NS-CUK Winter School on Ethics of AI and Robots](https://nslab-cuk.github.io/2023/11/21/WS/). This program consists of 9 lectures presented by Dr. Eun-Soon You (유은순 박사), and is scheduled to take place over a period of two weeks, from December 18th, 2023, to December 29th, 2023.
+
+<p align="center"><img width="700" src="/images/240111_2.jpg"></p>
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://cukai.catholic.ac.kr/cukai/index.html"><img align="center" src="/images/AI_Logo.png" style="width : 100px; margin : 15px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a></p>
+
+***
+##### Dec 18th, 2023
+{:.no_toc}
+
+* We started participating in an industry-academic cooperation project on “Development of AI-powered Algorithms to Build Smart Cart System,” funded by [Pixel Inc.](http://www.pixel-global.com/) (Jan 2024 -- Dec 2026, 150 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/), Prof. [Youjin Shin](https://adslab0.github.io/), Prof. [Keunsoo Ko](https://imlab-cuk.github.io/), and their teams.
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="http://www.pixel-global.com/"><img align="center" src="/images/Pixel_Logo.png" style="width : 140px; margin : 10px"></a></p>
+
+***
+##### Dec 11th, 2023
+{:.no_toc}
+
+* We started participating in a Scale-up TIPS project on "Development of Underground Burial Analysis Technology and System using Ground Penetrating Radar and Artificial Intelligence," led by [Movements Inc.](https://www.movements.kr/) and funded by [Ministry of SMEs and Startups (MSS)](https://www.mss.go.kr/site/eng/main.do) (Jan 2024 -- Dec 2026, 1,140 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/), Prof. [Youjin Shin](https://adslab0.github.io/), Prof. [Keunsoo Ko](https://imlab-cuk.github.io/), and their teams.
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.movements.kr/"><img align="center" src="/images/Movements_Logo.png" style="width : 330px; margin : 10px"></a><a href="https://www.mss.go.kr/site/eng/main.do"><img align="center" src="/images/MSS_Logo.jpg" style="width : 120px; margin : 10px"></a></p>
+
+***
+##### Nov 28th, 2023
+{:.no_toc}
+
+<p align="center"><img width="700" src="/images/231128.jpg"></p>
+
+***
+##### Nov 16th, 2023
+{:.no_toc}
+
+<p align="center"><img width="700" src="/images/231116_1.jpg"></p>
+
+<p align="center"><img width="700" src="/images/231116_2.jpg"></p>
+
+***
+##### Nov 3rd, 2023
+{:.no_toc}
+
+* The research collaboration between NS@CUK and BU@PKNU on acoustic signal analysis with deep learning has been presented as two posters at [ACK 2023](https://www.manuscriptlink.com/society/kips/conference/ack2023).
+  * Daehun Kim, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: Development of an Automatic Monitoring System for Ultrasound Signals Using Artificial Intelligence and Convolutional Neural Networks. [The 2023 Annual Conference of Korea Information Processing Society](https://www.manuscriptlink.com/society/kips/conference/ack2023), Busan, Korea; 11/2023 ([Poster](https://drive.google.com/file/d/1UmF5wgWtroScELO2_vaKRavFpiiDnnWx/view?usp=sharing); in Korean)
+  * So Yeon Moon, Hyeon-Ju Jeon, Yeongho Sung, Min-Seo Kim, Daehun Kim, Jaeyeop Choi, Junghwan Oh, O-Joun Lee, Hae Gyun Lim: Dual-mode diagnosis system for water quality and corrosion in pipe using convolutional neural networks (CNN) and ultrasound. [The 2023 Annual Conference of Korea Information Processing Society](https://www.manuscriptlink.com/society/kips/conference/ack2023), Busan, Korea; 11/2023 ([Poster](https://drive.google.com/file/d/1mLOJuRBatRkGGWKFN6u3U6bz-WMg9nWL/view?usp=sharing); in Korean)
+
+<p align="center"><img width="700" src="/images/ACK2023_poster_DK.webp"></p>
+
+<p align="center"><img width="700" src="/images/ACK2023_poster_SM.webp"></p>
+
+***
+##### Sep 26th, 2023
+{:.no_toc}
+
+<p align="center"><img width="700" src="/images/230926.jpg"></p>
+
+***
+##### Sep 22nd, 2023
+{:.no_toc}
+
+* We started participating in a commissioned research project on "A study on the application and use of generative AI to support the process of the prosecution," funded by [Supreme Prosecutors' Office of the Republic of Korea](https://www.spo.go.kr/site/eng/main.do) (Oct 2023 -- Dec 2023, 80 Mil KRW), by cooperating with Prof. [Youjin Shin](https://adslab0.github.io/), Prof. [Kang-Min Kim](https://kangmin89.com/), and their teams. <br>
+[![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.sedaily.com/NewsView/2D5DCAWDPN)
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="http://www.orderqueen.co.kr/"><img align="center" src="/images/Prosecution_Logo.png" style="width : 120px; margin : 10px"></a></p>
 
 ***
 ##### Sep 5th, 2023
 {:.no_toc}
 
 * The research collaboration between NS@CUK and BU@PKNU on cell property analysis with deep learning has been presented as two posters at [IEEE IUS 2023](https://2023.ieee-ius.org/).
-  * Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: Blood Glucose Classification Using high-Frequency Ultrasound and Artificial Intelligence. The 2023 IEEE International Ultrasonics Symposium (IEEE IUS 2023), Montreal, Canada; 09/2023 (Poster)
-  * Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee, Hae Gyun Lim: Classification of Red Blood Cells for the Diagnosis of dysnatremia Based on Ultrasound and Convolutional Neural Networks. The 2023 IEEE International Ultrasonics Symposium (IEEE IUS 2023), Montreal, Canada; 09/2023 (Poster)
+  * Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: Blood Glucose Classification Using high-Frequency Ultrasound and Artificial Intelligence. The 2023 IEEE International Ultrasonics Symposium (IEEE IUS 2023), Montreal, Canada; 09/2023 ([Poster](https://drive.google.com/file/d/1GUoRZhbhRHc8hNTWGhlYDD_Re6mNVPwt/view?usp=sharing))
+  * Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee, Hae Gyun Lim: Classification of Red Blood Cells for the Diagnosis of dysnatremia Based on Ultrasound and Convolutional Neural Networks. The 2023 IEEE International Ultrasonics Symposium (IEEE IUS 2023), Montreal, Canada; 09/2023 ([Poster](https://drive.google.com/file/d/1SlepM15zrz8L5jP0Z96vSluohlZS8Fgr/view?usp=sharing))
+
+<p align="center"><img width="700" src="/images/IUS2023_Poster_JL.webp"></p>
+
+<p align="center"><img width="700" src="/images/IUS2023_poster_JN.webp"></p>
+
+***
+##### Sep 1st, 2023
+{:.no_toc}
+
+<p align="center"><img width="700" src="/images/230901.jpg"></p>
+
+***
+##### Aug 29th, 2023 -- Dec 5th, 2023
+{:.no_toc}
+
+* NS Lab@CUK organizes [the 2023 Fall CUK Artificial Intelligence Seminar Series (2023년 가을 가톨릭대학교 인공지능 세미나)](https://nslab-cuk.github.io/2023/08/06/Seminar/) with the Department of AI. This seminar series consists of 13 invited talks given by experts from both the corporate world and research institutions and is scheduled to take place over a period of 15 weeks, from August 29th, 2023, to December 5th, 2023. 
+
+<p align="center"><img width="700" src="/images/230906.jpg"></p>
+
+<p align="center"><img width="700" src="/images/230912.jpg"></p>
+
+<p align="center"><img width="700" src="/images/2023-2-Seminar-Poster.webp"></p>
+
+***
+##### Aug 22nd, 2023
+{:.no_toc}
+
+* NS Lab@CUK and the [Advanced Institute of Convergence Technology (AICT; 차세대융합기술연구원)](https://aict.snu.ac.kr/eng/) have successfully organized a joint seminar ([The 2023 CUK-AICT Joint Seminar on Artificial Intelligence; 2023년 가톨릭대학교-차세대융합기술연구원 공동 인공지능 세미나](https://nslab-cuk.github.io/2023/08/08/Seminar/)) focusing on various application areas of artificial intelligence.
+
+<p align="center"><img width="700" src="/images/230822.jpg"></p>
 
 ***
 ##### Aug 6th, 2023 -- Aug 10th, 2023
@@ -129,6 +269,12 @@ description: Archive of events, memories and achievements of the Network Science
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://cukai.catholic.ac.kr/cukai/index.html"><img align="center" src="/images/AI_Logo.png" style="width : 100px; margin : 15px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a></p>
 
 ***
+##### Jun 12th, 2023
+{:.no_toc}
+
+<p align="center"><img width="700" src="/images/230612.jpg"></p>
+
+***
 ##### Jun 1st, 2023
 {:.no_toc}
 
@@ -144,7 +290,8 @@ description: Archive of events, memories and achievements of the Network Science
 <p align="center"><img width="700" src="/images/ASK2023_poster_DK.webp"></p>
 <br>
 
-* We started participating in a commissioned research project on "Analysis of Redundancies and Conflicts in Construction Standards," funded by [Korea Institute of Civil Engineering and Building Technology (KICT)](https://www.kict.re.kr/eng/) (Jun 2023 -- Nov 2023, 90 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/), Prof. [Youjin Shin](https://adslab0.github.io/), and their teams.
+* We started participating in a commissioned research project on "Analysis of Redundancies and Conflicts in Construction Standards," funded by [Korea Institute of Civil Engineering and Building Technology (KICT)](https://www.kict.re.kr/eng/) (Jun 2023 -- Nov 2023, 90 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/), Prof. [Youjin Shin](https://adslab0.github.io/), and their teams. <br>
+[![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.yna.co.kr/view/AKR20230822132800003?input=1195m)
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="http://www.orderqueen.co.kr/"><img align="center" src="/images/KICT_Logo.png" style="width : 150px; margin : 10px"></a></p>
 
@@ -238,7 +385,7 @@ description: Archive of events, memories and achievements of the Network Science
   * [Program Book](https://drive.google.com/file/d/1RYbhMluqNwhuJqFwnwn0CHvQ4I4QB2aH/view?usp=sharing)
   * [Photos](https://photos.app.goo.gl/hbksdgFimLMEBFLU8)
 
-<p align="center"><img width="700" src="/images/Colloquium2022.jpg"></p>
+<p align="center"><img width="700" src="/images/Colloquium2022.webp"></p>
 
 <p align="center"><img width="700" src="/images/Colloquium2022_Group.jpg"></p>
 

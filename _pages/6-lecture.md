@@ -14,6 +14,54 @@ toc_label: "Table of Contents"
 {:toc}
 
 ***
+### Spring 2024
+
+***
+* Advanced Artificial Intelligence (Graduate Course)
+  * Instructor: O-Joun Lee
+
+* 06837-01 Graph Mining
+  * Instructor: O-Joun Lee
+  * TA: [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90), [Tien-Bach-Thanh Do](https://nslab-cuk.github.io/member/thanhdo19730), and [Huy Quang Tran](https://nslab-cuk.github.io/member/huy)
+  * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Mining-Spring-2024)
+
+* 06535-01 Career exploration of Artificial Intelligence (Joint Lecture)
+  * Instructor: Faculty members of Dept. of AI
+
+* 06480-01 Capstone Design for Artificial Intelligence I (Joint Lecture)
+  * Instructor: Faculty members of Dept. of AI
+
+* 06847-01 Undergraduate Research I (Joint Lecture)
+  * Instructor: Faculty members of Dept. of AI
+
+* 06483-01 to 06487-01 	Internship Program for Artificial Intelligence 1 to 5 (Joint Lecture)
+  * Instructor: Faculty members of Dept. of AI
+
+* 54366-01 Academic Writing and Research Ethics (Graduate Course)
+  * Instructor: Eun-Soon You
+
+* 07085-01 Introduction to Digital Humanities
+  * Instructor: Eun-Soon You
+
+* 06298-01 Living with AI
+  * Instructor: Eun-Soon You
+
+***
+### Winter 2023
+
+***
+* [Winter School on Digital Humanities](https://nslab-cuk.github.io/2023/11/22/WS/) (Special Course)
+  * Instructor: Eun-Soon You
+  * TA: [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim)
+
+* [Winter School on Ethics of AI and Robots](https://nslab-cuk.github.io/2023/11/21/WS/) (Special Course)
+  * Instructor: Eun-Soon You
+  * TA: [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim)
+
+* 06483-01 to 06484-01 	Internship Program for Artificial Intelligence 1 to 2 (Joint Lecture)
+  * Instructor: Faculty members of Dept. of AI
+
+***
 ### Fall 2023
 
 ***

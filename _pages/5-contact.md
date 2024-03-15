@@ -44,6 +44,15 @@ If you are interested in joining our team, we encourage you to contact us. Pleas
 
 [![E-mail](https://img.shields.io/badge/Director-ojlee@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:ojlee@catholic.ac.kr)
 
+Recommended skills for the applicants are as follows;
+
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=FFFFFF)](https://pytorch.org/) 
+[![PyG](https://img.shields.io/badge/PyG-3C2179?style=flat-square&logo=PyG&logoColor=FFFFFF)](https://pytorch-geometric.readthedocs.io/en/latest/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=FFFFFF)](https://pandas.pydata.org/) 
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=FFFFFF)](https://numpy.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF)](https://www.python.org/)
+[![neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=FFFFFF)](https://neo4j.com/)
+
 ***
 ### Addresses
 
@@ -74,7 +83,11 @@ If you are interested in joining our team, we encourage you to contact us. Pleas
 * ![phone](https://custom-icon-badges.demolab.com/badge/Fax-%2B82%E2%80%932%E2%80%932164%E2%80%935522-0C2E86.svg?style=flat-square&logo=phone&logoColor=FFFFFF)
 
 ***
-### Websites
+### Related On-Campus Organizations
+
+네트워크과학연구실은 가톨릭대학교 일반대학원 인공지능학과에서 운영되고 있습니다. 본 학과는 인공지능학과, 데이터사이언스학과, 바이오메디컬소프트웨어공학과에서 학부과정 학업을 마친 이들에게 대학원 교육을 제공하기 위해 설립되었습니다. 본 학과는 인공지능의 기반 이론, 방법론, 모델부터 의생명공학 및 산업공학 등의 분야에서의 실제 어플리케이션에 이르기까지 다양한 인공지능 연구 분야를 심도 있게 탐구합니다. 우리는 인공지능 분야 연구에 중점을 두면서도 다양한 배경과 국적을 가진 지원자들에게 열려 있습니다. 본 학과의 모든 과정은 영어로 진행되며, 다양한 전문 지식을 갖춘 학생들이 각자의 전공 분야를 AI 모델과 애플리케이션에 적용하고 상호 교류할 수 있도록 지원합니다.
+
+The Network Science Lab operates under The Department of Artificial Intelligence at The Graduate School of The Catholic University of Korea. This department was established to offer postgraduate education to those who completed their studies in the Department of Artificial Intelligence, Data Science, and Biomedical Software Engineering. Our department delves deeply into a multitude of AI research areas, ranging from core theories, methodologies, and AI models to their tangible applications in domains like biomedical and industrial engineering. While our primary focus is on AI studies, we wholeheartedly welcome applicants of varied backgrounds and nationalities. All courses within our department are taught in English. We champion students with a diverse range of expertise to integrate their specialized knowledge into AI models and applications, and reciprocally.
 
 <p align="center"><a href="https://cukai.catholic.ac.kr/cukai/index.html"><img align="center" src="/images/AI_Logo.png" style="width : 200px; margin : 15px"></a><a href="https://cukadmin.catholic.ac.kr/datascience/index.html"><img align="center" src="/images/DS_Logo.png" style="width : 200px; margin : 15px"></a><a href="https://cukadmin.catholic.ac.kr/bmsw/index.html"><img align="center" src="/images/BMSW_Logo.png" style="width : 200px; margin : 15px"></a></p>
 
@@ -83,6 +96,7 @@ If you are interested in joining our team, we encourage you to contact us. Pleas
 * [![Website](https://img.shields.io/badge/-The%20CUK%20Journal-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](http://www.cukjournal.com/)
 * [![Website](https://img.shields.io/badge/-The%20CUK%20Portal-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://uportal.catholic.ac.kr/)
 * [![Website](https://img.shields.io/badge/-The%20CUK%20Cyber%20Campus-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://e-cyber.catholic.ac.kr/)
+* [![Website](https://img.shields.io/badge/-AIM%20(Student%20Academic%20Society)-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://cuk-aim.github.io/)
 
 ***
 

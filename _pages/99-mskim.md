@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Jooho Lee"
-permalink: /member/skmin
+title: "Min Seo Kim"
+permalink: /member/mskim
 image: 
 ---
 
